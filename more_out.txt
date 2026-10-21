@@ -1,0 +1,46 @@
+us_missing: 1437 to try
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+100 Failed downloads:
+['ACIU', 'CCSI', 'ACGL', 'BTLN', 'ABNB', 'ABUS', 'BDCI', 'BBNX', 'BTOC', 'AACP', 'CDZIP', 'BID', 'ABAT', 'ABOS', 'CELC', 'BTBT', 'AGIO', 'ALNT', 'ACIC', 'ALTI', 'AACI', 'BILI', 'BTCT', 'AACO', 'BCML', 'AIDX', 'BFRI', 'AAON', 'AAME', 'AMAN', 'BDAI', 'BDSX', 'ACET', 'AIAI', 'ABLV', 'AIIO', 'CDNA', 'BWEN', 'BHAV', 'ALT', 'ABTC', 'BELFB', 'ACCV', 'BANL', 'ALXO', 'AGYS', 'BUUU', 'BWFG', 'ALOY', 'AACG', 'BBCIW', 'CCCT', 'ALZN', 'ACOG', 'BSVN', 'BIDU', 'AIMDW', 'AAOI', 'BETR', 'CENTA', 'ACFN', 'ALP', 'BCG', 'CDTG', 'BAOS', 'AHMA', 'AMPL', 'CCLD', 'BVC', 'ABEO', 'CCG', 'ALM', 'AMBR', 'AAPL', 'BEAT', 'AAL', 'ABCL', 'AMAC', 'CEPV', 'BFRIW', 'AARD', 'BEAM', 'BULL', 'ABVC', 'AHG', 'ALNY', 'BBCI', 'BTQ', 'ALMS', 'BANR', 'AGCC', 'BWIN', 'BELFA', 'CDRO', 'BTCS', 'ARTV', 'ACON', 'CCXIW', 'AFYA', 'BANF']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+100/1437 tried, 0 found
+200/1437 tried, 93 found
+300/1437 tried, 181 found
+400/1437 tried, 276 found
+500/1437 tried, 371 found
+600/1437 tried, 468 found
+700/1437 tried, 561 found
+
+87 Failed downloads:
+['AIIA-U', 'AAC-U', 'VNET', 'ALUB', 'YI', 'WRD', 'XELB', 'WCT', 'WYNN', 'VNOM', 'XRX', 'YORW', 'AGCO', 'XELLL', 'XMTR', 'AIB', 'WW', 'XBP', 'WORX', 'ACA', 'YICCW', 'XRTX', 'ACHR', 'XERS', 'XTIA', 'ACEL', 'XHLD', 'ACH', 'ALUB-U', 'XRAY', 'AAP', 'WCCB', 'ZEO', 'ABEV', 'XXII', 'ACCO', 'WYHG', 'YSWY', 'AAC-W', 'WSFS', 'XBIO', 'YSXT', 'WSC', 'YICCU', 'ACR', 'XNCR', 'YDESW', 'XFOR', 'YICC', 'WRAP', 'AADX', 'YDKG', 'XSLL', 'XAIR', 'YHC', 'AIIA-R', 'WDC', 'XTER', 'YXT', 'XE', 'VNME', 'WSBK', 'ALSN', 'XRXDW', 'ABCB', 'AHRT', 'YAAS', 'YQ', 'XEL', 'WDAY', 'Z', 'AAUC', 'XIII', 'ALLY', 'AA', 'YDDL', 'XGN', 'ABG', 'ABX', 'YTRA', 'XRPNW', 'YOUL', 'AIIA', 'YFOR', 'VNCE', 'XP', 'VNDA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+800/1437 tried, 574 found
+
+89 Failed downloads:
+['BBAI-W', 'COPR-W', 'CCI', 'BWIV-U', 'COPL-W', 'BW', 'BBWI', 'CCM', 'CDP', 'CET', 'BIII-U', 'CELG-R', 'CPF', 'AMBQ', 'COSO', 'BTO', 'BFLY', 'CPAC', 'BAM', 'BDN', 'CLBR-W', 'BCSS-W', 'CF', 'BEBE-U', 'BGSI', 'ALUB-W', 'CLVT', 'BWIV-W', 'CLS', 'BBAR', 'ALX', 'BEKE', 'BCE', 'AROC', 'BH-A', 'BHVN', 'CIMO', 'BIII', 'BCSS-U', 'BALL', 'AMRZ', 'CPHI', 'CLM', 'CITR', 'BDX', 'CMCL', 'COPL-U', 'BEBE-W', 'BESS-W', 'CLBR-U', 'D', 'CLB', 'AMPY', 'CCK', 'BAK', 'BST', 'BDL', 'AMN', 'BBD', 'CCEL', 'CLH', 'BIII-W', 'BFS', 'BTU', 'BV', 'BBW', 'ARLO', 'BDC', 'CFND', 'BGB', 'CHT', 'AMPX-W', 'CMC', 'BALY', 'BFAM', 'BBY', 'ARMK', 'CDRE', 'BG', 'CPAY', 'BURL', 'CECO', 'CLW', 'CHOW', 'BCSF', 'BCAT', 'ALV', 'CLF', 'CM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+900/1437 tried, 585 found
+
+93 Failed downloads:
+['ETSS-U', 'GDDY', 'ETSS', 'FEDU', 'GGZ', 'FC', 'GBAB', 'DNOW', 'DOCS', 'GDOT', 'DGAC-R', 'FNV', 'FTHY', 'GAM', 'GFL', 'DINO', 'GCTS-W', 'FTW-W', 'FTRA-W', 'ERH', 'GHG', 'GCV', 'DLX', 'EQNR', 'GDO', 'GHC', 'GEO', 'GIB', 'DNP', 'EVAC-U', 'GENI', 'DAO', 'FTW', 'DOUG', 'DD', 'GEF-B', 'FLNG', 'FVR', 'ETX', 'GGG', 'ESE', 'ETW', 'FCBM', 'FLYX-W', 'DGAC-U', 'FTS', 'EQH', 'FUBO', 'ES', 'DLB', 'EVEX', 'GAU', 'GCTS', 'GAB', 'FCRS-W', 'FRA', 'EONR-W', 'FTK', 'ENR', 'G', 'EPM', 'FCX', 'DK', 'ETO', 'DMC', 'DOC', 'GATX', 'FTRA-U', 'EVC', 'DG', 'EVAC-W', 'EONR', 'EVAC', 'ETSS-W', 'FVRR', 'FCRS-U', 'ETG', 'ELPC', 'DHX', 'EVEX-W', 'DDC', 'EPRT', 'GCO', 'GD', 'FCN', 'DBL', 'EQBK', 'FOF', 'GJH', 'ERO', 'DUKU', 'DSX-W', 'GE']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1000/1437 tried, 592 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+96 Failed downloads:
+['INFQ-W', 'KRSP-U', 'KCA-U', 'KBDC', 'GLV', 'KEY', 'GLU', 'HYAC-U', 'KNTK', 'IR', 'KRSP-W', 'KREF', 'KNX', 'KAPA', 'IRAB-U', 'IBO', 'IBM', 'IAUX-W', 'GLQ', 'GROY-W', 'KLC', 'KEYS', 'JCI', 'KMT', 'GLED-R', 'JAGU', 'HYI', 'IAUX', 'GL', 'JACS-U', 'GMRS', 'JEF', 'KKRT', 'KPET-U', 'JBI', 'KEN', 'KOS', 'GOTU', 'GLP', 'GLO', 'KODK', 'JACS-R', 'GTE', 'JBGS', 'JENA-U', 'ITRG', 'GLED-U', 'KMPR', 'IVR', 'IRAB-W', 'KRO', 'KN', 'GOF', 'GLDG', 'IX', 'KNRX', 'JBL', 'HAWK', 'IRM', 'GME-W', 'KEP', 'KLAR', 'JOBY', 'KNF', 'JELD', 'HUBS', 'JPM', 'KPET', 'KFRC', 'IBN', 'KPET-W', 'KGC', 'KRP', 'KSS', 'KKR', 'ITP', 'IAF', 'IRT', 'IVAI', 'IOT', 'KMPB', 'KNOP', 'GPJA', 'KMX', 'KOP', 'IVT', 'JENA-R', 'GKOS', 'KCAC-W', 'KAI', 'KRC', 'KKRS', 'GLOB', 'KCAC-U', 'KRG', 'KHC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1100/1437 tried, 596 found
+
+91 Failed downloads:
+['MTAL-U', 'NVA-W', 'MZYX-W', 'MZYX-U', 'NTB', 'O', 'NUS', 'NBXG', 'NATL', 'NPK', 'LND', 'NPB', 'KWY', 'NIC', 'NCDL', 'MYN', 'LEGO-U', 'OCAC-R', 'NE', 'LOW', 'LEGO-W', 'LTM', 'MTAL', 'NAZ', 'M', 'MTH', 'KT', 'MSGS', 'OCAC-U', 'NXDT', 'OCAC-W', 'MTNB', 'MSGK-V', 'LEN-B', 'KWR', 'LEO', 'LZM-W', 'NAK', 'NPWR-W', 'KVUE', 'NSTR-W', 'LEGO', 'MTNE-W', 'NIQ', 'LPG', 'NG', 'MUFG', 'NWAX-W', 'NWAX-U', 'NCV', 'LAR', 'LSF', 'MTNE-U', 'MTAL-W', 'LAW', 'NGVT', 'NCZ', 'NRGV', 'OEC', 'L', 'MTR', 'NBB', 'LBRT', 'LUCK', 'NAD', 'LEVI', 'OGCP', 'NTIP', 'OGEN', 'NE-W', 'NFGC', 'LVWR-W', 'NMM', 'MSGR-V', 'NEWP', 'MSGE', 'OGC', 'NMAI', 'LCTX', 'NEM', 'NE-A', 'LCII', 'LDOS', 'NCLH', 'NPKI', 'LVS', 'LUD', 'NMAX', 'NHI', 'NRUC', 'LANV']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1200/1437 tried, 605 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+96 Failed downloads:
+['SAGU-U', 'PL', 'SAMO', 'PEW', 'SAMO-W', 'PRH', 'PLUN-U', 'P', 'SAGU-R', 'PRK', 'PLOW', 'OTAI-U', 'SAMO-U', 'OUT', 'PBA', 'PUMP', 'PNNT', 'PGR', 'OLN', 'PCG', 'PRLB', 'PNAQ-U', 'OSCR', 'PNI', 'PSFE', 'PSBD', 'R', 'PMT', 'PLX', 'PAY', 'QRED-R', 'PNAQ-R', 'ONT', 'PORT-U', 'PAR', 'PRKS', 'PKG', 'QLEP-W', 'PEW-W', 'OZ', 'QRED-U', 'PSUS', 'PACK', 'PPLC', 'OPHC', 'SAGU-W', 'PARR', 'RAC-W', 'SAC-W', 'OPTT', 'OIA', 'PLUN-R', 'QLEP', 'SAC-U', 'PNW', 'OWL', 'PAC', 'PPG', 'RAC', 'PSQH-W', 'PRG', 'PAII-W', 'PNC', 'PSF', 'RAC-U', 'QUAD', 'PML', 'SAR', 'PYT', 'ORI', 'PAII-U', 'PAM', 'OXY-W', 'OKE', 'PRIM', 'PLAG', 'OTAI-R', 'PHIN', 'OR', 'QNC', 'PSX', 'OPP', 'ORC', 'QTWO', 'PSTL', 'PRM', 'OMF', 'SAJ', 'OSG', 'PPL', 'PRS', 'POST', 'OWLT', 'RYZ', 'PSO', 'PBI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1300/1437 tried, 609 found
+
+98 Failed downloads:
+['UAC-W', 'TRAD-U', 'TPB', 'SMFG', 'VIST', 'SOC', 'VII-U', 'SKE', 'SKYD-W', 'VAL-W', 'SAY', 'VEEV', 'VECA-R', 'TWLO', 'TMDE', 'VII', 'SPHR', 'TPC', 'TOPS', 'TGE-W', 'SKYD', 'WENC', 'VIV', 'VMO', 'VII-W', 'TONT-U', 'SKM', 'VET', 'UAC-U', 'SLI', 'TY', 'SBXE-U', 'SKYH-W', 'SLSR', 'SLQT', 'SB', 'SNX', 'VIA', 'SBS', 'TLYS', 'VKQ', 'UZD', 'VCX', 'U', 'WDH', 'TONT-W', 'VEL', 'VJET', 'SOBO', 'SOJE', 'WDI', 'TXO', 'SARO', 'SMJF', 'TRAD-R', 'SLND-W', 'TYL', 'UDR', 'SLVM', 'SLND', 'VATE', 'SNDA', 'SOUL-U', 'VECA', 'V', 'TOON', 'WEAV', 'SAX', 'UAN', 'SJM', 'VIRT', 'TM', 'VCV', 'SCCD', 'SBXE-W', 'SBSW', 'TWN', 'SMWB', 'VGNT', 'SMP', 'VG', 'TNET', 'WEC', 'VHI', 'SNAP', 'VECA-U', 'SBH', 'UAC', 'TBN', 'VGM', 'VENU', 'WENC-R', 'SNA', 'VBF', 'TPVG', 'SOUL-R', 'VLTO', 'VLO']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1400/1437 tried, 611 found
+
+31 Failed downloads:
+['YCY-U', 'YEXT', 'XTND', 'YCY-W', 'WRB', 'XPO', 'WENC-U', 'XFLT', 'WTM', 'XFLH-U', 'WTI', 'YOU', 'WU', 'XFLH-R', 'WTS', 'WTRG', 'WT', 'WSO', 'WRN', 'XIFR', 'YCY', 'WPAC-U', 'ZBH', 'XPER', 'WTTR', 'YPF', 'WYY', 'XPEV', 'XHR', 'WPAC-R', 'XYL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1437/1437 tried, 617 found

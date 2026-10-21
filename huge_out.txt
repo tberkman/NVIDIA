@@ -1,0 +1,718 @@
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+150 Failed downloads:
+['AAT', 'ACAA', 'ACCL', 'AEYE', 'ADP', 'AEG', 'ACP', 'ACU', 'ACHV', 'AEM', 'ADUR', 'ABVX', 'ABT', 'ADPT', 'ACNT', 'ADC', 'AEO', 'ACOG', 'ACNB', 'ABBV', 'AAPL', 'AERT', 'ACV', 'AARD', 'AFRIW', 'AAL', 'ABEO', 'ABVC', 'AEHL', 'AEVA', 'ADT', 'AFGC', 'ACDC', 'ACM', 'ACIW', 'AEFC', 'ACTU', 'ADSE', 'AACG', 'ACGC', 'AEON', 'ACMR', 'ADRX', 'AFG', 'ADAM', 'AFGD', 'ACAD', 'A', 'AAC-U', 'AERO', 'AEC', 'ACIU', 'ABXL', 'ADAC', 'AEBI', 'AAME', 'ABUS', 'AAOI', 'ACA', 'AER', 'AFRI', 'ADEA', 'ABCL', 'AADX', 'ADV', 'ABR', 'AAC-W', 'ACN', 'AESI', 'AEF', 'AEIS', 'ACRS', 'AEXA', 'ADXN', 'AFGB', 'ABNB', 'AAPG', 'ADCT', 'ADNT', 'ADIG', 'AEAQ', 'AA', 'AFJK', 'AESP', 'AB', 'ABTC', 'AENTW', 'AD', 'ADMA', 'AEP', 'AACI', 'ACCV', 'ACEL', 'ACTG', 'ABX', 'ADSK', 'ACCO', 'ABOS', 'AAUC', 'ACIC', 'ACGL', 'AFRM', 'AEMD', 'AACO', 'AFCG', 'ACRV', 'ACB', 'ABM', 'ABSI', 'AFL', 'AAMI', 'AEI', 'ACCS', 'ACT', 'AAC', 'ADVB', 'ADIL', 'ADAG', 'ACRE', 'AEE', 'AENT', 'ACH', 'ACHC', 'AFGE', 'ACI', 'ABTS', 'ADI', 'ABG', 'ACHR', 'ACLS', 'ADBE', 'ACFN', 'ADM', 'ACR', 'ABAT', 'ADGM', 'AACP', 'ABLV', 'ADTN', 'AAON', 'ACET', 'AAP', 'AEHR', 'ADBT', 'ABCB', 'ACXP', 'ABEV', 'ACON', 'AES', 'ADUS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6253 symbols in universe
+round 1: 150/6253 (have 0)
+
+143 Failed downloads:
+['AIIA-U', 'AIIR', 'AIZN', 'AMCX', 'ALDF', 'AIG', 'ALCO', 'ALRM', 'ALVO', 'ALGT', 'AMCR', 'AHRT', 'ALIT', 'AIZ', 'AMBA', 'ALDX', 'AGMB', 'AIP', 'ALGS', 'ALXO', 'AGCC', 'AIIO', 'ALM', 'AISP', 'AGRO', 'AGPU', 'ALSN', 'AG', 'AKAM', 'ALV', 'AGM', 'AIT', 'AIRG', 'ALOVW', 'AIMD', 'ALEC', 'AGIG', 'AKTX', 'AI', 'ALPS', 'AGNC', 'AIRS', 'ALH', 'AKTS', 'AII', 'ALAB', 'AGBK', 'AMBO', 'AMAT', 'AKBA', 'AIRI', 'AJG', 'AIIA-R', 'ALMU', 'AIRO', 'AIM', 'ALLR', 'AKAN', 'ALOY', 'ALG', 'AHMA', 'ALZN', 'AGIO', 'ALB', 'ALX', 'AKA', 'ALDFW', 'ALLE', 'AIIA', 'AMC', 'AHG', 'AISPW', 'ALF', 'AM', 'ALOVU', 'AIFA', 'AMBP', 'AHR', 'AHT', 'AIFF', 'ALUB-U', 'AGM-A', 'AIBZ', 'ALOV', 'ALK', 'AGL', 'ALTG', 'ALMS', 'AGX', 'AIOS', 'ALHC', 'ALIS', 'AIO', 'ALLY', 'AGCO', 'AMBR', 'AGYS', 'AIN', 'AKO-B', 'ALDFU', 'ALP', 'AIXI', 'AMAN', 'AFYA', 'ALT', 'AIFU', 'ALUB-W', 'AIB', 'AMBQ', 'AIRT', 'AIOK', 'ALNY', 'AMAL', 'ALRS', 'AHCO', 'ALGM', 'ALLT', 'ALTO', 'AKO-A', 'AGEN', 'AGD', 'ALLO', 'AIRJ', 'AIFC', 'AGMH', 'AMCI', 'AGO', 'AIV', 'ALKT', 'AIAI', 'AMAC', 'ALKS', 'ALTI', 'AIMDW', 'AKR', 'AIRE', 'ALL', 'AGI', 'ALUB', 'ALC', 'ALNT', 'AIR', 'AIDX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 300/6253 (have 7)
+
+126 Failed downloads:
+['AMPX-W', 'ARBE', 'ARTV', 'AOS', 'ANNX', 'ARKO', 'AMRZ', 'ANNA', 'ARLO', 'ARKR', 'AR', 'AOMD', 'AMR', 'ANF', 'ARDX', 'AMPH', 'ARDT', 'APUR', 'APG', 'ANRO', 'ARW', 'APMC', 'ANAB', 'AMRC', 'AME', 'ARVN', 'APXTW', 'APP', 'AQNB', 'APLE', 'AROW', 'AORT', 'ARGX', 'ARI', 'ARTL', 'APXT', 'ANET', 'APVO', 'AMGN', 'AMPL', 'AOD', 'APA', 'APPS', 'APURR', 'ANGX', 'ARCI', 'AMWL', 'ARBB', 'AN', 'APXTU', 'ARCL', 'ARMK', 'AMPY', 'ANTX', 'ARAI', 'ARR', 'ANDG', 'APEI', 'ARBK', 'APPN', 'ARRY', 'AMRN', 'ARES', 'AREC', 'AMSC', 'ANGO', 'APRE', 'AOSL', 'AQN', 'ANIP', 'ARTC', 'AMSS', 'APOS', 'AMD', 'AMST', 'AMPX', 'ARWR', 'ARTNA', 'AMN', 'APLD', 'ARCT', 'AON', 'ANIK', 'APAM', 'ANGHW', 'ANPA', 'AMOD', 'ARLP', 'AOMN', 'AMRO', 'APC', 'ARTW', 'AQMS', 'ARCB', 'ARAY', 'AMIX', 'APAC', 'ANVS', 'AMRX', 'AMT', 'AMP', 'ANTA', 'APH', 'ARE', 'AMTX', 'AP', 'APLM', 'APUS', 'AMPG', 'AMKR', 'AMH', 'AMS', 'APO', 'APTV', 'ARIS', 'AMZN', 'APD', 'ARX', 'AMTM', 'ARDC', 'APMD', 'AQB', 'APT', 'AMTD', 'ANDE', 'AROC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 450/6253 (have 31)
+round 1: 600/6253 (have 181)
+
+135 Failed downloads:
+['BCSS-W', 'BGDE', 'BHE', 'BEPJ', 'BBN', 'BHRB', 'BFRG', 'BENF', 'BCGWW', 'BIDU', 'BEAT', 'BBWI', 'BETR', 'BIII', 'BBW', 'BCG', 'BGX', 'BBCI', 'BHVN', 'BAP', 'BBOT', 'BAK', 'BFST', 'BFC', 'BHFAL', 'BBDC', 'BAX', 'BIAF', 'BBAI-W', 'BCBP', 'BGLC', 'BCS', 'BBT', 'BIII-U', 'BCH', 'BAM', 'BCX', 'BHR', 'BCCQ', 'BHP', 'BIII-W', 'BALY', 'BILI', 'BEBE', 'BCSF', 'BH-A', 'BBY', 'BDSX', 'BCTXL', 'BCHT', 'BCYC', 'BCO', 'BIO', 'BATRA', 'BEBE-U', 'BBSI', 'BGSF', 'BCPC', 'BARK', 'BANC', 'BE', 'BFRGW', 'BEAG', 'BBGI', 'BB', 'BCDA', 'BGSI', 'BAND', 'BBVA', 'BAOS', 'BALL', 'BDX', 'BFRI', 'BBNX', 'BEPI', 'BDAI', 'BF-B', 'BEAM', 'BDCI', 'BG', 'BGC', 'BILL', 'BCAL', 'BCC', 'BIIB', 'BEN', 'BEP', 'BCRX', 'BCTX', 'BHF', 'BDMD', 'BGM', 'BAH', 'BGS', 'BBAI', 'BCSS-U', 'BEEP', 'BGIN', 'BDRX', 'BF-A', 'BATL', 'BCSS', 'BBLG', 'BBUC', 'BC', 'BFAM', 'BFH', 'BHM', 'BBAR', 'BHC', 'BGMS', 'BGH', 'BBD', 'BGB', 'BDC', 'BHAV', 'BCAT', 'BID', 'BESS-W', 'BEKE', 'BFLY', 'BDN', 'BBDO', 'BEBE-W', 'BANR', 'BFS', 'BELFB', 'BBCIW', 'BANF', 'BCE', 'BELFA', 'BCML', 'BDL', 'BFRIW', 'BANL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 750/6253 (have 196)
+round 1: 900/6253 (have 346)
+
+125 Failed downloads:
+['BWIV-W', 'CAPN', 'BVC', 'CBAT', 'BURL', 'BSL', 'CBL', 'CAE', 'BTO', 'BWIV', 'CAAS', 'BUDA', 'CAPS', 'BTE', 'CADL', 'BTTC', 'BTMD', 'CARS', 'CATO', 'BYND', 'BVN', 'CCB', 'CBLL', 'BSY', 'CBRL', 'BSRR', 'BWMN', 'BSTZ', 'CBZ', 'CCAQ', 'CATX', 'BZ', 'BZFD', 'CAAP', 'CBOE', 'BXC', 'BULL', 'BTDR', 'CAII', 'C', 'BWXT', 'CALY', 'CAMP', 'CABR', 'BX', 'BTU', 'CAH', 'BSM', 'BXBL', 'BST', 'CAG', 'CATY', 'BZUN', 'BXMT', 'BTSG', 'CBC', 'CAT', 'CBNK', 'CALM', 'BWA', 'CBNA', 'BWIV-U', 'BVFL', 'CART', 'CBU', 'BXSL', 'BTGO', 'CARE', 'CASS', 'BYSI', 'CC', 'CABA', 'CBIO', 'BWFG', 'CAES', 'CBSH', 'CBT', 'CAQ', 'BWEN', 'BTX', 'CANF', 'BTI', 'CAKE', 'CAI', 'CACC', 'BUUU', 'BTG', 'CAF', 'CARL', 'BY', 'BSX', 'CARG', 'CBRE', 'CANG', 'CALC', 'CBK', 'BXDC', 'CAL', 'CCAP', 'BVS', 'CCBG', 'BWB', 'BTBD', 'CATL', 'BTOC', 'BV', 'BWMX', 'CAR', 'CBUS', 'BWIN', 'CAN', 'CAPL', 'BXP', 'BTQ', 'BSVN', 'BW', 'CAPR', 'BTCT', 'CASY', 'CBAN', 'BTLN', 'CBFV', 'BTCS', 'BYD', 'BTBT']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 1050/6253 (have 371)
+
+73 Failed downloads:
+['CELG-R', 'CDZI', 'CE', 'CHWY', 'CENN', 'CDXS', 'CDW', 'CCXI', 'CHE', 'CGCFW', 'CFND', 'CENTA', 'CCEL', 'CCSI', 'CHMG', 'CI', 'CCM', 'CIGL', 'CIRC', 'CEPV', 'CHOW', 'CDRO', 'CDZIP', 'CCG', 'CDTG', 'CCCT', 'CECO', 'CCLD', 'CDRE', 'CET', 'CCXIW', 'CHAR', 'CGNX', 'CETY', 'CHR', 'CCS', 'CIX', 'CGNT', 'CCCC', 'CCTG', 'CEPO', 'CICC', 'CELU', 'CGEM', 'CIVB', 'CCEP', 'CCXIU', 'CDIO', 'CHMI', 'CD', 'CHEF', 'CCK', 'CHPT', 'CEG', 'CEVA', 'CELH', 'CDLR', 'CHCI', 'CDP', 'CELC', 'CGC', 'CF', 'CHT', 'CGEN', 'CHKP', 'CIIT', 'CDNA', 'CGTX', 'CIFR', 'CFFN', 'CIMO', 'CITR', 'CCI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 1200/6253 (have 448)
+
+139 Failed downloads:
+['CLBR-U', 'COPL-W', 'CLOV', 'CMPX', 'CPA', 'CNI', 'CNSY', 'CMG', 'CNK', 'CMCO', 'CMC', 'CNCKW', 'CNA', 'COLL', 'CNCK', 'CLLS', 'CORZ', 'CMCSA', 'COPR-W', 'CMTL', 'CM', 'CNTX', 'CLH', 'CLW', 'CLSK', 'CNX', 'CODX', 'COCO', 'CLS', 'COLM', 'CLDX', 'CLDT', 'CLB', 'CNC', 'CNTB', 'CPHC', 'COE', 'CNM', 'CLNE', 'CNS', 'CORT', 'CP', 'COPR', 'CLPS', 'CNO', 'COFS', 'CLVT', 'COP', 'CLRB', 'CNL', 'CMND', 'CLM', 'COIN', 'COSO', 'CNDT', 'CLAR', 'CPAY', 'CLYM', 'COLB', 'CMP', 'COMP', 'CMS', 'COYA', 'CKX', 'CLBK', 'CLPR', 'CMI', 'CLRO', 'CNNE', 'COHN', 'CL', 'CON', 'CNQ', 'COTY', 'COUR', 'COO', 'CODA', 'CMT', 'CNXU', 'CNSP', 'CLGN', 'CNTN', 'COST', 'CLBR-W', 'COLD', 'CLIK', 'CME', 'CLWT', 'CNMD', 'CNR', 'CNTY', 'CORZW', 'COHU', 'COKE', 'CPBI', 'CPHI', 'CMDB', 'COR', 'CMTG', 'CMRE', 'CMBT', 'CMSA', 'CNXN', 'CMPS', 'COCP', 'COPL-U', 'CLIR', 'CMCM', 'COOT', 'CORZZ', 'COAG', 'CMSC', 'COPL', 'COF', 'CNOB', 'CNVS', 'CMCL', 'CPAC', 'CLST', 'CLMB', 'CLNN', 'COSM', 'CPF', 'CLF', 'CMPR', 'CODI', 'CLPT', 'CLFD', 'CMCT', 'CLMT', 'CMSD', 'COOK', 'CMMB', 'CNET', 'CMTV', 'COGT', 'CMRC', 'CJMB', 'CNEY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 1350/6253 (have 459)
+round 1: 1500/6253 (have 609)
+
+87 Failed downloads:
+['DGAC-R', 'CYAB', 'DGAC-U', 'DD', 'DFTX', 'DCOY', 'DINO', 'DOC', 'CZNC', 'CYPH', 'DOCN', 'DMC', 'DCGO', 'DEA', 'DLX', 'DH', 'DNP', 'DAN', 'DDC', 'DK', 'DAC', 'DOCS', 'DAVA', 'CXW', 'DNLI', 'DNA', 'CXII', 'DASH', 'DHI', 'DEO', 'CXM', 'DGX', 'DGICA', 'DLY', 'DOGZ', 'DJT', 'DGNX', 'DLTH', 'DDS', 'DLTR', 'DJCO', 'DCO', 'DAVEW', 'DCTH', 'DKI', 'DERM', 'DCM', 'DBL', 'D', 'DFNS', 'DLB', 'DNTH', 'DNOW', 'DAO', 'DG', 'DAR', 'DMRA', 'DHC', 'DHX', 'DKL', 'DFNSW', 'DKS', 'DELL', 'DMAC', 'CYCUW', 'DHT', 'CYTK', 'DAL', 'DFIN', 'DNN', 'DMB', 'CYH', 'DNMXW', 'DMII', 'DMLP', 'CZFS', 'DFDV', 'DLPN', 'DMA', 'DBCA', 'DDOG', 'DBVT', 'DAIO', 'DNMX', 'CYD', 'DLXY', 'DAIC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 1650/6253 (have 672)
+
+53 Failed downloads:
+['DSX-W', 'DOUG', 'EFC', 'DUKU', 'EHGO', 'EGBN', 'DSX', 'ECL', 'ECPG', 'EHC', 'DRVN', 'DORM', 'DTST', 'ECCU', 'ECC', 'DPC', 'DRS', 'EBS', 'DUOT', 'DTIL', 'DTSQ', 'DVN', 'DSY', 'DXLG', 'DSS', 'EE', 'DXPE', 'EBC', 'DTW', 'EBMT', 'ECG', 'EGHA', 'EDD', 'DXCM', 'EGP', 'EFR', 'DTK', 'DPZ', 'EDSA', 'EDRY', 'DOYU', 'DTE', 'DRTS', 'DYORU', 'DSC', 'EFTY', 'DRI', 'DXST', 'DUKB', 'DY', 'DXC', 'DTG', 'EFSC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 1800/6253 (have 769)
+
+107 Failed downloads:
+['EONR-W', 'ENIC', 'ENO', 'ESP', 'EROC', 'ETR', 'ENHA', 'EQ', 'ETV', 'EOG', 'ENLT', 'EU', 'ERIE', 'ELTK', 'ERAS', 'EMR', 'ELLA', 'EIX', 'EQBK', 'ETS', 'ETSS-U', 'EPOW', 'ETX', 'ETSS', 'EQPT', 'EML', 'EQT', 'ESCA', 'ESBA', 'ELPW', 'EPAM', 'EQX', 'EMP', 'EPC', 'ELV', 'ESE', 'ELAN', 'ELME', 'ELAB', 'ENVX', 'ETD', 'EMD', 'EMBC', 'EIM', 'ERH', 'EOCN', 'ELBM', 'ELE', 'EROK', 'EPM', 'EQNR', 'EPRT', 'ETRA', 'ELVR', 'ESYN', 'ENJ', 'ETON', 'EP', 'ELOX', 'EOS', 'ELMT', 'ENSC', 'EOD', 'ETN', 'EMN', 'EQS', 'ENTX', 'EOLS', 'EPD', 'EMF', 'ETSS-W', 'ENOV', 'ENGS', 'ENRD', 'ENLV', 'ENTG', 'ESLA', 'EMIS', 'EONR', 'ETW', 'EIKN', 'ENSG', 'ENGNW', 'ES', 'ELVA', 'ESLT', 'ENVB', 'EURK', 'EMPD', 'EMA', 'ENS', 'EOSE', 'ELMD', 'ELUT', 'ESTA', 'ERNA', 'ENR', 'ERO', 'ETO', 'EPRX', 'ET', 'EIG', 'ETG', 'EQH', 'ETJ', 'ELPC', 'ENRDW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 1950/6253 (have 812)
+$EVRG: possibly delisted; no price data found  (period=2y)
+
+138 Failed downloads:
+['FCRS-U', 'FBIZ', 'FENG', 'FDSB', 'EXE', 'EZPW', 'FERA', 'FIBK', 'FISN', 'EXYN', 'FAC', 'FAMI', 'EXG', 'EXOD', 'EVV', 'EWTX', 'FANG', 'FDMM', 'FDMT', 'FIP', 'FBYD', 'EYE', 'FATN', 'FFIN', 'FEIM', 'FGI', 'FCPT', 'EXEL', 'EVCM', 'EVGN', 'EXC', 'EYPT', 'FIG', 'FAX', 'F', 'FITB', 'FDS', 'FBIN', 'EVOX', 'FCRS', 'EVEX', 'FIS', 'EVEX-W', 'EZGO', 'FBRT', 'FBYDW', 'FFA', 'FBP', 'FCX', 'FGL', 'FBNC', 'FEMY', 'FHI', 'EVLV', 'FISI', 'FCRS-W', 'EVAC-W', 'EVGO', 'FIRY', 'FAF', 'FET', 'FEBO', 'FACT', 'EVMN', 'FDX', 'FCN', 'FE', 'FFR', 'EVI', 'EVAC-U', 'FCBM', 'FDBC', 'FISK', 'FINW', 'FBLA', 'EW', 'FGC', 'EVAC', 'FGN', 'FGSN', 'FIGR', 'EVR', 'FCEL', 'EXP', 'FCBC', 'FHB', 'FBDT', 'FCHL', 'EVTL', 'FIGX', 'EVH', 'EVT', 'FC', 'EVN', 'FELE', 'FCNCA', 'FEAM', 'EVER', 'FBK', 'FIEE', 'EXLS', 'FCFS', 'FICO', 'FFBC', 'FATE', 'FHN', 'EXPE', 'EXFY', 'FHTX', 'FIGS', 'FER', 'FAST', 'EXPO', 'EXOZ', 'EVC', 'EVG', 'FABC', 'EXPD', 'FCAP', 'EXTR', 'FFIV', 'FEDU', 'FFAI', 'FBGL', 'FBLG', 'FG', 'EXK', 'FINS', 'EWBC', 'FENC', 'FISV', 'EVF', 'FGBI', 'FINV', 'EZRA', 'FBIO', 'FGII']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+['EVRG']: possibly delisted; no price data found  (period=2y)
+round 1: 2100/6253 (have 824)
+
+107 Failed downloads:
+['FTRA-U', 'FRBA', 'FUSB', 'FUSE', 'FRD', 'FPS', 'FR', 'FSP', 'FTFT', 'FULC', 'FTNT', 'FRAF', 'FPH', 'FUNC', 'FSTR', 'FLSC', 'FRPT', 'FTH', 'FLOC', 'FIX', 'FNKO', 'FLY', 'FSSL', 'FPI', 'FSK', 'FMC', 'FNGD', 'FRSH', 'FPF', 'FTEK', 'FRHC', 'FVCB', 'FVR', 'FKWL', 'FUBO', 'FRA', 'FOSL', 'FUFU', 'FLYW', 'FRGT', 'FRT', 'FLUT', 'FORTY', 'FVN', 'FRMM', 'FRME', 'FVAV', 'FLX', 'FMNB', 'FT', 'FLNC', 'FLYX', 'FTDR', 'FRMI', 'FURY', 'FTF', 'FOCL', 'FTW-W', 'FOA', 'FRTT', 'FLWS', 'FND', 'FMS', 'FMBH', 'FLO', 'FOXF', 'FIVN', 'FROG', 'FTW', 'FLNT', 'FNV', 'FLNG', 'FNRN', 'FUTU', 'FTS', 'FLYX-W', 'FOFO', 'FNWB', 'FRVO', 'FOXX', 'FOF', 'FTRE', 'FMST', 'FJDI', 'FLC', 'FRBT', 'FSI', 'FRPH', 'FNWD', 'FNB', 'FRSX', 'FTHM', 'FTHY', 'FOIL', 'FNF', 'FOR', 'FLXS', 'FTRA-W', 'FSBC', 'FNUC', 'FLYE', 'FMAC', 'FTCI', 'FSUN', 'FLL', 'FTK', 'FTHA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 2250/6253 (have 867)
+
+141 Failed downloads:
+['GLED-U', 'GIC', 'GIXXU', 'GDL', 'GILT', 'GCT', 'FXAC', 'GGT', 'GLRE', 'GLED', 'GCTS', 'GLUE', 'GENB', 'GIXXR', 'GLND', 'GIII', 'GBLI', 'GIGM', 'GLPI', 'GLP', 'GEO', 'G', 'GKOS', 'GGAL', 'GJH', 'GCGRW', 'GENI', 'GLU', 'GEF-B', 'GLIBA', 'GL', 'GDEV', 'GAU', 'GBX', 'GFF', 'GLV', 'GLED-R', 'GF', 'GCBC', 'GEMI', 'GGR', 'GDC', 'GDS', 'GIFT', 'GCMG', 'GIBO', 'GIWWR', 'GEF', 'GIL', 'GEGGL', 'GFR', 'GCTS-W', 'GLBE', 'GENK', 'GHM', 'GDV', 'GAING', 'GAIA', 'GLQ', 'GCV', 'GGG', 'GECCI', 'GASS', 'GE', 'GIPR', 'GEG', 'GECCH', 'GDO', 'GLOB', 'GFL', 'GD', 'GH', 'GHXI', 'GLBS', 'GCTK', 'GCGR', 'GDTC', 'GCGRU', 'GEV', 'GBR', 'FWRG', 'GANX', 'GIBOW', 'GAP', 'FWRD', 'GBCI', 'GDDY', 'GLOO', 'GLO', 'GCO', 'GDYN', 'GEN', 'GECCG', 'GDOT', 'GHXIU', 'GATX', 'GERN', 'GAUZ', 'GAB', 'GCLWW', 'FXNC', 'GLDG', 'GHC', 'GIXI', 'GAM', 'GITS', 'FWONA', 'GILD', 'GHRS', 'GENC', 'GFI', 'FWAC', 'GLSI', 'GAME', 'GENVR', 'FWDI', 'GIX', 'GEHC', 'GAINZ', 'FWONK', 'GEOS', 'GLIBK', 'GALT', 'GEVO', 'GAINI', 'GFAI', 'FVRR', 'GABC', 'GAIN', 'GHG', 'GELS', 'FXHO', 'GFUZ', 'GIB', 'GDRX', 'GLNG', 'GIW', 'GBAB', 'GBFH', 'GGZ', 'GLE']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 2400/6253 (have 876)
+
+17 Failed downloads:
+['GME-W', 'GROY-W', 'HAWK', 'GYRE', 'GTE', 'HAVA', 'GMHS', 'GSHR', 'GPJA', 'GRML', 'GTLB', 'HACQ', 'GOF', 'HALO', 'GOOGL', 'GOTU', 'GMRS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 2550/6253 (have 1009)
+round 1: 2700/6253 (have 1159)
+
+67 Failed downloads:
+['IAUX-W', 'HYAC-U', 'INBX', 'IMMX', 'IIIN', 'IMNN', 'IEP', 'IDN', 'IAUX', 'IEAG', 'HYI', 'IGIC', 'IBAC', 'IBCP', 'IHRT', 'IMA', 'IDYA', 'IBIO', 'ICUI', 'IIPR', 'IACQ', 'IMDX', 'HWBK', 'HVMCU', 'ICFI', 'IBN', 'IDE', 'IBEX', 'HZO', 'HVMCW', 'IIM', 'III', 'IMO', 'INCR', 'HURN', 'IMCC', 'ILAG', 'HWKN', 'IFN', 'HWCPZ', 'IBO', 'IGC', 'ICLR', 'INEO', 'IMOS', 'ICMB', 'ICON', 'IDCC', 'IBM', 'INBK', 'HYPD', 'INDB', 'ILLU', 'INBS', 'ICCC', 'IAF', 'IGA', 'IMRX', 'IFRX', 'IH', 'HUBS', 'IE', 'IMXI', 'IIIV', 'HURC', 'IBG', 'IMMR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 2850/6253 (have 1242)
+
+110 Failed downloads:
+['IRAB-U', 'IPST', 'JBS', 'IRS', 'INMD', 'IONR', 'IPAR', 'IOR', 'INIO', 'JCSE', 'IZM', 'JBHT', 'INTS', 'INKT', 'IOVA', 'INVX', 'IVVD', 'INHD', 'IRTC', 'IOTR', 'IRT', 'INUV', 'INN', 'JCI', 'INV', 'IQMXW', 'INNV', 'IPVV', 'IVF', 'JBGS', 'IOSP', 'ITGR', 'IPVVU', 'JACS', 'IOT', 'ISBA', 'IQ', 'INSW', 'JBK', 'IPW', 'IRHOR', 'IRD', 'IPM', 'JAKK', 'IPVVW', 'IZEA', 'INM', 'IQMX', 'J', 'INVH', 'JATT', 'ISRG', 'IXHL', 'IOND', 'ITRG', 'JAGU', 'INTR', 'ITP', 'IRHOU', 'IVAI', 'JACS-U', 'IPSC', 'IRM', 'ITRN', 'ITIC', 'ING', 'INO', 'JCE', 'IQST', 'JBIO', 'ITOC', 'ISPC', 'JACS-R', 'JAZZ', 'IPWR', 'IPI', 'IPDN', 'INVA', 'JBI', 'INTT', 'ITRI', 'IRDM', 'ITHA', 'INGM', 'IONQ', 'JACK', 'INTZ', 'IVT', 'IVR', 'IPFX', 'INGR', 'IRAB-W', 'IX', 'INOD', 'INGN', 'IONS', 'JAGX', 'IQI', 'JBLU', 'IPXG', 'INFY', 'IR', 'INTU', 'IRLA', 'IRON', 'JBL', 'INMB', 'ITG', 'INFQ-W', 'INTG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 3000/6253 (have 1282)
+
+148 Failed downloads:
+['KPET-W', 'JHX', 'JZ', 'KGEI', 'KF', 'KIO', 'JFU', 'KMI', 'KODK', 'JRI', 'KEYY', 'KCAC-W', 'KELYB', 'JOYY', 'KELYA', 'JHI', 'KIDZ', 'JJSF', 'KNRX', 'KNTK', 'KMRK', 'KPLT', 'JPM', 'JTAI', 'KAI', 'KPET', 'JELD', 'JRS', 'KKRT', 'JWEL', 'KPET-U', 'KLRA', 'KCHV', 'KMB', 'KD', 'KOSS', 'KIDS', 'KCAC-U', 'KO', 'JKHY', 'JRSH', 'KCA-U', 'KBR', 'JD', 'JGH', 'JEF', 'JXN', 'KHC', 'KNX', 'JG', 'KINS', 'JSPR', 'JNJ', 'KC', 'KKR', 'JYNT', 'JF', 'KLXE', 'JENA-R', 'JHS', 'KGC', 'JONEU', 'KARD', 'KOS', 'JL', 'KAPA', 'KFRC', 'KBSX', 'JVA', 'KOPN', 'JUNS', 'KMX', 'KBH', 'JRVR', 'KEX', 'KNOP', 'KEEL', 'JLHL', 'KPRX', 'KGS', 'JMKE', 'KARO', 'KMPB', 'KEQU', 'KBON', 'JOB', 'KEY', 'JCTC', 'JYD', 'JFIN', 'KLIC', 'JEM', 'KLC', 'KPTI', 'KOD', 'KALA', 'JLL', 'KOYN', 'KKRS', 'KFFB', 'KBONU', 'KDK', 'JONER', 'KLRS', 'JSM', 'KALU', 'JTTT', 'KFY', 'KB', 'KEYS', 'JMSB', 'KNSA', 'KFII', 'JENA', 'JDZG', 'KITT', 'JOUT', 'KLAC', 'JZXN', 'JMIA', 'JFR', 'KIDZW', 'KMTS', 'JKS', 'KNF', 'JOF', 'KMT', 'KEN', 'KDP', 'JXG', 'KE', 'KEP', 'JILL', 'KNSL', 'KBDC', 'KMPR', 'JOE', 'KOP', 'JENA-U', 'KNDI', 'KN', 'KLAR', 'KG', 'KLTR', 'JONE', 'KAZR', 'JOBY', 'KMDA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 3150/6253 (have 1284)
+
+146 Failed downloads:
+['LEGO-W', 'LARK', 'KRAQW', 'KTCC', 'LITB', 'LE', 'LHAI', 'LAD', 'LBTYA', 'KRSP-W', 'LCFY', 'LGCY', 'LAC', 'LADR', 'LIME', 'LGI', 'LB', 'LILAK', 'KTOS', 'KRO', 'LION', 'KRRO', 'LAW', 'LBRT', 'KXIN', 'KVHI', 'KURA', 'LEE', 'LCLN', 'LEU', 'KYTX', 'LFWD', 'LBGJ', 'LAND', 'LHX', 'LABT', 'LIDR', 'LDI', 'LAMR', 'LAB', 'LCU', 'KRSP', 'LIN', 'LFT', 'LCUT', 'LICN', 'LII', 'LENZ', 'LBTYB', 'LCID', 'LIMNW', 'KRG', 'KRKR', 'KTWO', 'KRP', 'LI', 'KWY', 'LFUS', 'LFCR', 'LCII', 'LFMD', 'LEO', 'LHSW', 'LIMN', 'KRT', 'LCTX', 'KRSP-U', 'KRSA', 'LANV', 'LIEN', 'L', 'KROS', 'KVYO', 'KRAQ', 'LEGH', 'LINE', 'LIQT', 'LEGO-U', 'LINC', 'LFTO', 'LIF', 'LINK', 'KYNB', 'LH', 'KREF', 'KYMR', 'LGN', 'KTB', 'LAR', 'KRYS', 'LASR', 'LEN-B', 'LEVI', 'LFAC', 'LAKE', 'LGO', 'KSS', 'KRUS', 'LEGO', 'KSCP', 'KZIA', 'LBRX', 'LCNB', 'KRMD', 'KT', 'LEN', 'LEXX', 'LIND', 'KTTA', 'LAES', 'LGPS', 'LGIH', 'LCCC', 'LAWR', 'LIVE', 'LASE', 'LILA', 'LEA', 'LFVN', 'KRMN', 'LGL', 'LGCL', 'LIVN', 'LATA', 'KYIV', 'LEGN', 'LFS', 'LGND', 'LFST', 'LGVN', 'LECO', 'LKFN', 'LEDS', 'LBTYK', 'KVUE', 'KULR', 'LAFA', 'LAZ', 'KRNT', 'KRC', 'KWR', 'LILAP', 'KSPI', 'KUST', 'KRNY', 'LDOS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 3300/6253 (have 1288)
+
+123 Failed downloads:
+['LVWR-W', 'LSAK', 'MBIN', 'LTBR', 'LNZA', 'MATX', 'MAAS', 'LUNR', 'LKFT', 'LQDT', 'LKQ', 'LYB', 'LTGRU', 'LULU', 'MBC', 'MAMO', 'MANU', 'LMAT', 'LMND', 'LOOP', 'MASS', 'LXFR', 'LOBO', 'LW', 'LSTA', 'LYG', 'LMNR', 'LOGI', 'LUCY', 'LTGRW', 'LPA', 'MBBC', 'LYTS', 'MAA', 'MAGH', 'LQDA', 'LYV', 'LXRX', 'LNN', 'LPCN', 'LUCK', 'MB', 'LSF', 'LLY', 'MAKO', 'LZMH', 'LU', 'LOT', 'LNT', 'MAYS', 'LXEH', 'LZM-W', 'LOPE', 'LKSP', 'LNSR', 'LXU', 'MA', 'LXP', 'LOCO', 'LTRN', 'LPTH', 'LZM', 'LMB', 'MAC', 'LNG', 'LUCYW', 'LX', 'LUCD', 'LVO', 'MBAI', 'LYEL', 'LUD', 'LYFT', 'LUMN', 'LTM', 'LSE', 'LOW', 'MBI', 'LLYVK', 'MATV', 'LUNG', 'LUXE', 'LPCV', 'LPAA', 'LRMR', 'LNKS', 'LRE', 'MANH', 'LVS', 'M', 'LNC', 'LZ', 'LTC', 'LWAY', 'LTH', 'LOCL', 'LNAI', 'LOB', 'LOTWW', 'MASK', 'LTGO', 'LOAR', 'LYNX', 'LRCX', 'MAS', 'MAZE', 'MATH', 'MANE', 'LMT', 'LWLG', 'LOVE', 'LPLA', 'LPBB', 'LMRI', 'MAGN', 'LPG', 'LLYVA', 'LWAC', 'LONA', 'LND', 'MBGL', 'MAN', 'MAT']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 3450/6253 (have 1315)
+round 1: 3600/6253 (have 1465)
+
+137 Failed downloads:
+['MTAL-U', 'MPAA', 'MNTK', 'MRVI', 'MTEX', 'MNSB', 'MOS', 'MNOV', 'MPLX', 'MRTN', 'MSM', 'MTVA', 'MTUS', 'MTNE', 'MMYT', 'MUJ', 'MO', 'MSBI', 'MSA', 'MSGY', 'MRKR', 'MSC', 'MMU', 'MTX', 'MOBBW', 'MRX', 'MPV', 'MTR', 'MOBI', 'MNDR', 'MSD', 'MTH', 'MSGR-V', 'MTAL-W', 'MMT', 'MTRN', 'MRLN', 'MTW', 'MSDL', 'MUC', 'MQ', 'MNRO', 'MTZ', 'MSGK-V', 'MRDN', 'MTG', 'MSGS', 'MSEX', 'MSTR', 'MSIF', 'MTB', 'MSLE', 'MTNE-U', 'MSS', 'MNKD', 'MNY', 'MPLT', 'MU', 'MTRX', 'MTNE-W', 'MNDO', 'MSFT', 'MOGU', 'MSAI', 'MPTI', 'MVIS', 'MOG-B', 'MUFG', 'MNTN', 'MTAK', 'MMS', 'MOMO', 'MRSH', 'MTLS', 'MVBF', 'MSI', 'MOLN', 'MRVL', 'MOVE', 'MNSO', 'MTCH', 'MUZE', 'MSGM', 'MUSA', 'MMI', 'MNSBP', 'MRP', 'MNDY', 'MWH', 'MNST', 'MPU', 'MSGE', 'MMTX', 'MTEK', 'MPC', 'MTNB', 'MRAM', 'MMSI', 'MOD', 'MTAL', 'MWC', 'MRNA', 'MUX', 'MTEKW', 'MOBX', 'MPA', 'MOG-A', 'MPT', 'MNPR', 'MTSI', 'MTC', 'MRK', 'MODD', 'MT', 'MPWR', 'MTN', 'MSAIW', 'MWA', 'MOB', 'MUA', 'MRT', 'MS', 'MTEN', 'MMM', 'MNR', 'MSN', 'MRNO', 'MREO', 'MOBXW', 'MRCO', 'MOH', 'MVST', 'MNTS', 'MOV', 'MNYWW', 'MRBK', 'MPB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 3750/6253 (have 1478)
+
+126 Failed downloads:
+['NE-A', 'NESR', 'NBP', 'NCDL', 'NGNE', 'NCV', 'NAAS', 'NBBK', 'NABL', 'NFE', 'NFG', 'NFLX', 'NEON', 'NKLR', 'NCLH', 'NAVI', 'NEA', 'NKE', 'NGVC', 'NAN', 'NIXX', 'MYSZ', 'NHS', 'MYPS', 'NEOG', 'NB', 'MXL', 'NBHC', 'NDSN', 'MYSE', 'NICE', 'NCTY', 'NAKA', 'NAUT', 'NCT', 'NEO', 'NBN', 'NCO', 'NGL', 'NCI', 'MYN', 'NEOV', 'NCNA', 'MZYX', 'NIC', 'NGVT', 'NEXM', 'NEM', 'NDAQ', 'MYX', 'NIO', 'MYFW', 'NFGC', 'NEXT', 'MZYX-U', 'NIVF', 'NBH', 'MYE', 'NAGE', 'NBR', 'MWYN', 'NAVN', 'NEPH', 'NAZ', 'NHIVU', 'NAMS', 'NIVFW', 'NBTX', 'NKSH', 'NHIV', 'MXE', 'MXCT', 'NCPLW', 'NHTC', 'NIQ', 'NEWP', 'NBB', 'MYGN', 'NCZ', 'NCEL', 'NEXN', 'NE', 'NHI', 'NBIX', 'NEN', 'NGEN', 'NCPL', 'NIKI', 'MZYX-W', 'NAK', 'NG', 'NEWTG', 'NIPG', 'NEWTI', 'NHP', 'NCRA', 'NINE', 'NET', 'MX', 'NDMO', 'NFJ', 'NEXA', 'NEWTH', 'NBXG', 'NGS', 'NHIVW', 'NC', 'NI', 'NERV', 'NHC', 'NE-W', 'NEXR', 'NAD', 'NAMI', 'MXC', 'MYO', 'NCEW', 'NBTB', 'NATL', 'NAMMW', 'NATH', 'NAII', 'NIU', 'NDRA', 'MYI', 'NEUP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 3900/6253 (have 1502)
+
+89 Failed downloads:
+['NSTR-W', 'NMR', 'NML', 'NMAX', 'NTST', 'NRP', 'NVAX', 'NUCL', 'NVCT', 'NTIP', 'NMP', 'NWFL', 'NPB', 'NWAX-U', 'NUAI', 'NNDM', 'NVTS', 'NVR', 'NMIH', 'NVDA', 'NOA', 'NPO', 'NWBI', 'NNY', 'NUVB', 'NTR', 'NVO', 'NTRP', 'NTAP', 'NWG', 'NKTR', 'NMZ', 'NSRX', 'NMAD', 'NOEM', 'NTIC', 'NNN', 'NSIT', 'NRIX', 'NRUC', 'NUTX', 'NSYS', 'NMM', 'NOVT', 'NTCT', 'NUS', 'NVNO', 'NNE', 'NVX', 'NMRK', 'NVS', 'NRXS', 'NTRS', 'NMT', 'NOMA', 'NREF', 'NPFD', 'NNNN', 'NOW', 'NPT', 'NUR', 'NUAIW', 'NWCLW', 'NSC', 'NUWE', 'NVGS', 'NPV', 'NNVC', 'NSSC', 'NRDY', 'NMAI', 'NKTX', 'NNBR', 'NPK', 'NOVTU', 'NSP', 'NUCLW', 'NPAC', 'NPWR-W', 'NTB', 'NWAX-W', 'NVA-W', 'NTES', 'NOV', 'NODK', 'NPKI', 'NRGV', 'NOG', 'NWCL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 4050/6253 (have 1563)
+
+103 Failed downloads:
+['OCAC-R', 'NXGL', 'NXPL', 'OBA', 'NYC', 'NXTS', 'ONEW', 'OMER', 'OPAL', 'OCAC-W', 'NXH', 'OPEN', 'OMCL', 'OPXS', 'OPTT', 'OFSSH', 'OBX', 'NXPI', 'OPRX', 'OABI', 'OPNW', 'OMSE', 'OPI', 'OKE', 'OCUL', 'OESX', 'OCAC', 'OFAL', 'OIS', 'OGG', 'OGCP', 'NXRT', 'OMEX', 'OBIO', 'OPTU', 'OPENL', 'OPLN', 'ODTX', 'OFG', 'OGI', 'OACC', 'ONON', 'OKLO', 'OPRA', 'OGC', 'ODFL', 'ONEG', 'NXST', 'OEC', 'ONMD', 'OGEN', 'OCAC-U', 'ODD', 'OLOX', 'OFLX', 'NXG', 'ONDS', 'ORC', 'NYAX', 'OPENZ', 'OPTX', 'OPHC', 'ONT', 'ONCO', 'OCTV', 'OCSAW', 'OMF', 'ORA', 'OBAI', 'OKUR', 'NWTG', 'OHAC', 'ONCH', 'OCG', 'OLP', 'NXTT', 'OLED', 'ONCY', 'OOMA', 'NXT', 'NYT', 'OPTH', 'OM', 'OIG', 'OR', 'NX', 'NXB', 'ODYS', 'OHI', 'OPP', 'NXXT', 'NXDT', 'ORBS', 'ONB', 'OLN', 'OPCH', 'OKTA', 'OPK', 'OPRT', 'O', 'OCGN', 'OIM', 'OIA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 4200/6253 (have 1610)
+
+127 Failed downloads:
+['PAII-W', 'PCSA', 'PACK', 'OVBC', 'OXSQH', 'OSPR', 'ORMP', 'PAYS', 'PARR', 'OSUR', 'PAII-U', 'PAM', 'PAGS', 'OXY-W', 'PDC', 'OXSQG', 'PDS', 'OSBC', 'PAHC', 'OST', 'PCF', 'PATH', 'OTLY', 'OTIS', 'PBK', 'PBFS', 'PAAC', 'PDD', 'PACB', 'PCRX', 'PAMT', 'OWL', 'PACS', 'PAAS', 'OXM', 'OVID', 'PAYX', 'PDYN', 'PDO', 'PBA', 'PCG', 'PECO', 'P', 'PASG', 'PAC', 'OTLK', 'PDCC', 'PARK', 'PALO', 'OSS', 'OTAI', 'PD', 'PDI', 'PDX', 'PBH', 'PARA', 'OSPN', 'ORCL', 'ORIC', 'PCTY', 'PCQ', 'PDSB', 'PBYI', 'PDLB', 'PAA', 'OUT', 'PECE', 'OXY', 'PATK', 'PCT', 'PAYP', 'PEB', 'PBM', 'OSCR', 'ORIQU', 'PALI', 'PBI', 'PANL', 'ORKA', 'PBAM', 'OSK', 'PCYO', 'OXLCL', 'PBLS', 'OZ', 'PCN', 'OXLCI', 'PAAI', 'OTF', 'OWLS', 'PC', 'ORKT', 'PACH', 'OTAI-R', 'PBF', 'ORIQ', 'OSG', 'PASW', 'PAL', 'PAPL', 'PAXS', 'OUST', 'PBHC', 'PAVM', 'ORRF', 'PEBK', 'PAII', 'PAX', 'OYSE', 'PAG', 'OWLT', 'OZK', 'PDFS', 'PAYC', 'ORGO', 'OSIS', 'PCAP', 'ORI', 'PAGP', 'PAR', 'OXLCG', 'OTTR', 'OTAI-U', 'PCB', 'PCM', 'PDEX', 'PAY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 4350/6253 (have 1633)
+
+137 Failed downloads:
+['PORT-U', 'PKE', 'POCI', 'POAS', 'PM', 'PLUS', 'PLSM', 'PMVP', 'POM', 'PHUN', 'PLBY', 'PHIO', 'PLUN-U', 'PLOW', 'PNBK', 'PMA', 'PLXS', 'PPHC', 'PNNT', 'PLAY', 'PIII', 'PONOU', 'PPG', 'PGY', 'PHOE', 'POST', 'PN', 'PFG', 'PMTR', 'PL', 'PMAX', 'PONY', 'PPC', 'PFBC', 'PERF', 'PKBK', 'PHG', 'PGAC', 'PFS', 'PLMR', 'PONOR', 'PNR', 'PINE', 'PML', 'PICS', 'PFSA', 'PEP', 'PGNY', 'PFSI', 'PEGA', 'PONO', 'PPIH', 'PEW-W', 'POWI', 'PKG', 'PLTR', 'PEO', 'PFLT', 'PHM', 'PNC', 'POOL', 'PLRZ', 'PLTK', 'PNAQ-R', 'PNAQ-U', 'PNI', 'PEPG', 'PFX', 'PNTG', 'PERI', 'PFLA', 'PLPC', 'PETS', 'PFE', 'PHVS', 'PLCI', 'PFGC', 'PLG', 'POWL', 'PLYX', 'PGP', 'PGC', 'PETZ', 'PENG', 'PII', 'PG', 'PLMK', 'PFH', 'PMCB', 'PMTS', 'PLAG', 'PLSE', 'PPBT', 'PLUN-R', 'PJT', 'PGR', 'PMEC', 'PHR', 'PK', 'PODD', 'PESI', 'PHAR', 'PHOS', 'PGZ', 'PLUR', 'POLA', 'PI', 'PNAQ', 'PLNT', 'PLX', 'POET', 'PLCE', 'PED', 'PODC', 'PLUT', 'PHI', 'POLE', 'POR', 'PGEN', 'PLGO', 'PMN', 'PEG', 'PFAI', 'PIPR', 'PLBL', 'PLRX', 'PLUG', 'PKX', 'PMT', 'PPCB', 'PNFP', 'PENN', 'PLBC', 'PNW', 'PHIN', 'PNRG', 'PEW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 4500/6253 (have 1646)
+
+137 Failed downloads:
+['QRED-R', 'PULM', 'PSIX', 'QBTS', 'QRED', 'PRHI', 'QCOM', 'QLEP', 'RAC-U', 'PRCT', 'PRTS', 'PSNL', 'PYT', 'PYPL', 'PYXS', 'PPL', 'PTC', 'PSN', 'QURE', 'QTI', 'RAC-W', 'QRED-U', 'R', 'QCRH', 'PSQH-W', 'PRS', 'QNTM', 'QADR', 'PRU', 'QXO', 'PRGO', 'PWRL', 'RACC', 'PXS', 'PTCT', 'QH', 'QSI', 'PRHIZ', 'QTTB', 'PURR', 'QVCG', 'PRFX', 'PTEN', 'PRKS', 'QUCY', 'QSEA', 'RAC', 'PRCH', 'PSF', 'PRZO', 'PSUS', 'PRK', 'PTOR', 'PSNY', 'PRLB', 'QXL', 'QMLS', 'PRPO', 'PUBM', 'PRGS', 'Q', 'PS', 'PPLI', 'PROV', 'PTRN', 'PSIG', 'PTN', 'PTLO', 'PRH', 'PRLD', 'PSTL', 'PSO', 'QNBC', 'QUAD', 'PZZA', 'QTRX', 'RACD', 'PSBD', 'PSQH', 'PRVA', 'PSFE', 'QUMS', 'PRG', 'PRPL', 'PROK', 'PTGX', 'PRSO', 'PRAA', 'QNT', 'PTLE', 'PVLA', 'PSA', 'PYPD', 'PRM', 'RA', 'PUSA', 'QSR', 'PR', 'PTHS', 'PRAX', 'PROF', 'PPTA', 'PRE', 'PTAC', 'QDEL', 'PRMB', 'PUK', 'PPLC', 'QFIN', 'PWP', 'PXED', 'PSMT', 'QLYS', 'QMCO', 'PPSI', 'PRSU', 'QNST', 'QUIK', 'PTON', 'PRQR', 'QCLS', 'QUBT', 'QS', 'PWCM', 'QTEX', 'QNRX', 'PRME', 'PSX', 'PSQL', 'QLEP-W', 'PXLW', 'QNC', 'PUMP', 'QTWO', 'PSHG', 'PRTH', 'PRIM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 4650/6253 (have 1659)
+round 1: 4800/6253 (have 1809)
+
+149 Failed downloads:
+['SAC-W', 'RVI', 'RXRX', 'S', 'RPC', 'RVSN', 'ROMA', 'RWAYM', 'SATL', 'SBMT', 'RXST', 'ROK', 'RZLVW', 'RUSHA', 'RXT', 'SAN', 'ROLR', 'ROL', 'RPRX', 'SAX', 'RYAM', 'RUBI', 'RRX', 'RUM', 'RYOJ', 'SAGT', 'ROAD', 'SANG', 'SAGU-W', 'SARO', 'ROP', 'RRGB', 'SBLK', 'RVTY', 'SABS', 'RNP', 'SBFM', 'RS', 'SAMO', 'SAY', 'RSVR', 'RTAC', 'SAC', 'SAC-U', 'RZC', 'SBAC', 'RSF', 'RNTX', 'SAFT', 'RVSB', 'RYTM', 'SAIL', 'RSI', 'SAM', 'SBCF', 'SAH', 'RPGL', 'RSKD', 'RYDE', 'RPT', 'RPAY', 'SABR', 'RVMD', 'RNGT', 'RWAYL', 'SBET', 'RYZ', 'RTO', 'RRR', 'RMTI', 'RVT', 'SAIQ', 'RNR', 'RWAYI', 'RZLT', 'ROIV', 'RNAQ', 'ROCK', 'SB', 'RPID', 'SBFG', 'SAMG', 'RNW', 'RY', 'SAAQ', 'SAFX', 'SACH', 'RNXT', 'RNST', 'RNGR', 'RWT', 'SBGI', 'SBI', 'RYAN', 'RUN', 'ROOT', 'SAGU-R', 'RUSHB', 'RSSS', 'RPD', 'RYM', 'SAIH', 'SANA', 'SAGU-U', 'SAMO-U', 'RTX', 'RNA', 'SANM', 'RNAZ', 'RR', 'RNTZ', 'SBH', 'SBCWW', 'RREV', 'SA', 'SAP', 'SAIC', 'RYAAY', 'SBC', 'SAFE', 'SAGU', 'RRC', 'RVP', 'RWAY', 'RRBI', 'RMT', 'SAV', 'SAZ', 'RSG', 'RPM', 'RTB', 'SAJ', 'SAR', 'ROST', 'SAIA', 'RVLV', 'ROC', 'RXO', 'ROKU', 'RZAI', 'RNAC', 'RTSN', 'RYET', 'ROG', 'RYN', 'RZLV', 'RVII', 'SAMO-W', 'RQI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 4950/6253 (have 1810)
+
+91 Failed downloads:
+['SBXE-U', 'SKIL', 'SCWO', 'SBXE-W', 'SDHY', 'SCCG', 'SD', 'SHOT', 'SE', 'SION', 'SINT', 'SCI', 'SHPH', 'SGLY', 'SIMO', 'SITM', 'SHLS', 'SERV', 'SILC', 'SJM', 'SCD', 'SERA', 'SFB', 'SDOT', 'SBR', 'SKHY', 'SBSI', 'SCHL', 'SCAG', 'SFNC', 'SHMDW', 'SITC', 'SHC', 'SENEB', 'SKE', 'SCCD', 'SEVN', 'SHOTR', 'SCHW', 'SHO', 'SHOP', 'SKM', 'SCSC', 'SCOR', 'SEIC', 'SJ', 'SEAT', 'SCII', 'SGLD', 'SECZ', 'SER', 'SDRL', 'SHW', 'SGP', 'SGA', 'SKT', 'SCNX', 'SGMT', 'SIG', 'SIBN', 'SCYX', 'SEGG', 'SFM', 'SCPQ', 'SITE', 'SHIM', 'SFBS', 'SCAT', 'SGHC', 'SIGI', 'SHAK', 'SHOO', 'SEB', 'SCTX', 'SHMD', 'SHG', 'SII', 'SG', 'SDHI', 'SBS', 'SEZL', 'SBSW', 'SES', 'SGML', 'SIFY', 'SGRY', 'SEER', 'SHFSW', 'SFWL', 'SFIX', 'SHBI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 5100/6253 (have 1869)
+
+137 Failed downloads:
+['SKYH-W', 'SNDL', 'SMHI', 'SPRC', 'SOUL', 'SMFG', 'SPCX', 'SOFI', 'SO', 'SOPH', 'SLXN', 'SNDR', 'SPGI', 'SPT', 'SLDE', 'SPRB', 'SLNH', 'SND', 'SKYD', 'SRAD', 'SLND-W', 'SOC', 'SNTI', 'SLN', 'SONO', 'SOJE', 'SNAP', 'SQM', 'SRBK', 'SONM', 'SNPS', 'SMG', 'SPCE', 'SKYD-W', 'SMBK', 'SNN', 'SLB', 'SKYE', 'SMCI', 'SLSN', 'SOJD', 'SPRO', 'SPWR', 'SLF', 'SOMN', 'SPH', 'SOTK', 'SLGN', 'SMTC', 'SMSI', 'SNES', 'SPB', 'SLVM', 'SPCB', 'SLGB', 'SOWG', 'SNWV', 'SOBO', 'SPOK', 'SNDA', 'SLGL', 'SPFI', 'SOUL-U', 'SMPL', 'SPNT', 'SORA', 'SMTI', 'SMRT', 'SKYW', 'SKYX', 'SPIR', 'SPWH', 'SPTX', 'SN', 'SLDP', 'SNFCA', 'SPG', 'SMID', 'SNSC', 'SQFT', 'SPHL', 'SPAI', 'SOAR', 'SNOW', 'SKYA', 'SQNS', 'SNY', 'SKYH', 'SOLV', 'SMR', 'SOS', 'SLQT', 'SOGP', 'SPOT', 'SOHU', 'SMJF', 'SMXT', 'SLI', 'SOCA', 'SORN', 'SPPL', 'SNT', 'SNAL', 'SOR', 'SPRU', 'SON', 'SMX', 'SNGX', 'SKYQ', 'SLS', 'SNTG', 'SPRY', 'SMMT', 'SPE', 'SLNG', 'SQFTW', 'SLM', 'SMWB', 'SR', 'SOJF', 'SMBC', 'SNA', 'SPHR', 'SNDX', 'SMP', 'SPEG', 'SONY', 'SLBT', 'SOJC', 'SLMT', 'SLG', 'SNEX', 'SLSR', 'SNX', 'SLND', 'SOUL-R', 'SOUN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 5250/6253 (have 1882)
+round 1: 5400/6253 (have 2032)
+
+133 Failed downloads:
+['TONT-U', 'TBCV', 'TCPA', 'TLS', 'TMCI', 'TEL', 'TLK', 'TCRT', 'TIGR', 'TMDX', 'TEAD', 'TFIN', 'TBCVW', 'TIPT', 'TILE', 'TMDE', 'TC', 'TEM', 'THFF', 'TGLS', 'TM', 'TCOM', 'TBCH', 'TLYS', 'TLX', 'TMQ', 'TFII', 'TDC', 'TITN', 'TDS', 'TLN', 'TDW', 'TFPM', 'TENX', 'TER', 'TKC', 'TGE', 'TME', 'TBLA', 'THEO', 'TMUS', 'TKLF', 'TII', 'TEVA', 'TCBS', 'TISI', 'TJX', 'TECK', 'TLSA', 'TMUSZ', 'THRM', 'TGL', 'TIGO', 'TDTH', 'THRY', 'TBCVU', 'TLIH', 'TKNO', 'TLAC', 'TNC', 'TDIC', 'TMO', 'TGTX', 'TKO', 'TIC', 'TONX', 'TDOC', 'TEO', 'TNXP', 'TLF', 'THG', 'TONT', 'TNYA', 'TNMG', 'TKR', 'TELA', 'THH', 'TGT', 'TMUSI', 'TCBI', 'TLNC', 'TLPH', 'TE', 'TOMZ', 'TDAY', 'TBI', 'TCXB', 'TENB', 'THC', 'TMUSL', 'TDF', 'TFSL', 'TMCR', 'TGS', 'TMP', 'TCMD', 'TNL', 'TEN', 'TCI', 'TELO', 'TEI', 'TCBK', 'TNDM', 'THM', 'TGEN', 'TBB', 'TMSWW', 'TDAC', 'TGHL', 'TFC', 'TLRY', 'TBBK', 'TK', 'TGB', 'TH', 'TNGX', 'TIL', 'TMS', 'TEX', 'TONT-W', 'TDUP', 'THCH', 'TMTS', 'TEAM', 'TLNCW', 'TD', 'TECH', 'TMC', 'TBN', 'TGE-W', 'TNET', 'TDWD', 'TLNCU']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 5550/6253 (have 2049)
+
+140 Failed downloads:
+['UAC-W', 'TREE', 'TRMB', 'TVA', 'TTI', 'UBCP', 'UAMY', 'TOYO', 'UBER', 'TPL', 'TXNM', 'TPST', 'TSN', 'TRGSR', 'TRGS', 'TVC', 'U', 'TREO', 'TRU', 'TRDA', 'TVGN', 'TPB', 'TOP', 'UAVS', 'TTMI', 'TZOO', 'UBS', 'TRNO', 'TRUG', 'TRMK', 'TTGT', 'TWI', 'TUSK', 'TRX', 'TSEM', 'TPGXL', 'TXT', 'TSAT', 'UAL', 'TRT', 'TURB', 'TTAM', 'UAN', 'TRIB', 'UAC-U', 'TPET', 'TSI', 'TU', 'TOWN', 'TREX', 'TPVG', 'TRAX', 'TPCS', 'TRSG', 'TRAD-U', 'TOPS', 'TWIN', 'TRTX', 'TYGO', 'TY', 'TXRH', 'TSLA', 'TT', 'TWG', 'UA', 'TVE', 'TRXB', 'TRAD-R', 'TWAV', 'TOUR', 'TRGP', 'TRV', 'TROX', 'TWFG', 'UAA', 'TOVX', 'TTRX', 'TP', 'TRNS', 'TTWO', 'TRBG', 'TWN', 'TRGSU', 'TPR', 'TSQ', 'TULP', 'TXG', 'TRMD', 'TRAW', 'TRIP', 'TPC', 'TRN', 'TOON', 'TVIV', 'TVRD', 'TRP', 'TYRA', 'TR', 'TWLVR', 'TWLO', 'TTD', 'TUYA', 'TWLVU', 'TX', 'TVAI', 'TRAK', 'TRVG', 'TXN', 'TS', 'TRAD', 'TRON', 'TSSI', 'TRC', 'TW', 'TRI', 'TXMD', 'TPG', 'TRLV', 'TVTX', 'TSHA', 'TRVI', 'TROW', 'TSLX', 'TTE', 'TORO', 'TTEK', 'TWLV', 'TYG', 'TV', 'TRUP', 'TSBK', 'UAC', 'TXO', 'TROO', 'TRS', 'TRST', 'TRNI', 'TRIN', 'TYL', 'UBSI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 5700/6253 (have 2059)
+
+138 Failed downloads:
+['VECA-R', 'UPXI', 'UEC', 'UPC', 'UUUU', 'ULS', 'UTMD', 'UE', 'UPBD', 'VBNK', 'UXIN', 'VENU', 'VFS', 'VHI', 'VGM', 'VCEL', 'UROY', 'USIO', 'UVSP', 'UVE', 'VERA', 'USAR', 'VECA', 'UDR', 'UHAL-B', 'UCL', 'USGO', 'UNTY', 'URGN', 'USDE', 'UEIC', 'USCB', 'UTSI', 'UTZ', 'UFPI', 'UNB', 'VHCPW', 'VATE', 'UNIT', 'UI', 'UTI', 'VALN', 'VGI', 'VHUB', 'UZF', 'UZE', 'UFI', 'VAL-W', 'UCAR', 'UZX', 'UNFI', 'ULBI', 'UPLD', 'VEON', 'VG', 'UPS', 'UGI', 'UTL', 'VEEV', 'VBF', 'VECO', 'ULCC', 'UFCS', 'VECA-U', 'VCRE', 'UYSC', 'VEEE', 'VCYT', 'UNCY', 'UHT', 'UMBF', 'UNF', 'UHS', 'VEL', 'VERI', 'VERX', 'VFC', 'UHAL', 'USAS', 'VCTR', 'UPWK', 'USEA', 'USAU', 'VANI', 'UTF', 'UONEK', 'URBN', 'UTHR', 'VELO', 'VAI', 'V', 'UVV', 'UMH', 'VGAS', 'VALU', 'UNP', 'UZD', 'UGP', 'VALE', 'UFPT', 'VC', 'UIS', 'USB', 'UCB', 'USPH', 'UTG', 'UMC', 'USA', 'USLM', 'UMAC', 'ULH', 'VHCPU', 'URI', 'ULTA', 'VFF', 'VHC', 'UNMA', 'UPB', 'USAC', 'USNA', 'VCX', 'VHCP', 'VGNT', 'UPST', 'UG', 'VIA', 'VAL', 'UCFI', 'VBIO', 'USBC', 'UWMC', 'VCV', 'UL', 'UCTT', 'UNM', 'VEEA', 'VET', 'VABK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 5850/6253 (have 2071)
+
+144 Failed downloads:
+['VII-U', 'WBTN', 'VIDA', 'VRTX', 'VPV', 'VYGR', 'VTOL', 'WBI', 'WAB', 'VNME', 'WCT', 'WDAY', 'VWAV', 'VVX', 'WENC-R', 'VOYG', 'VTGN', 'VMO', 'WBUY', 'WDI', 'VJET', 'WENC-U', 'VNO', 'VRRM', 'VNDA', 'VNOM', 'WBX', 'VTEX', 'VICR', 'VRA', 'VVV', 'WCC', 'VTVT', 'VIPS', 'WENN', 'WEX', 'VOXR', 'VSAT', 'VVOS', 'WABC', 'VSEC', 'VICI', 'WEN', 'W', 'VRAX', 'VMET', 'WASH', 'VRSK', 'WETH', 'WAT', 'VIVS', 'VSME', 'WDH', 'WENC', 'VRT', 'VIR', 'WERN', 'VKTX', 'VIVK', 'VNTG', 'VLGEA', 'VRSN', 'VYLR', 'WES', 'VLTO', 'WCCB', 'VRDN', 'VIK', 'VII', 'VYX', 'WATT', 'WAY', 'WAFU', 'VOYA', 'WAL', 'VLOS', 'VSXY', 'VII-W', 'VMI', 'VNT', 'VZLA', 'WDS', 'VIOT', 'VIRC', 'VSA', 'VMRK', 'VTN', 'VSTM', 'VSTS', 'VIST', 'VPG', 'WETO', 'VUZI', 'VKI', 'VRXA', 'VSECU', 'WCN', 'VIAV', 'VTS', 'VTR', 'VTMX', 'VIV', 'VISN', 'VRXAW', 'VLO', 'VST', 'VIP', 'VMD', 'VINP', 'VIRT', 'VIVO', 'VLN', 'VMC', 'VRTS', 'VS', 'VSNT', 'WAFD', 'WB', 'VRNS', 'VTRS', 'VLRS', 'WAVE', 'VNET', 'VRCA', 'VMAR', 'VTIX', 'VLY', 'VSH', 'WEC', 'WATR', 'WELL', 'WAFDP', 'WEAV', 'VKQ', 'WEYS', 'VOD', 'VTSI', 'VVR', 'VNCE', 'VITL', 'VOR', 'VZ', 'WDC', 'WEST']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 6000/6253 (have 2077)
+
+135 Failed downloads:
+['WPAC-R', 'XRN', 'XELB', 'WHD', 'WHFCL', 'WPAC', 'WLYB', 'WFF', 'WPM', 'XE', 'WU', 'WTS', 'WSO', 'WSC', 'WMB', 'XERS', 'WIX', 'WW', 'WTI', 'XFLH-R', 'WHR', 'XLAB', 'WOR', 'WRLD', 'WTW', 'WWR', 'WGO', 'WSBF', 'WPAC-U', 'WING', 'WS', 'XHLD', 'WMS', 'WRD', 'XAIR', 'XIFR', 'WTRG', 'WYY', 'XRAY', 'XPRO', 'XPER', 'WFG', 'WLII', 'WFCF', 'WLY', 'WTG', 'XPO', 'WSBK', 'WYNN', 'WLK', 'WPRT', 'WYFI', 'WORX', 'XELLL', 'XPL', 'WPC', 'XNDU', 'XCUR', 'WF', 'XHG', 'WST', 'WXM', 'WTF', 'WKHS', 'WULF', 'WLTH', 'XGN', 'XFLH', 'WSE', 'XLO', 'WWW', 'WMK', 'XFLT', 'WIT', 'WIMI', 'WNEB', 'WT', 'WSM', 'WM', 'WHWK', 'XENE', 'XBP', 'XRPNW', 'WLCOU', 'WK', 'WYHG', 'WLFC', 'WRAP', 'WKSP', 'WGS', 'WSHP', 'XNCR', 'WRB', 'WFC', 'XHR', 'WRN', 'WTTR', 'WHLR', 'XMAX', 'XIIIU', 'WNW', 'XP', 'XPON', 'WSO-B', 'WLCO', 'WTBA', 'XIIIW', 'WVE', 'WMT', 'XRPN', 'WVVI', 'WH', 'WY', 'WNC', 'XPEL', 'WQEY', 'XBIT', 'WMG', 'WPP', 'WLDN', 'WHG', 'WLDS', 'WSFS', 'WLKP', 'WTM', 'XFLH-U', 'XMTR', 'XPEV', 'WINA', 'XFOR', 'XEL', 'WHK', 'XBIO', 'WOLF', 'XIII']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 6150/6253 (have 2092)
+
+97 Failed downloads:
+['YCY-W', 'YHNA', 'ZGN', 'YICCU', 'YUM', 'YXT', 'YI', 'ZUMZ', 'YTRA', 'ZSQR', 'ZBH', 'ZS', 'YJ', 'ZH', 'ZIM', 'XTNT', 'ZTG', 'YYAI', 'ZYBT', 'XSLL', 'YUMC', 'XTLB', 'ZNB', 'YELP', 'ZM', 'YDES', 'YMT', 'YIBO', 'ZDAI', 'YALA', 'ZEOWW', 'ZJYL', 'ZEPP', 'XZO', 'ZOOZ', 'YDDL', 'YCY', 'Z', 'XWEL', 'XXII', 'ZEO', 'YHC', 'YICCW', 'XTIA', 'YMM', 'ZDGE', 'ZSTK', 'ZBRA', 'ZG', 'ZETA', 'YICC', 'ZKP', 'ZWS', 'ZNTL', 'ZBIO', 'XYL', 'YORW', 'YAAS', 'YPF', 'ZYME', 'YOUL', 'ZLAB', 'XTER', 'ZJK', 'ZURA', 'YB', 'YARW', 'ZONE', 'YMAT', 'YETI', 'ZIP', 'YRD', 'YSWY', 'YSG', 'ZENA', 'ZD', 'XYF', 'YHGJ', 'ZBAO', 'XRTX', 'XRXDW', 'ZKH', 'YCY-U', 'YOU', 'ZKIN', 'YDESW', 'YQ', 'YEXT', 'ZTO', 'YSXT', 'YFOR', 'ZVIA', 'ZCMD', 'YCBD', 'XRX', 'XTND', 'YDKG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 1: 6253/6253 (have 2098)
+
+67 Failed downloads:
+['AAC-W', 'AAT', 'ACP', 'ACCS', 'AAC', 'ACAA', 'ACB', 'ABR', 'ACN', 'ABT', 'ABVX', 'ACNT', 'A', 'ACAD', 'AAPG', 'ACMR', 'ABXL', 'ACHV', 'ACHC', 'ABTS', 'ACIU', 'ABG', 'ABNB', 'ACNB', 'ABTC', 'ACA', 'ACHR', 'AAPL', 'ACFN', 'AA', 'ACH', 'AB', 'AARD', 'ACR', 'ACI', 'ACLS', 'ABAT', 'ABBV', 'ACCV', 'AAC-U', 'ACOG', 'AACI', 'ABX', 'ACET', 'AAME', 'AAON', 'ABVC', 'AAL', 'AACP', 'ACEL', 'ACCO', 'AACG', 'ACIC', 'AACO', 'ABEO', 'AAP', 'ABUS', 'AADX', 'AAUC', 'ABCB', 'ABLV', 'AAOI', 'ABOS', 'ACGL', 'ABCL', 'ABEV', 'ACON']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 75/4155 (have 2106)
+round 2: 150/4155 (have 2181)
+
+59 Failed downloads:
+['AIIA-U', 'AGIG', 'AGD', 'AIBZ', 'AIRS', 'AII', 'AGL', 'AKO-A', 'AGBK', 'AIG', 'AKTS', 'AIIR', 'AGM-A', 'AIRI', 'AIRJ', 'AIZN', 'AIFC', 'AKBA', 'AIRO', 'AGMH', 'AIZ', 'AGMB', 'AJG', 'AIV', 'AGX', 'AIM', 'AGO', 'AIIA-R', 'AKAN', 'AGYS', 'AIAI', 'AKR', 'AIMDW', 'AHRT', 'AIRE', 'AIOS', 'AGRO', 'AISP', 'AIR', 'AIXI', 'AGCO', 'AIO', 'AGI', 'AGCC', 'AGIO', 'AHMA', 'AIIO', 'AKA', 'AFYA', 'AIDX', 'AKO-B', 'AISPW', 'AIN', 'AIP', 'AHG', 'AIIA', 'AIB', 'AIOK', 'AIRG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 225/4155 (have 2197)
+
+68 Failed downloads:
+['ALUB-U', 'ALTO', 'ALTG', 'ALGM', 'AKTX', 'AMAL', 'ALPS', 'ALOV', 'ALK', 'ALEC', 'ALH', 'AMIX', 'ALCO', 'ALLT', 'AMBO', 'ALDF', 'AMCX', 'ALLO', 'ALRM', 'ALVO', 'AMAT', 'ALAB', 'AMD', 'ALMU', 'ALGT', 'ALKS', 'ALKT', 'AMCI', 'AMCR', 'AMBA', 'ALLR', 'ALTI', 'ALMS', 'ALG', 'AMKR', 'ALIS', 'ALIT', 'AMGN', 'AMN', 'AMH', 'ALX', 'ALL', 'ALDX', 'ALNT', 'AMBR', 'ALLY', 'ALV', 'ALHC', 'AMAC', 'ALDFW', 'ALOY', 'ALC', 'ALB', 'ALGS', 'ALUB', 'ALZN', 'ALXO', 'ALLE', 'AMAN', 'AMC', 'AMBQ', 'ALT', 'ALP', 'ALM', 'ALDFU', 'ALNY', 'ALUB-W', 'ALSN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 300/4155 (have 2204)
+
+33 Failed downloads:
+['AMPX-W', 'AON', 'APPS', 'AMPL', 'APURR', 'AN', 'APA', 'AMS', 'ANIK', 'APLD', 'APTV', 'AOS', 'AMTM', 'APAM', 'ANNA', 'AMWL', 'APO', 'APMD', 'APD', 'ANGX', 'ANNX', 'AMRZ', 'AOMD', 'ANDG', 'AMTD', 'AMSS', 'APT', 'AMR', 'APG', 'APUR', 'ANF', 'AMPH', 'AMPY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 375/4155 (have 2246)
+
+59 Failed downloads:
+['BBAI-W', 'AQNB', 'BAX', 'ARRY', 'BARK', 'BBAI', 'AREC', 'ARTC', 'AQN', 'BANC', 'BATL', 'APXT', 'BBLG', 'AROW', 'BBGI', 'ARE', 'ARGX', 'BB', 'ARTNA', 'ARWR', 'ARTL', 'ARI', 'BAND', 'BBN', 'BAM', 'ARAY', 'ARIS', 'ARCI', 'ARBB', 'BBAR', 'BAOS', 'BALL', 'ARBE', 'BBD', 'BBNX', 'ARDC', 'APXTU', 'ARTV', 'ARMK', 'ARKO', 'BANL', 'AR', 'BBDO', 'BBCI', 'ARKR', 'ARCL', 'ARX', 'AQB', 'ARCT', 'ARDX', 'ARLO', 'BALY', 'BANF', 'ARAI', 'BBCIW', 'BANR', 'BAK', 'ARDT', 'AROC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 450/4155 (have 2262)
+
+59 Failed downloads:
+['BEBE-U', 'BCSS-W', 'BEPJ', 'BDRX', 'BE', 'BEEP', 'BCSS-U', 'BEAG', 'BF-A', 'BCBP', 'BENF', 'BBUC', 'BC', 'BGDE', 'BCSS', 'BFRG', 'BGH', 'BFH', 'BFC', 'BCDA', 'BCX', 'BBT', 'BCCQ', 'BFAM', 'BBVA', 'BCH', 'BCGWW', 'BEKE', 'BCAT', 'BBWI', 'BDX', 'BDC', 'BCSF', 'BGB', 'BESS-W', 'BEAT', 'BDSX', 'BBY', 'BFRI', 'BEPI', 'BFLY', 'BFS', 'BCG', 'BETR', 'BF-B', 'BELFB', 'BDN', 'BBW', 'BDCI', 'BDAI', 'BDL', 'BFRIW', 'BG', 'BCE', 'BEBE-W', 'BELFA', 'BEAM', 'BCML', 'BEBE']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 525/4155 (have 2278)
+
+45 Failed downloads:
+['BWIV-U', 'BIII-U', 'BTGO', 'BVFL', 'BHM', 'BVS', 'BWMN', 'BHC', 'BTBD', 'BGMS', 'BGSI', 'BID', 'BHR', 'BHP', 'BTDR', 'BIII-W', 'BV', 'BWIN', 'BTOC', 'BHAV', 'BILI', 'BW', 'BIDU', 'BWIV-W', 'BULL', 'BWFG', 'BSVN', 'BH-A', 'BTLN', 'BSL', 'BIII', 'BTQ', 'BTX', 'BTCT', 'BVC', 'BWEN', 'BURL', 'BTU', 'BHVN', 'BTCS', 'BUUU', 'BTO', 'BST', 'BTBT', 'BGX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 600/4155 (have 2308)
+round 2: 675/4155 (have 2383)
+
+68 Failed downloads:
+['CELG-R', 'CCB', 'CHMI', 'CEPO', 'CELU', 'CGEM', 'CICC', 'CCXIU', 'CENN', 'CDXS', 'CE', 'CHEF', 'CCEP', 'CCBG', 'CDIO', 'CCXI', 'CD', 'CEG', 'CCAP', 'CFND', 'CDZI', 'CCAQ', 'CHE', 'CENTA', 'CDW', 'CHMG', 'CCK', 'CELH', 'CI', 'CGCFW', 'CDLR', 'CHPT', 'CCEL', 'CCSI', 'CEVA', 'CHCI', 'CF', 'CGC', 'CCM', 'CHT', 'CELC', 'CDP', 'CGEN', 'CDZIP', 'CDRO', 'CIGL', 'CHKP', 'CEPV', 'CCG', 'CHOW', 'CDNA', 'CIIT', 'CIFR', 'CCCT', 'CIRC', 'CDTG', 'CGTX', 'CET', 'CITR', 'CECO', 'CHAR', 'CCLD', 'CGNX', 'CCI', 'CIMO', 'CDRE', 'CFFN', 'CCXIW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 750/4155 (have 2390)
+
+63 Failed downloads:
+['CLBR-U', 'CMSA', 'CLOV', 'CMT', 'CLNE', 'CMBT', 'CMPX', 'CIVB', 'CMS', 'CMCM', 'CMPS', 'CLWT', 'CLIR', 'CLGN', 'CMG', 'CNL', 'CMC', 'CMCO', 'CMSC', 'CLIK', 'CLPS', 'CNK', 'CNI', 'CLST', 'CMCL', 'CME', 'CNCK', 'CLBR-W', 'CLRB', 'CLLS', 'CLMB', 'CNCKW', 'CLNN', 'CLVT', 'CMND', 'CMCSA', 'CLAR', 'CM', 'CNA', 'CLM', 'CMPR', 'CLYM', 'CLMT', 'CMRC', 'CLH', 'CLF', 'CLSK', 'CMTL', 'CLFD', 'CMCT', 'CLPT', 'CMSD', 'CLBK', 'CJMB', 'CLW', 'CNDT', 'CKX', 'CLB', 'CLS', 'CNET', 'CNEY', 'CMTV', 'CMMB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 825/4155 (have 2402)
+
+50 Failed downloads:
+['COPL-W', 'COPL-U', 'CNXU', 'COP', 'CNXN', 'CNTN', 'CNO', 'COPL', 'COCP', 'CNSP', 'CYAB', 'CYH', 'CNSY', 'COF', 'COFS', 'COOT', 'COAG', 'COLD', 'CORZZ', 'COLL', 'CORZ', 'CNMD', 'CNOB', 'COSM', 'CNR', 'CNX', 'CNTY', 'CNVS', 'COIN', 'COPR-W', 'CNTX', 'CORZW', 'CPAC', 'COST', 'COHU', 'CPF', 'CPHI', 'CODI', 'COSO', 'CPBI', 'CPAY', 'CYPH', 'COGT', 'COMP', 'CORT', 'COYA', 'COOK', 'COLB', 'COCO', 'CODX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 900/4155 (have 2427)
+
+43 Failed downloads:
+['DGAC-R', 'DKI', 'DERM', 'DHX', 'DMB', 'DD', 'DAVEW', 'DNP', 'DGAC-U', 'DCO', 'DBL', 'DFTX', 'DNMXW', 'DINO', 'DMA', 'DG', 'DFNS', 'DNTH', 'DLPN', 'DLB', 'D', 'DEA', 'DBCA', 'DKS', 'DAO', 'DDOG', 'DOC', 'DFDV', 'DAIO', 'DNMX', 'CZNC', 'DAR', 'DMC', 'DBVT', 'DLX', 'DCGO', 'DNOW', 'DK', 'DAN', 'DDC', 'DAIC', 'DHC', 'DLXY']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 975/4155 (have 2459)
+
+20 Failed downloads:
+['DSX-W', 'ELMD', 'EHGO', 'ELUT', 'EFTY', 'ELPC', 'DYORU', 'DUKU', 'DSX', 'DRTS', 'EFC', 'EIG', 'DUKB', 'EFSC', 'DXC', 'DOUG', 'DY', 'DOCS', 'DTG', 'DORM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1050/4155 (have 2514)
+
+70 Failed downloads:
+['EONR-W', 'EOD', 'ENSC', 'EOS', 'ESBA', 'ETN', 'EQX', 'ESP', 'EQS', 'EMF', 'EPD', 'ENTX', 'EOLS', 'EROC', 'EPC', 'ENGS', 'ENHA', 'EMD', 'EMP', 'EOG', 'EQ', 'ENSG', 'ENLV', 'ENRD', 'ENOV', 'ESE', 'ENLT', 'ENTG', 'ETD', 'EMBC', 'EONR', 'ENVX', 'EMIS', 'ESLA', 'ERAS', 'EQBK', 'EMR', 'ERIE', 'ETG', 'EQPT', 'EPM', 'EMPD', 'EROK', 'EMA', 'EPOW', 'EOCN', 'ENGNW', 'ESLT', 'ENVB', 'ENS', 'ES', 'ERH', 'ERO', 'ENR', 'EP', 'ESTA', 'EQNR', 'EOSE', 'ERNA', 'ET', 'ESYN', 'ESCA', 'EQH', 'EML', 'EPRX', 'ETJ', 'ELVR', 'ENJ', 'EPRT', 'ENRDW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1125/4155 (have 2519)
+
+68 Failed downloads:
+['EVAC-W', 'FATE', 'ETSS-W', 'EVCM', 'EXC', 'EVLV', 'EVGN', 'ETV', 'FAF', 'EXFY', 'F', 'FBIN', 'EVOX', 'EVMN', 'ETW', 'EVEX', 'EU', 'EXPE', 'FANG', 'FACT', 'FAST', 'FAX', 'EXPD', 'EZGO', 'EVAC-U', 'FBDT', 'EXPO', 'EVC', 'ETS', 'EW', 'EVRG', 'FBIZ', 'EVI', 'ETSS-U', 'EXTR', 'EVAC', 'EXOZ', 'EVEX-W', 'FAC', 'EVG', 'EVR', 'EZPW', 'EXE', 'FABC', 'EURK', 'EXOD', 'EXYN', 'EXG', 'EVV', 'EXK', 'EXP', 'FBGL', 'FAMI', 'EVN', 'EVT', 'EVH', 'ETRA', 'EWTX', 'EVF', 'EVTL', 'ETX', 'ETO', 'FBIO', 'FATN', 'ETSS', 'ETON', 'EWBC', 'EZRA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1200/4155 (have 2526)
+
+57 Failed downloads:
+['FCRS-U', 'FHTX', 'FCRS', 'FE', 'FIS', 'FIGS', 'FDBC', 'FCN', 'FBRT', 'FCBM', 'FFR', 'FINW', 'FISK', 'FBYDW', 'FBLA', 'FCAP', 'FERA', 'FBP', 'FENG', 'FGC', 'FBLG', 'FCEL', 'FGN', 'FIBK', 'FEDU', 'FFA', 'FBNC', 'FFAI', 'FISN', 'FCBC', 'FDMM', 'FFIV', 'FGSN', 'FG', 'FIGR', 'FCHL', 'FIGX', 'FHB', 'FCX', 'FINS', 'FDMT', 'FGL', 'FGBI', 'FIP', 'FCNCA', 'FBK', 'FENC', 'FELE', 'FC', 'FISV', 'FINV', 'FGII', 'FFIN', 'FEAM', 'FCRS-W', 'FBYD', 'FEIM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1275/4155 (have 2544)
+
+11 Failed downloads:
+['FLYX-W', 'FOFO', 'FNRN', 'FLNG', 'FOSL', 'FLL', 'FNV', 'FRA', 'FJDI', 'FOF', 'FOXX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1350/4155 (have 2608)
+
+68 Failed downloads:
+['FTRA-U', 'FWAC', 'GAINZ', 'GCGR', 'FVAV', 'GCMG', 'FT', 'GAME', 'GCGRU', 'FURY', 'GCT', 'FWDI', 'FXAC', 'GBR', 'FULC', 'GBX', 'FTHY', 'FTF', 'FTNT', 'GANX', 'FWRG', 'FTFT', 'GALT', 'GAIA', 'GAING', 'FWRD', 'GBCI', 'GAINI', 'GAP', 'FTW', 'GASS', 'FTH', 'FVRR', 'FTW-W', 'FUNC', 'FSTR', 'FWONK', 'FSSL', 'G', 'GABC', 'GCO', 'FTEK', 'FXHO', 'GAIN', 'GBLI', 'FVCB', 'GCTK', 'GAU', 'FTRA-W', 'GATX', 'GBFH', 'GCGRW', 'GAUZ', 'FSUN', 'FUTU', 'FVR', 'FTK', 'FTCI', 'FXNC', 'FUFU', 'GCLWW', 'GAB', 'GAM', 'FTHA', 'FWONA', 'GBAB', 'FTS', 'FUBO']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1425/4155 (have 2615)
+
+46 Failed downloads:
+['GCTS-W', 'GHM', 'GDV', 'GIXXR', 'GCV', 'GCTS', 'GEVO', 'GFAI', 'GIBOW', 'GE', 'GGAL', 'GGG', 'GDOT', 'GDDY', 'GHG', 'GDYN', 'GECCG', 'GECCI', 'GEO', 'GEN', 'GEG', 'GHXIU', 'GFUZ', 'GD', 'GECCH', 'GIGM', 'GELS', 'GEF-B', 'GJH', 'GIPR', 'GERN', 'GFL', 'GDO', 'GIB', 'GDRX', 'GENI', 'GIXI', 'GHC', 'GDEV', 'GH', 'GILD', 'GFF', 'GHXI', 'GIW', 'GITS', 'GGZ']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1500/4155 (have 2644)
+
+72 Failed downloads:
+['IAUX-W', 'GLED-R', 'GLED-U', 'HYAC-U', 'HVMCW', 'GLBE', 'HURC', 'IDYA', 'HWCPZ', 'GLRE', 'GLUE', 'GLED', 'IDN', 'IBO', 'ICLR', 'GLIBK', 'GLOO', 'IAUX', 'GLQ', 'IBG', 'ICON', 'GLND', 'ICMB', 'HYI', 'IBM', 'HYPD', 'IBAC', 'GLP', 'IBCP', 'GROY-W', 'GLPI', 'IBIO', 'IDCC', 'GLO', 'GKOS', 'GME-W', 'GLV', 'IAF', 'HAWK', 'IACQ', 'GTE', 'GMHS', 'GYRE', 'GLU', 'HAVA', 'IBN', 'GSHR', 'GLOB', 'GLDG', 'GPJA', 'ICFI', 'GRML', 'GL', 'HWBK', 'GTLB', 'IDE', 'GLIBA', 'HACQ', 'HUBS', 'HVMCU', 'GOTU', 'GLE', 'IBEX', 'HURN', 'GOOGL', 'HALO', 'ICCC', 'GOF', 'GLBS', 'ICUI', 'GLNG', 'GMRS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1575/4155 (have 2647)
+
+3 Failed downloads:
+['INFQ-W', 'IOT', 'INTG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1650/4155 (have 2719)
+
+73 Failed downloads:
+['IRAB-U', 'JACS', 'IPW', 'IQ', 'JCE', 'IQST', 'ITOC', 'JAZZ', 'JBIO', 'JENA', 'IPWR', 'ISPC', 'JAKK', 'JBK', 'IRD', 'IRHOR', 'IRS', 'IZEA', 'JACS-R', 'IPVVW', 'IQMX', 'JDZG', 'ITRI', 'ITIC', 'JATT', 'IZM', 'J', 'JCSE', 'JBHT', 'IRDM', 'ISRG', 'JBI', 'IVR', 'IRAB-W', 'ITHA', 'JD', 'JAGU', 'IVVD', 'IVT', 'IRT', 'JACK', 'IRTC', 'JEF', 'IXHL', 'JCTC', 'JEM', 'IVAI', 'IPXG', 'IQMXW', 'IPVV', 'JAGX', 'ITP', 'JCI', 'IVF', 'JBGS', 'JBS', 'IQI', 'JBLU', 'IX', 'ITG', 'IR', 'IRHOU', 'ITRG', 'JBL', 'IPVVU', 'JELD', 'JACS-U', 'IRLA', 'IRON', 'IPSC', 'ISBA', 'IRM', 'ITRN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1725/4155 (have 2721)
+
+63 Failed downloads:
+['KCAC-U', 'JOB', 'KEEL', 'JMIA', 'JFU', 'JOF', 'JZXN', 'KARO', 'JFR', 'JMKE', 'JGH', 'KBON', 'KCAC-W', 'JKS', 'KBR', 'JRSH', 'JKHY', 'KE', 'KCA-U', 'JYD', 'JXN', 'KELYB', 'JFIN', 'JG', 'JOYY', 'KDP', 'JXG', 'JILL', 'JRI', 'JNJ', 'JSPR', 'KB', 'KELYA', 'JJSF', 'KALA', 'KC', 'JYNT', 'JONEU', 'JENA-R', 'KBONU', 'JF', 'KBDC', 'JHS', 'KAPA', 'JLL', 'KARD', 'KAZR', 'JOE', 'JVA', 'JHI', 'JTAI', 'JONE', 'JENA-U', 'KAI', 'JPM', 'KBSX', 'JONER', 'JWEL', 'JL', 'KDK', 'KALU', 'JOBY', 'JTTT']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1800/4155 (have 2733)
+
+70 Failed downloads:
+['KPET-U', 'KOSS', 'KLAC', 'KRAQW', 'KMB', 'KGEI', 'KRAQ', 'KPET-W', 'KF', 'KPRX', 'KIDS', 'KMI', 'KO', 'KRMN', 'KIDZW', 'KEQU', 'KMTS', 'KODK', 'KFII', 'KGS', 'KMPB', 'KNF', 'KHC', 'KEN', 'KMT', 'KREF', 'KEYY', 'KEP', 'KPTI', 'KRKR', 'KEY', 'KEYS', 'KLC', 'KNSL', 'KRG', 'KNX', 'KINS', 'KLIC', 'KIDZ', 'KNRX', 'KKRT', 'KGC', 'KKR', 'KOP', 'KPLT', 'KLXE', 'KKRS', 'KMPR', 'KOPN', 'KRNT', 'KNDI', 'KOD', 'KNTK', 'KFFB', 'KFRC', 'KLAR', 'KRC', 'KMRK', 'KN', 'KOYN', 'KPET', 'KMDA', 'KLRS', 'KG', 'KOS', 'KRMD', 'KLTR', 'KMX', 'KFY', 'KNOP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1875/4155 (have 2738)
+
+51 Failed downloads:
+['KRSP-W', 'LCFY', 'LB', 'LAC', 'LADR', 'KRSP', 'KTOS', 'LBTYB', 'KRO', 'KTB', 'KYIV', 'LCID', 'LASR', 'KTWO', 'LATA', 'LAR', 'LBTYK', 'KWY', 'KSS', 'KRP', 'LAKE', 'KRRO', 'LCII', 'KRYS', 'LBRX', 'KVUE', 'KZIA', 'LANV', 'LBRT', 'LAZ', 'KRUS', 'LAFA', 'KVHI', 'KXIN', 'LCTX', 'KSCP', 'KRT', 'LDOS', 'KRSA', 'KULR', 'KT', 'KRSP-U', 'KWR', 'L', 'LAW', 'KURA', 'KSPI', 'KUST', 'KRNY', 'KROS', 'LCNB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 1950/4155 (have 2762)
+
+68 Failed downloads:
+['LEGO-W', 'LEGO-U', 'LIVE', 'LNAI', 'LEGH', 'LGPS', 'LFTO', 'LMAT', 'LHX', 'LIDR', 'LICN', 'LITB', 'LH', 'LIF', 'LFT', 'LGCY', 'LFVN', 'LGIH', 'LMND', 'LMT', 'LIN', 'LGL', 'LENZ', 'LIVN', 'LMB', 'LGI', 'LGCL', 'LII', 'LIME', 'LEGN', 'LFUS', 'LFMD', 'LIMNW', 'LGN', 'LILAK', 'LMNR', 'LINK', 'LEN-B', 'LECO', 'LEVI', 'LFST', 'LFAC', 'LFS', 'LEO', 'LGND', 'LKFN', 'LGVN', 'LI', 'LION', 'LFCR', 'LMRI', 'LGO', 'LLYVA', 'LEE', 'LHSW', 'LLYVK', 'LIMN', 'LEXX', 'LEGO', 'LEDS', 'LKFT', 'LLY', 'LILAP', 'LIND', 'LIEN', 'LKQ', 'LEN', 'LINE']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2025/4155 (have 2769)
+
+38 Failed downloads:
+['LVWR-W', 'LX', 'LUCY', 'LTGRW', 'LPBB', 'LNN', 'LUD', 'LUCD', 'LQDA', 'LPG', 'LUMN', 'LWAC', 'LTM', 'LSE', 'LPCN', 'LYEL', 'LXRX', 'LSAK', 'LTBR', 'LYFT', 'LND', 'LPAA', 'LUNG', 'LNZA', 'LUCK', 'LUXE', 'LOW', 'LPCV', 'LNT', 'LNKS', 'LRMR', 'LONA', 'LW', 'LVS', 'LQDT', 'LSF', 'LOT', 'LUNR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2100/4155 (have 2806)
+
+71 Failed downloads:
+['LZM-W', 'MOBI', 'MAMO', 'MMT', 'MOBX', 'MNPR', 'MASK', 'MOMO', 'MNYWW', 'MAZE', 'MANU', 'MASS', 'MA', 'MBC', 'MNR', 'MOLN', 'MODD', 'MNTK', 'MAS', 'MOS', 'MNSO', 'MNSB', 'MNOV', 'MNRO', 'MAA', 'MBBC', 'LYTS', 'MNTS', 'LZM', 'MAC', 'MATH', 'MMI', 'MANE', 'MOB', 'MNSBP', 'MB', 'MO', 'MAN', 'MAGN', 'MBAI', 'LYV', 'MMYT', 'MNDY', 'MBI', 'MMM', 'MNY', 'MAGH', 'MATV', 'MNKD', 'MMTX', 'MBIN', 'MNST', 'MOH', 'MOBXW', 'MOGU', 'LZMH', 'MOBBW', 'MOD', 'MMSI', 'MNDO', 'MBGL', 'MANH', 'MMU', 'MNDR', 'MOG-B', 'MATX', 'MAYS', 'MAAS', 'M', 'MAT', 'MAKO']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2175/4155 (have 2810)
+
+71 Failed downloads:
+['MTAL-W', 'MSGR-V', 'MTR', 'MTAK', 'MQ', 'MPA', 'MSDL', 'MRSH', 'MTLS', 'MRK', 'MTN', 'MSI', 'MPWR', 'MTAL-U', 'MSGK-V', 'MT', 'MRVI', 'MSAIW', 'MPAA', 'MRVL', 'MSGM', 'MTCH', 'MTC', 'MTEX', 'MSEX', 'MTEK', 'MTB', 'MRT', 'MPLX', 'MSM', 'MRDN', 'MOVE', 'MTG', 'MSTR', 'MSIF', 'MTNE', 'MRTN', 'MS', 'MRP', 'MTEN', 'MSLE', 'MPU', 'MRNO', 'MSA', 'MSS', 'MSN', 'MTNE-W', 'MSBI', 'MSGS', 'MPLT', 'MSGY', 'MPV', 'MSFT', 'MTNE-U', 'MPC', 'MRKR', 'MSGE', 'MRX', 'MRCO', 'MREO', 'MSC', 'MSAI', 'MPTI', 'MRAM', 'MTAL', 'MOV', 'MTNB', 'MRBK', 'MTEKW', 'MTH', 'MPB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2250/4155 (have 2814)
+
+71 Failed downloads:
+['MZYX-U', 'MZYX-W', 'NAN', 'MUX', 'NBR', 'MWC', 'MYE', 'MX', 'MVBF', 'NBH', 'MTW', 'MUC', 'MTZ', 'NAVN', 'NAGE', 'NBHC', 'NAZ', 'MYSE', 'MUZE', 'MXL', 'NBXG', 'MYPS', 'NB', 'MTVA', 'MWA', 'MTSI', 'MUSA', 'MUA', 'NAD', 'NAKA', 'NAUT', 'NC', 'MTUS', 'NAMS', 'NBN', 'MXCT', 'MXC', 'NBTX', 'MUJ', 'NCEW', 'NBB', 'NAMI', 'MYGN', 'MXE', 'MYI', 'NBP', 'MYO', 'MU', 'MZYX', 'MVST', 'MWH', 'NBTB', 'NCI', 'MTRX', 'NCDL', 'NAII', 'MYN', 'MTX', 'MUFG', 'MVIS', 'NATL', 'NATH', 'NAAS', 'NBIX', 'NABL', 'NBBK', 'MYFW', 'NCEL', 'MYX', 'NAMMW', 'NAK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2325/4155 (have 2818)
+
+33 Failed downloads:
+['NE-W', 'NE-A', 'NGL', 'NIC', 'NHTC', 'NEWP', 'NIQ', 'NEXR', 'NKTX', 'NEOV', 'NCZ', 'NIU', 'NCNA', 'NEXN', 'NGVT', 'NHI', 'NEXM', 'NE', 'NCV', 'NEM', 'NFLX', 'NGNE', 'NFG', 'NDRA', 'NDAQ', 'NEUP', 'NEN', 'NIKI', 'NFGC', 'NGEN', 'NCLH', 'NCPL', 'NG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2400/4155 (have 2860)
+
+38 Failed downloads:
+['NSTR-W', 'NMAI', 'NTIC', 'NVAX', 'NNBR', 'NMAX', 'NVCT', 'NRP', 'NRUC', 'NMM', 'NPK', 'NMRK', 'NSP', 'NTB', 'NMP', 'NPAC', 'NSYS', 'NSIT', 'NOVT', 'NPB', 'NTIP', 'NTES', 'NUAI', 'NVA-W', 'NPWR-W', 'NTCT', 'NODK', 'NOV', 'NRGV', 'NNE', 'NUS', 'NNDM', 'NPKI', 'NOG', 'NTRS', 'NVDA', 'NMIH', 'NVNO']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2475/4155 (have 2897)
+
+55 Failed downloads:
+['OCAC-R', 'ODTX', 'NYT', 'OBIO', 'OACC', 'OFG', 'OGC', 'ODFL', 'NXGL', 'NXPL', 'OIG', 'NXST', 'NWG', 'NYC', 'OKLO', 'NXT', 'NXTS', 'NXB', 'OCAC-U', 'OCAC-W', 'NX', 'OEC', 'NXH', 'OGEN', 'OGCP', 'NXG', 'NXPI', 'OFSSH', 'OFLX', 'ODD', 'OBX', 'OLOX', 'OLN', 'OCTV', 'OKE', 'NXDT', 'OABI', 'ODYS', 'NVS', 'NYAX', 'OCGN', 'OKTA', 'NWFL', 'O', 'OIA', 'NWCL', 'OHI', 'NVX', 'NXXT', 'NWAX-W', 'OIM', 'NVR', 'NVTS', 'NWAX-U', 'OCSAW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2550/4155 (have 2917)
+
+64 Failed downloads:
+['OTAI-R', 'OTF', 'OTLK', 'OSPN', 'OMEX', 'ONCY', 'OTLY', 'OTIS', 'OPI', 'OPTU', 'OSG', 'ORCL', 'ORIC', 'ORIQ', 'OUST', 'OPLN', 'OPENL', 'OPRA', 'OMER', 'ONON', 'OM', 'ONEW', 'ONEG', 'ONMD', 'OPXS', 'OR', 'OWL', 'OMCL', 'OPAL', 'ORRF', 'ONDS', 'OPEN', 'OVID', 'OPTH', 'OPRX', 'OUT', 'OPTT', 'OPP', 'ONB', 'ORGO', 'ORBS', 'OPTX', 'OWLT', 'ORC', 'OSPR', 'OSIS', 'ORIQU', 'ORI', 'OVBC', 'ONT', 'OSCR', 'OPK', 'OPRT', 'OPCH', 'ORMP', 'OTAI-U', 'OSUR', 'OPHC', 'OTTR', 'ONCO', 'OPENZ', 'OPNW', 'OMSE', 'OMF']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2625/4155 (have 2928)
+
+31 Failed downloads:
+['PAII-U', 'PAYP', 'PAMT', 'PAYC', 'PCG', 'PAII-W', 'PCAP', 'PAGP', 'PAC', 'PCSA', 'PBA', 'OZK', 'OXSQH', 'PALI', 'P', 'PACK', 'OXLCG', 'PANL', 'PBM', 'PBI', 'PAYS', 'OXLCL', 'PCB', 'PCM', 'OZ', 'PARR', 'PAY', 'PBLS', 'OXY-W', 'PAM', 'PAR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2700/4155 (have 2972)
+
+13 Failed downloads:
+['PEW-W', 'PII', 'PKG', 'PFLT', 'PIII', 'PENN', 'PFG', 'PEPG', 'PEW', 'PHIN', 'PDEX', 'PGR', 'PKBK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2775/4155 (have 3034)
+
+73 Failed downloads:
+['PLUN-R', 'PONY', 'POLA', 'PPBT', 'PMEC', 'PNTG', 'PPC', 'PLPC', 'PNAQ', 'PLNT', 'PORT-U', 'POCI', 'POAS', 'PLX', 'POET', 'PLCE', 'PLCI', 'PLUS', 'PMVP', 'PLMR', 'PLUT', 'PLSM', 'PM', 'PONOR', 'PODC', 'PML', 'PNR', 'POR', 'POM', 'PLG', 'PONO', 'PMN', 'PLYX', 'POWL', 'PLGO', 'POLE', 'PLUN-U', 'PLBY', 'PLOW', 'PLXS', 'PNNT', 'PNBK', 'PMTS', 'PLBL', 'PLMK', 'PMCB', 'PLAY', 'PNC', 'PMA', 'POWI', 'PN', 'PLTR', 'POST', 'POOL', 'PNFP', 'PLRZ', 'PKX', 'PNAQ-U', 'PLUG', 'PLSE', 'PLAG', 'PNAQ-R', 'PLRX', 'PL', 'PLBC', 'PMTR', 'PMAX', 'PNRG', 'PNI', 'PMT', 'PONOU', 'PLTK', 'PNW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2850/4155 (have 3036)
+
+71 Failed downloads:
+['PSQH-W', 'PS', 'PRPO', 'PRAX', 'PRE', 'PTRN', 'PTCT', 'PTHS', 'PROV', 'PSIG', 'PR', 'PROF', 'PRHIZ', 'PTAC', 'PTN', 'PTLO', 'PSTL', 'PPTA', 'PRLD', 'PRH', 'PRMB', 'PSIX', 'PPHC', 'PPIH', 'PPLC', 'PSMT', 'PRHI', 'PSO', 'PRQR', 'PTEN', 'PTON', 'PRFX', 'PRKS', 'PRSU', 'PRCT', 'PPSI', 'PRCH', 'PSBD', 'PSNL', 'PRTS', 'PSQH', 'PPL', 'PTC', 'PRVA', 'PRK', 'PSF', 'PSN', 'PRZO', 'PRME', 'PSUS', 'PSFE', 'PRG', 'PTGX', 'PPG', 'PSQL', 'PSX', 'PPCB', 'PRLB', 'PSNY', 'PRPL', 'PSHG', 'PROK', 'PRAA', 'PRGS', 'PTOR', 'PRSO', 'PRM', 'PTLE', 'PRTH', 'PRS', 'PRIM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 2925/4155 (have 3040)
+
+48 Failed downloads:
+['QRED-R', 'PXED', 'QSI', 'PWP', 'QCOM', 'QMCO', 'QNBC', 'QTTB', 'QBTS', 'QRED', 'QUIK', 'QLYS', 'RAC-U', 'QNST', 'QVCG', 'QS', 'QSEA', 'PYT', 'QLEP', 'PURR', 'PYXS', 'QUAD', 'PYPL', 'QUCY', 'PWCM', 'QRED-U', 'QCLS', 'QNRX', 'RACD', 'QTEX', 'RMTI', 'QUBT', 'R', 'QUMS', 'QTWO', 'PXLW', 'RNGT', 'RAC', 'RNAZ', 'PUMP', 'RNA', 'QTI', 'QURE', 'QLEP-W', 'QNC', 'RAC-W', 'PVLA', 'QTRX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3000/4155 (have 3067)
+round 2: 3075/4155 (have 3142)
+
+73 Failed downloads:
+['SAC-U', 'SBC', 'SAC', 'SA', 'SAP', 'SCAG', 'S', 'SBFG', 'RYTM', 'SBR', 'SAGU', 'SACH', 'RZC', 'SAMG', 'SAFX', 'SAC-W', 'SBSI', 'SAAQ', 'SAZ', 'SATL', 'SAFT', 'SBMT', 'RZLVW', 'SBCF', 'SBXE-U', 'SCAT', 'SBI', 'SBGI', 'SAV', 'SAM', 'SAIL', 'SCCG', 'SBXE-W', 'SBFM', 'SAGU-U', 'SAN', 'SAH', 'SAIA', 'SAR', 'SAIH', 'SAX', 'RYM', 'SCCD', 'SANA', 'SAJ', 'SAGU-R', 'RYOJ', 'SAGT', 'SAY', 'SBSW', 'RYET', 'RYN', 'SABR', 'RZAI', 'SBET', 'SAGU-W', 'SBS', 'SANM', 'SANG', 'SAMO-U', 'SBLK', 'SBH', 'SARO', 'SAMO', 'SBAC', 'SAMO-W', 'SABS', 'RZLV', 'RYZ', 'SAIQ', 'RZLT', 'SBCWW', 'SB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3150/4155 (have 3144)
+round 2: 3225/4155 (have 3219)
+
+58 Failed downloads:
+['SKYD-W', 'SNSC', 'SLSN', 'SKYE', 'SKIL', 'SMCI', 'SNGX', 'SNFCA', 'SMID', 'SKE', 'SKYH-W', 'SLNG', 'SMMT', 'SNOW', 'SKYA', 'SMHI', 'SNDL', 'SMTC', 'SLN', 'SLF', 'SLM', 'SMWB', 'SMFG', 'SKYH', 'SKM', 'SMSI', 'SLDE', 'SLG', 'SNDR', 'SLXN', 'SMR', 'SLVM', 'SNDX', 'SNT', 'SLQT', 'SLGB', 'SNES', 'SLBT', 'SLMT', 'SLGN', 'SMBC', 'SNAL', 'SMJF', 'SLND-W', 'SLNH', 'SKYD', 'SND', 'SNA', 'SMP', 'SMXT', 'SNEX', 'SLGL', 'SNDA', 'SNAP', 'SLSR', 'SLI', 'SLND', 'SJM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3300/4155 (have 3236)
+
+18 Failed downloads:
+['SOUL-U', 'SNWV', 'SPOK', 'SORN', 'TBCH', 'SPPL', 'SPFI', 'SNTI', 'SOC', 'SPHR', 'SNX', 'TBCVU', 'SOBO', 'SOUN', 'SRAD', 'SOJE', 'SOUL-R', 'SQFTW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3375/4155 (have 3293)
+
+11 Failed downloads:
+['TGE-W', 'TIPT', 'TC', 'TBN', 'TEM', 'THH', 'TEAM', 'TDWD', 'TCOM', 'TCXB', 'TDTH']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3450/4155 (have 3357)
+
+70 Failed downloads:
+['TRAD-R', 'TLIH', 'TLX', 'TMUSL', 'TRAD', 'TMCR', 'TMP', 'TKNO', 'TRAK', 'TNL', 'TKO', 'TPGXL', 'TLN', 'TMO', 'TMQ', 'TNYA', 'TNDM', 'TNC', 'TONT-U', 'TP', 'TMSWW', 'TOYO', 'TONX', 'TLRY', 'TPL', 'TPG', 'TPET', 'TK', 'TNXP', 'TMUS', 'TLS', 'TME', 'TMCI', 'TKC', 'TONT', 'TLK', 'TPST', 'TNGX', 'TORO', 'TMDX', 'TOWN', 'TPCS', 'TLF', 'TJX', 'TONT-W', 'TLSA', 'TMS', 'TOPS', 'TKLF', 'TPVG', 'TPR', 'TOP', 'TPB', 'TLNCW', 'TRAD-U', 'TNMG', 'TMDE', 'TLNC', 'TM', 'TKR', 'TMUSI', 'TMUSZ', 'TLYS', 'TMTS', 'TPC', 'TMC', 'TLNCU', 'TNET', 'TOON', 'TLPH']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3525/4155 (have 3362)
+round 2: 3600/4155 (have 3437)
+
+50 Failed downloads:
+['UAC-W', 'TW', 'TXMD', 'UEC', 'UHAL', 'TVTX', 'UCAR', 'UAC-U', 'UMC', 'UFI', 'UE', 'ULS', 'UBER', 'TXNM', 'UAN', 'ULBI', 'TWLV', 'UFPT', 'TXG', 'ULTA', 'UGI', 'TWN', 'TYG', 'TWIN', 'UG', 'TY', 'UFCS', 'U', 'UCFI', 'UAC', 'UL', 'UMH', 'TYGO', 'TXO', 'ULCC', 'UHAL-B', 'UDR', 'TXRH', 'TWAV', 'UCL', 'TVRD', 'UEIC', 'TYL', 'UCTT', 'TWG', 'TWLO', 'UBSI', 'TWLVR', 'UGP', 'UA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3675/4155 (have 3462)
+
+59 Failed downloads:
+['VAL-W', 'URI', 'UNFI', 'VCTR', 'UPLD', 'UUUU', 'USAS', 'UZX', 'UTG', 'UTF', 'UPBD', 'VANI', 'UTMD', 'USLM', 'UPS', 'UNMA', 'USEA', 'UXIN', 'USNA', 'USAC', 'URBN', 'VCEL', 'USAU', 'VBNK', 'UPB', 'VCX', 'UONEK', 'UROY', 'USIO', 'UVE', 'UTHR', 'UPST', 'UVSP', 'UTL', 'VALU', 'USAR', 'VAI', 'V', 'VECA', 'VAL', 'UZD', 'VBIO', 'VBF', 'UNP', 'USGO', 'USBC', 'VCRE', 'UWMC', 'UVV', 'URGN', 'USDE', 'USPH', 'VCV', 'VATE', 'USCB', 'UNTY', 'UTSI', 'VABK', 'UNM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3750/4155 (have 3478)
+
+64 Failed downloads:
+['VII-W', 'VII-U', 'VECA-R', 'VIK', 'VIVO', 'VERX', 'VHCPU', 'VICI', 'VIRC', 'VIOT', 'VIDA', 'VLRS', 'VERI', 'VIST', 'VNME', 'VEL', 'VMAR', 'VFC', 'VEON', 'VKI', 'VFF', 'VG', 'VNET', 'VIAV', 'VIV', 'VHC', 'VENU', 'VMET', 'VLY', 'VNOM', 'VIVS', 'VGM', 'VFS', 'VMO', 'VHI', 'VNDA', 'VEEV', 'VHCP', 'VERA', 'VIA', 'VITL', 'VIR', 'VISN', 'VELO', 'VGNT', 'VKQ', 'VGAS', 'VJET', 'VECO', 'VKTX', 'VET', 'VLTO', 'VLO', 'VIRT', 'VIVK', 'VIP', 'VLGEA', 'VEEA', 'VNCE', 'VMD', 'VECA-U', 'VINP', 'VII', 'VHCPW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3825/4155 (have 3489)
+round 2: 3900/4155 (have 3564)
+
+72 Failed downloads:
+['WPAC-U', 'WHLR', 'WENN', 'WPAC', 'WDS', 'WLCO', 'WMT', 'WKHS', 'WF', 'WNC', 'WH', 'WING', 'WPP', 'WEN', 'WLTH', 'WPAC-R', 'WENC-R', 'WETO', 'WMG', 'WNEB', 'WEX', 'WMK', 'WCT', 'WCN', 'WHD', 'WDAY', 'WIT', 'WHG', 'WLDN', 'WLKP', 'WELL', 'WIMI', 'WEAV', 'WLDS', 'WMS', 'WM', 'WETH', 'WHR', 'WENC', 'WLCOU', 'WERN', 'WHFCL', 'WDH', 'WHWK', 'WLYB', 'WK', 'WPM', 'WEC', 'WFG', 'WFF', 'WINA', 'WLY', 'WFCF', 'WES', 'WEYS', 'WKSP', 'WENC-U', 'WGS', 'WLFC', 'WDI', 'WMB', 'WLII', 'WOLF', 'WCCB', 'WIX', 'WLK', 'WHK', 'WFC', 'WORX', 'WDC', 'WEST', 'WOR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 3975/4155 (have 3567)
+
+72 Failed downloads:
+['XFLH-R', 'XNDU', 'XLAB', 'WYFI', 'WTF', 'WTW', 'WWR', 'WVE', 'XMAX', 'XIIIW', 'WSO-B', 'XCUR', 'WTBA', 'XHG', 'WST', 'WXM', 'WVVI', 'WSBF', 'XFLH', 'WQEY', 'XLO', 'WY', 'XPEL', 'XBIT', 'WWW', 'WULF', 'WSE', 'WS', 'XGN', 'XELLL', 'WSM', 'XFLT', 'XHLD', 'XFLH-U', 'XENE', 'WTRG', 'XAIR', 'XBP', 'WYY', 'WT', 'WRD', 'XMTR', 'WYHG', 'WTM', 'XELB', 'XIFR', 'XPEV', 'WSFS', 'XIII', 'WU', 'WSC', 'XFOR', 'WSHP', 'XPER', 'WRAP', 'XE', 'XERS', 'WSBK', 'WTS', 'WTG', 'XEL', 'XHR', 'WRB', 'WW', 'WSO', 'WTTR', 'WYNN', 'XNCR', 'XP', 'WRN', 'WTI', 'XBIO']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 4050/4155 (have 3570)
+
+68 Failed downloads:
+['YCY-W', 'XPL', 'YMM', 'ZBRA', 'ZBIO', 'YB', 'YMT', 'YDES', 'YIBO', 'ZDAI', 'YHGJ', 'YMAT', 'YETI', 'XRPN', 'YALA', 'YRD', 'YSG', 'YI', 'YICC', 'ZENA', 'XYF', 'XZO', 'YSWY', 'YDDL', 'YUM', 'XWEL', 'YXT', 'ZD', 'YORW', 'YAAS', 'XRN', 'YCY', 'YICCU', 'YOUL', 'XYL', 'XRTX', 'YQ', 'XRAY', 'ZBAO', 'XRPNW', 'YCY-U', 'YDESW', 'YOU', 'XRX', 'YPF', 'XRXDW', 'XPRO', 'XTER', 'YSXT', 'YTRA', 'XPO', 'YHC', 'YICCW', 'XXII', 'Z', 'YJ', 'YEXT', 'XPON', 'ZBH', 'ZCMD', 'XTIA', 'YCBD', 'XTNT', 'XSLL', 'YFOR', 'XTND', 'ZEO', 'YDKG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 2: 4125/4155 (have 3577)
+round 2: 4155/4155 (have 3607)
+
+42 Failed downloads:
+['AAC-W', 'ABT', 'ABXL', 'ABTS', 'ABTC', 'AAPG', 'ABG', 'A', 'ABNB', 'AAPL', 'AARD', 'ACA', 'AA', 'ABAT', 'ACFN', 'AB', 'ABBV', 'ACCV', 'AAC-U', 'ABX', 'AACI', 'AAL', 'ACET', 'AAON', 'AAME', 'ABVC', 'ACCO', 'AACP', 'ACEL', 'AAP', 'ABUS', 'AACG', 'ABEO', 'AACO', 'AADX', 'ABOS', 'ABLV', 'AAOI', 'ABCB', 'ABCL', 'AAUC', 'ABEV']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 50/2646 (have 3615)
+
+37 Failed downloads:
+['AII', 'AIIA-U', 'ACHC', 'ACHV', 'AGMH', 'ACNB', 'AIIA-R', 'AGO', 'ACIU', 'ACH', 'ACLS', 'ACI', 'AGYS', 'ACHR', 'AIM', 'ACR', 'AGMB', 'AGX', 'AIMDW', 'AHRT', 'ACOG', 'AGCO', 'AGRO', 'AFYA', 'AGI', 'AIAI', 'AHMA', 'ACIC', 'AGCC', 'AHG', 'AIIO', 'AIDX', 'AGIO', 'ACGL', 'AIIA', 'ACON', 'AIB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 100/2646 (have 3628)
+round 3: 150/2646 (have 3678)
+
+40 Failed downloads:
+['ALUB-U', 'ALMU', 'ALLR', 'AMAT', 'ALRM', 'AMD', 'ALVO', 'AMCR', 'AMCI', 'AMBA', 'ALMS', 'AMPX-W', 'AMH', 'AMKR', 'ALTI', 'ALX', 'AMBR', 'ALLY', 'ALV', 'AMPL', 'AMN', 'AMGN', 'AMAC', 'ALUB', 'ALNT', 'AMC', 'AMRZ', 'ALOY', 'ALZN', 'ALXO', 'AMAN', 'ALM', 'ALT', 'ALP', 'ALUB-W', 'AMR', 'ALNY', 'AMPY', 'AMBQ', 'ALSN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 200/2646 (have 3688)
+round 3: 250/2646 (have 3738)
+
+37 Failed downloads:
+['BBAI-W', 'BANC', 'BATL', 'BCCQ', 'ARTL', 'BCDA', 'ARWR', 'ARTNA', 'BBT', 'BB', 'BBVA', 'BCE', 'BBAR', 'BBWI', 'BCAT', 'BAM', 'BAOS', 'BCGWW', 'BALL', 'BBY', 'BBD', 'BBW', 'ARMK', 'BBNX', 'BCG', 'ARTV', 'BBDO', 'BBCI', 'ARX', 'BANF', 'BANL', 'BANR', 'BBCIW', 'ARLO', 'BALY', 'AROC', 'BAK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 300/2646 (have 3751)
+
+39 Failed downloads:
+['BCSS-U', 'BEBE-U', 'BCSS-W', 'BGMS', 'BFAM', 'BFC', 'BCX', 'BEKE', 'BCH', 'BGX', 'BFH', 'BDX', 'BGSI', 'BHAV', 'BCSF', 'BDC', 'BFRI', 'BEAT', 'BESS-W', 'BEPI', 'BGB', 'BFLY', 'BFS', 'BELFB', 'BH-A', 'BDCI', 'BDSX', 'BETR', 'BEBE-W', 'BEAM', 'BDL', 'BDAI', 'BG', 'BF-B', 'BDN', 'BELFA', 'BFRIW', 'BEBE', 'BCML']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 350/2646 (have 3762)
+
+38 Failed downloads:
+['BIII-U', 'BWIV-U', 'CCK', 'BIII-W', 'BTDR', 'BWIN', 'BID', 'BHP', 'BV', 'BHR', 'CCEL', 'BTOC', 'BWIV-W', 'BILI', 'BW', 'BULL', 'BWFG', 'BIDU', 'BTQ', 'BWEN', 'BSL', 'BTX', 'BTCT', 'BSVN', 'CCG', 'BIII', 'BURL', 'BVC', 'BTU', 'CCCT', 'BHVN', 'BUUU', 'CCI', 'BTO', 'BST', 'BTBT', 'BTCS', 'BTLN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 400/2646 (have 3774)
+
+42 Failed downloads:
+['CELG-R', 'CD', 'CE', 'CDXS', 'CHEF', 'CDZI', 'CEG', 'CDW', 'CHE', 'CGCFW', 'CENTA', 'CHMG', 'CHPT', 'CFND', 'CELH', 'CCSI', 'CDLR', 'CHCI', 'CEVA', 'CHT', 'CGC', 'CDRO', 'CF', 'CELC', 'CCM', 'CDP', 'CDTG', 'CDZIP', 'CHKP', 'CHOW', 'CEPV', 'CGEN', 'CDNA', 'CHAR', 'CCLD', 'CET', 'CDRE', 'CCXIW', 'CGTX', 'CECO', 'CGNX', 'CFFN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 450/2646 (have 3782)
+
+43 Failed downloads:
+['CLBR-U', 'CMCO', 'CLIR', 'CMC', 'CLGN', 'CLWT', 'CI', 'CMG', 'CLPS', 'CLIK', 'CLBR-W', 'CLST', 'CLRB', 'CMCL', 'CLLS', 'CME', 'CLMB', 'CLNN', 'CLM', 'CIIT', 'CLAR', 'CM', 'CLVT', 'CMCSA', 'CIGL', 'CIRC', 'CLH', 'CIFR', 'CLPT', 'CLF', 'CIMO', 'CLMT', 'CLFD', 'CLSK', 'CLYM', 'CKX', 'CJMB', 'CMMB', 'CLBK', 'CITR', 'CLW', 'CLB', 'CLS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 500/2646 (have 3789)
+round 3: 550/2646 (have 3839)
+
+44 Failed downloads:
+['DGAC-R', 'COPL-U', 'DERM', 'CYH', 'CORZZ', 'DGAC-U', 'DD', 'DHX', 'COPL-W', 'DAVEW', 'DBL', 'D', 'CORZ', 'DCO', 'DFTX', 'DFNS', 'COSM', 'DG', 'COST', 'COPR-W', 'DFDV', 'CPAC', 'DINO', 'CPF', 'CORZW', 'DBCA', 'DAIO', 'CPBI', 'DAO', 'DDOG', 'COSO', 'CYPH', 'CZNC', 'CPHI', 'CPAY', 'DBVT', 'DCGO', 'DAR', 'DDC', 'CORT', 'DK', 'DHC', 'DAIC', 'COYA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 600/2646 (have 3845)
+
+27 Failed downloads:
+['DSX-W', 'DLPN', 'DLB', 'DNTH', 'ELMD', 'ELUT', 'DOC', 'EML', 'EFTY', 'EHGO', 'DMC', 'ELPC', 'DLX', 'DSX', 'DYORU', 'DRTS', 'DNMX', 'DNOW', 'DUKU', 'DOUG', 'DXC', 'DTG', 'DNP', 'DUKB', 'DLXY', 'DOCS', 'DORM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 650/2646 (have 3868)
+
+42 Failed downloads:
+['EONR-W', 'EOLS', 'EPD', 'ENTX', 'EROC', 'ESE', 'ENRD', 'EOG', 'EQ', 'ENSG', 'ENOV', 'ENTG', 'ENVX', 'ESLA', 'ERIE', 'ERAS', 'EONR', 'EQPT', 'EROK', 'EPM', 'EQBK', 'ES', 'EQNR', 'EPOW', 'ESLT', 'EOCN', 'ENS', 'ENVB', 'ERH', 'EOSE', 'ET', 'ERNA', 'ENR', 'ESTA', 'EPRX', 'ESYN', 'ERO', 'ENRDW', 'EPRT', 'ESCA', 'EQH', 'EP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 700/2646 (have 3876)
+
+44 Failed downloads:
+['EVAC-W', 'ETSS-W', 'EVLV', 'EXFY', 'EVOX', 'EVMN', 'ETD', 'EVEX', 'ETW', 'EXPD', 'EVAC-U', 'EXPE', 'EVAC', 'EVI', 'EXOZ', 'EVC', 'EW', 'ETS', 'EVRG', 'ETSS-U', 'EVG', 'EVEX-W', 'EVR', 'EURK', 'EXE', 'EXOD', 'EXG', 'EXK', 'EVV', 'EVH', 'EVT', 'ETRA', 'EXP', 'ETX', 'EVF', 'EWTX', 'EVN', 'ETON', 'EVTL', 'EWBC', 'ETG', 'ETSS', 'ETO', 'ETJ']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 750/2646 (have 3882)
+
+45 Failed downloads:
+['FCRS-U', 'FAX', 'FACT', 'EZGO', 'FCRS', 'FE', 'FDBC', 'FCN', 'EXPO', 'FBRT', 'FCBM', 'FBIZ', 'FCAP', 'FBLA', 'FBYDW', 'EXTR', 'FABC', 'FEDU', 'FBP', 'FBLG', 'EZPW', 'FCEL', 'EXYN', 'FBNC', 'FAMI', 'FAC', 'FCBC', 'FBGL', 'FCHL', 'FDMM', 'FANG', 'FCX', 'FBDT', 'FDMT', 'FATN', 'FBK', 'FEIM', 'FELE', 'FC', 'FEAM', 'EZRA', 'FCNCA', 'FBYD', 'FBIO', 'FCRS-W']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 800/2646 (have 3887)
+
+11 Failed downloads:
+['FLYX-W', 'FENC', 'FGII', 'FLNG', 'FNV', 'FOF', 'FJDI', 'FFIN', 'FSUN', 'FRA', 'FOXX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 850/2646 (have 3926)
+
+44 Failed downloads:
+['FTRA-U', 'FVAV', 'GBX', 'FULC', 'GANX', 'FTHY', 'GBR', 'FWRG', 'FTNT', 'GAP', 'GALT', 'FVRR', 'FWRD', 'FTW', 'GAIA', 'GAING', 'GBCI', 'GAINI', 'GBLI', 'FXHO', 'FTW-W', 'FUNC', 'GABC', 'GASS', 'FWONK', 'GAIN', 'FTRA-W', 'G', 'GAU', 'GATX', 'GBFH', 'FVCB', 'GAUZ', 'FUTU', 'FXNC', 'FUFU', 'FVR', 'GAB', 'FTS', 'FUBO', 'GBAB', 'FTK', 'GAM', 'FWONA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 900/2646 (have 3932)
+
+43 Failed downloads:
+['GCTS-W', 'GIGM', 'GEVO', 'GCTS', 'GGAL', 'GFAI', 'GE', 'GCV', 'GGG', 'GIBOW', 'GDYN', 'GEO', 'GDOT', 'GDDY', 'GECCI', 'GEN', 'GHG', 'GECCG', 'GCO', 'GFUZ', 'GCGRW', 'GEG', 'GD', 'GECCH', 'GELS', 'GEF-B', 'GERN', 'GDRX', 'GFL', 'GIB', 'GHXIU', 'GENI', 'GDO', 'GIPR', 'GILD', 'GCLWW', 'GDEV', 'GHXI', 'GH', 'GGZ', 'GCTK', 'GHC', 'GITS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 950/2646 (have 3939)
+
+48 Failed downloads:
+['GLED-U', 'GLED-R', 'HURC', 'GLUE', 'GLED', 'GLBE', 'GIXXR', 'GLIBK', 'GLOO', 'GLQ', 'GME-W', 'GLP', 'GKOS', 'GLND', 'GROY-W', 'GLO', 'HAWK', 'GLPI', 'GLV', 'GLU', 'GJH', 'GMHS', 'GYRE', 'HAVA', 'GLDG', 'GRML', 'GSHR', 'GTE', 'GLOB', 'GPJA', 'GTLB', 'GL', 'HVMCU', 'GLIBA', 'GOTU', 'HWBK', 'HACQ', 'HUBS', 'GIXI', 'GOOGL', 'GLBS', 'GOF', 'GIW', 'GLNG', 'GLE', 'HALO', 'HURN', 'GMRS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1000/2646 (have 3941)
+
+46 Failed downloads:
+['IRAB-U', 'IAUX-W', 'IRD', 'IPWR', 'IPVVW', 'IRHOR', 'IQMX', 'HYAC-U', 'HWCPZ', 'IRDM', 'IDN', 'IAUX', 'ICMB', 'IBM', 'ICLR', 'IBO', 'HYI', 'IBCP', 'ICON', 'IRAB-W', 'HYPD', 'IBAC', 'ICUI', 'IBIO', 'IDCC', 'IQMXW', 'IPXG', 'IAF', 'ICCC', 'IPVV', 'IQI', 'IRM', 'IDYA', 'IR', 'IACQ', 'IBN', 'IDE', 'IBEX', 'IBG', 'IPSC', 'IPVVU', 'ICFI', 'INFQ-W', 'IRHOU', 'INTG', 'IOT']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1050/2646 (have 3945)
+
+38 Failed downloads:
+['JACS-R', 'IZM', 'JATT', 'JDZG', 'ISRG', 'JBHT', 'JCSE', 'IVVD', 'JBI', 'ITHA', 'IVR', 'J', 'IVT', 'JD', 'JAGU', 'IRTC', 'JACK', 'JEF', 'IRT', 'JCTC', 'ITP', 'IXHL', 'JCI', 'JAGX', 'IVAI', 'IVF', 'JBGS', 'JBLU', 'ITG', 'IX', 'ITRG', 'JELD', 'JBL', 'IRON', 'ISBA', 'JACS-U', 'ITRN', 'ITIC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1100/2646 (have 3957)
+
+16 Failed downloads:
+['JENA-R', 'KAPA', 'JF', 'JVA', 'KAZR', 'KARD', 'JPM', 'KAI', 'JTAI', 'JENA-U', 'JONE', 'JWEL', 'JL', 'JOBY', 'JTTT', 'KALU']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1150/2646 (have 3991)
+
+39 Failed downloads:
+['KCAC-U', 'KCAC-W', 'KEQU', 'KIDZW', 'KFY', 'KMPB', 'KE', 'KHC', 'KCA-U', 'KEYY', 'KEN', 'KELYB', 'KEY', 'KEP', 'KLIC', 'KLC', 'KINS', 'KGC', 'KELYA', 'KDP', 'KKR', 'KLXE', 'KIDZ', 'KC', 'KKRT', 'KKRS', 'KFFB', 'KBSX', 'KBONU', 'KLAR', 'KMPR', 'KBDC', 'KFRC', 'KMDA', 'KLRS', 'KEYS', 'KDK', 'KLTR', 'KG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1200/2646 (have 4002)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+47 Failed downloads:
+['KPET-W', 'KPET-U', 'KPRX', 'KRSP-W', 'KRAQ', 'KMTS', 'KRMN', 'KODK', 'KRNY', 'KRSP', 'KNF', 'KREF', 'KPTI', 'KRKR', 'KNX', 'KRP', 'KNSL', 'KRG', 'KMT', 'KRO', 'KRYS', 'KRRO', 'KOP', 'KNDI', 'KNRX', 'KRNT', 'KPLT', 'KSS', 'KRT', 'KOPN', 'KMRK', 'KRC', 'KOD', 'KSCP', 'KRUS', 'KNTK', 'KRSA', 'KRSP-U', 'KPET', 'KSPI', 'KOS', 'KN', 'KOYN', 'KRMD', 'KMX', 'KNOP', 'KROS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1250/2646 (have 4005)
+
+48 Failed downloads:
+['LEGO-W', 'LEGO-U', 'LENZ', 'LB', 'LAC', 'LADR', 'KTOS', 'LBTYB', 'LCID', 'LEGN', 'KYIV', 'KTWO', 'LASR', 'LATA', 'KTB', 'LAR', 'LEN-B', 'LBTYK', 'LCII', 'LECO', 'LEVI', 'LEO', 'KVUE', 'LAKE', 'LEDS', 'LAZ', 'LBRT', 'KZIA', 'KWY', 'LANV', 'LBRX', 'LAFA', 'KVHI', 'LDOS', 'LEGO', 'KXIN', 'LEE', 'LCTX', 'LEXX', 'LAW', 'L', 'KT', 'KULR', 'KURA', 'KWR', 'KUST', 'LEN', 'LCNB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1300/2646 (have 4007)
+round 3: 1350/2646 (have 4057)
+
+38 Failed downloads:
+['LVWR-W', 'LZM-W', 'LUD', 'LPBB', 'LUCD', 'LMRI', 'LQDA', 'LYV', 'LWAC', 'LUMN', 'LPG', 'LTM', 'LSAK', 'LYEL', 'LOW', 'LYFT', 'LSE', 'LUNG', 'LXRX', 'LPCN', 'LTBR', 'LUXE', 'LNZA', 'LPCV', 'LPAA', 'LNKS', 'LND', 'LRMR', 'LUCK', 'LZMH', 'LONA', 'LNT', 'LVS', 'LQDT', 'LUNR', 'M', 'LOT', 'LSF']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1400/2646 (have 4069)
+round 3: 1450/2646 (have 4119)
+round 3: 1500/2646 (have 4169)
+
+42 Failed downloads:
+['MTAL-W', 'MTAL-U', 'MSGR-V', 'MSGK-V', 'MUC', 'MVBF', 'MTC', 'MT', 'MTCH', 'MTSI', 'MUA', 'MSGM', 'MTEX', 'MTG', 'MTVA', 'MTB', 'MUSA', 'MSTR', 'MTEN', 'MTNE', 'MSIF', 'MTUS', 'MSM', 'MUJ', 'MSGS', 'MSLE', 'MSS', 'MSN', 'MSGY', 'MU', 'MTNE-W', 'MSGE', 'MTR', 'MTRX', 'MTNB', 'MTNE-U', 'MTX', 'MTAL', 'MUFG', 'MTH', 'MTEK', 'MTEKW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1550/2646 (have 4177)
+
+49 Failed downloads:
+['MZYX-U', 'MZYX-W', 'NBH', 'MX', 'MYE', 'MWC', 'NBR', 'NBHC', 'NAZ', 'NB', 'NAVN', 'MYSE', 'MXL', 'NBXG', 'NAGE', 'MWA', 'NBN', 'NAKA', 'MYPS', 'NAMS', 'NBTX', 'NAD', 'NAUT', 'MXCT', 'NBB', 'MXC', 'MYGN', 'MZYX', 'MXE', 'NAMI', 'NBP', 'NBTB', 'MYO', 'MWH', 'MYN', 'MYI', 'MVST', 'MVIS', 'NAII', 'NBIX', 'NATL', 'MYFW', 'NAAS', 'MYX', 'NATH', 'NABL', 'NBBK', 'NAK', 'NAMMW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1600/2646 (have 4178)
+
+47 Failed downloads:
+['NE-A', 'NE-W', 'NODK', 'NC', 'NNDM', 'NIC', 'NCEW', 'NHTC', 'NIQ', 'NMAI', 'NEWP', 'NEXR', 'NCZ', 'NKTX', 'NMM', 'NMAX', 'NEOV', 'NCDL', 'NCNA', 'NMP', 'NHI', 'NCI', 'NEXN', 'NIU', 'NGVT', 'NNBR', 'NGNE', 'NE', 'NEXM', 'NEM', 'NDRA', 'NCEL', 'NCV', 'NMRK', 'NDAQ', 'NFG', 'NFLX', 'NEN', 'NEUP', 'NCLH', 'NGEN', 'NIKI', 'NCPL', 'NG', 'NFGC', 'NNE', 'NMIH']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1650/2646 (have 4181)
+
+34 Failed downloads:
+['NSTR-W', 'NWAX-U', 'NWAX-W', 'NRUC', 'NSYS', 'NXPI', 'NPK', 'NXDT', 'NSP', 'NSIT', 'NVCT', 'NOVT', 'NXXT', 'NTB', 'NPAC', 'NVA-W', 'NTIP', 'NPWR-W', 'NUAI', 'NVS', 'NTCT', 'NPB', 'NTES', 'NRGV', 'NUS', 'NVNO', 'NPKI', 'NWCL', 'NVX', 'NTRS', 'NWFL', 'NVTS', 'NVR', 'NVDA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1700/2646 (have 4197)
+
+44 Failed downloads:
+['OCAC-R', 'ONON', 'OMER', 'OGC', 'OACC', 'ODFL', 'OM', 'OKLO', 'ONEW', 'OIG', 'OMCL', 'ONEG', 'OPAL', 'OCAC-W', 'OPEN', 'OCAC-U', 'OGEN', 'ONMD', 'OLOX', 'OEC', 'OFSSH', 'ODD', 'ONB', 'OFLX', 'ONDS', 'OBX', 'OKE', 'OABI', 'OHI', 'OPCH', 'ONT', 'OMF', 'ODYS', 'OLN', 'OKTA', 'OCGN', 'ONCO', 'OIA', 'O', 'OGCP', 'OMSE', 'OCTV', 'OIM', 'OCSAW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1750/2646 (have 4203)
+
+43 Failed downloads:
+['OTAI-R', 'ORCL', 'OPLN', 'ORIQ', 'OSG', 'OUST', 'OPRA', 'ORRF', 'OPXS', 'OR', 'OVID', 'OPRX', 'OPTT', 'OPTH', 'OWL', 'OPP', 'OUT', 'OWLT', 'ORGO', 'OSPR', 'OPTX', 'OSCR', 'ORBS', 'ORC', 'ORI', 'OSIS', 'OVBC', 'ORIQU', 'OXSQH', 'OPRT', 'OXLCG', 'OPK', 'OTAI-U', 'ORMP', 'OPHC', 'OXLCL', 'OPNW', 'OPENZ', 'OSUR', 'OZ', 'OPI', 'OTTR', 'OXY-W']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1800/2646 (have 4210)
+
+36 Failed downloads:
+['PEW-W', 'PAII-W', 'PCAP', 'PCSA', 'PCG', 'PBA', 'OZK', 'PAGP', 'PAC', 'PKG', 'PLAG', 'PANL', 'PALI', 'PIII', 'PAR', 'PACK', 'PBM', 'P', 'PCB', 'PENN', 'PBI', 'PFG', 'PEPG', 'PAYS', 'PEW', 'PL', 'PHIN', 'PKBK', 'PARR', 'PCM', 'PDEX', 'PBLS', 'PGR', 'PAM', 'PAY', 'PAII-U']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1850/2646 (have 4224)
+
+42 Failed downloads:
+['PLUN-R', 'PNAQ', 'PLX', 'POCI', 'POET', 'PLSM', 'PM', 'PMVP', 'PLUT', 'PODC', 'POM', 'PMN', 'POLE', 'PNR', 'PML', 'PLYX', 'PLXS', 'PLUN-U', 'PNBK', 'PMCB', 'PNNT', 'PLOW', 'PMTS', 'PLMK', 'PLRX', 'PLTR', 'PMA', 'PLUG', 'PLRZ', 'PNC', 'PNFP', 'PN', 'PNAQ-R', 'PNI', 'PMT', 'PNAQ-U', 'PLSE', 'PMAX', 'PNRG', 'PMTR', 'PLTK', 'PNW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1900/2646 (have 4232)
+
+44 Failed downloads:
+['PORT-U', 'PRE', 'PROV', 'PPTA', 'PROF', 'PONOR', 'PONO', 'POR', 'PR', 'PRHIZ', 'POWL', 'PRLD', 'PPHC', 'PPLC', 'PPIH', 'PRHI', 'PRKS', 'PRH', 'PRMB', 'POWI', 'PRCT', 'PRFX', 'POST', 'PRSU', 'PPSI', 'PRQR', 'PRCH', 'PPL', 'PONOU', 'PRLB', 'PPG', 'PPCB', 'PRME', 'PRG', 'PRK', 'PROK', 'POOL', 'PRGS', 'PRPL', 'PRTH', 'PRIM', 'PRM', 'PRSO', 'PRS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 1950/2646 (have 4238)
+
+47 Failed downloads:
+['PSQH-W', 'PTHS', 'PTRN', 'PTLO', 'PSIG', 'PXED', 'PTN', 'PSTL', 'PWP', 'PSIX', 'PSO', 'QCOM', 'PSMT', 'QBTS', 'QLYS', 'QLEP', 'QMCO', 'PTEN', 'PRTS', 'PTON', 'PYPL', 'PSNL', 'PYT', 'PURR', 'QCLS', 'PWCM', 'PSBD', 'PYXS', 'PSQH', 'PRVA', 'PSFE', 'PRZO', 'PTC', 'PSN', 'PSF', 'PSUS', 'PSQL', 'PSX', 'PXLW', 'PSNY', 'PUMP', 'PTGX', 'PTOR', 'QLEP-W', 'PSHG', 'PTLE', 'PVLA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2000/2646 (have 4241)
+
+46 Failed downloads:
+['SAC-W', 'SAC-U', 'RZC', 'RYTM', 'RYOJ', 'RZLVW', 'QRED-R', 'QSI', 'QNBC', 'QTTB', 'QVCG', 'RYM', 'QRED', 'QUIK', 'QSEA', 'QNST', 'RAC-U', 'QUCY', 'QS', 'QUAD', 'RACD', 'QUBT', 'RYET', 'QTEX', 'RNGT', 'RAC', 'QNRX', 'QTWO', 'QRED-U', 'RYN', 'SABR', 'QUMS', 'R', 'RZAI', 'RNAZ', 'RMTI', 'SABS', 'QNC', 'RZLT', 'RYZ', 'RZLV', 'QURE', 'QTI', 'RNA', 'RAC-W', 'QTRX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2050/2646 (have 4245)
+
+32 Failed downloads:
+['SBXE-U', 'SAV', 'SAIL', 'SBXE-W', 'SAH', 'SAIA', 'SBFM', 'SAGU-U', 'SAX', 'SAJ', 'SAGT', 'SAGU-R', 'SANA', 'SAR', 'SAIH', 'SAY', 'SBSW', 'SBET', 'SAMO-U', 'SAGU-W', 'SANM', 'SBS', 'SANG', 'SBCWW', 'SBAC', 'SBLK', 'SAMO-W', 'SARO', 'SAIQ', 'SBH', 'SAMO', 'SB']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2100/2646 (have 4263)
+
+44 Failed downloads:
+['SKYD-W', 'SKE', 'SCAT', 'SMID', 'SKYH-W', 'SMMT', 'SKYA', 'SMHI', 'SLNG', 'SLN', 'SMTC', 'SLF', 'SMFG', 'SCCD', 'SKYH', 'SMWB', 'SLM', 'SMR', 'SLXN', 'SLG', 'SLDE', 'SLQT', 'SMSI', 'SLVM', 'SLBT', 'SKM', 'SMBC', 'SLGN', 'SNAL', 'SMJF', 'SLMT', 'SLNH', 'SNA', 'SLGB', 'SLND-W', 'SLSR', 'SLGL', 'SNAP', 'SKYD', 'SMXT', 'SMP', 'SLI', 'SLND', 'SJM']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2150/2646 (have 4269)
+
+19 Failed downloads:
+['TGE-W', 'SOUL-U', 'TEAM', 'SORN', 'SND', 'SOC', 'SNEX', 'SNTI', 'SNX', 'SRAD', 'TBCVU', 'SNDA', 'SPHR', 'TBN', 'THH', 'SOBO', 'SNT', 'SOUL-R', 'SOJE']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2200/2646 (have 4300)
+
+39 Failed downloads:
+['TONT-U', 'TP', 'TLRY', 'TNYA', 'TOYO', 'TONX', 'TONT', 'TNXP', 'TMUS', 'TMCI', 'TLK', 'TMDX', 'TNGX', 'TME', 'TPCS', 'TLS', 'TOWN', 'TOPS', 'TLSA', 'TORO', 'TMS', 'TLNCW', 'TONT-W', 'TOP', 'TPB', 'TLYS', 'TM', 'TMUSI', 'TNMG', 'TMDE', 'TMTS', 'TLNC', 'TMUSZ', 'TMC', 'TOON', 'TNET', 'TLNCU', 'TLPH', 'TPC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2250/2646 (have 4311)
+
+42 Failed downloads:
+['UAC-W', 'TRAD-R', 'UAC-U', 'UCAR', 'TVTX', 'UFI', 'TPG', 'TPET', 'UAN', 'TPST', 'TPL', 'TPR', 'UFPT', 'TXNM', 'TWLV', 'TPVG', 'TWN', 'UCFI', 'UG', 'TWIN', 'TRAD-U', 'UFCS', 'TY', 'TYG', 'TXO', 'U', 'UAC', 'TXG', 'UDR', 'UCTT', 'UCL', 'UEIC', 'TXRH', 'TVRD', 'TYL', 'TYGO', 'TWG', 'TWLVR', 'UA', 'TWAV', 'UBSI', 'TWLO']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2300/2646 (have 4319)
+round 3: 2350/2646 (have 4369)
+
+48 Failed downloads:
+['VECA-R', 'VAL-W', 'VEL', 'VIDA', 'VERX', 'VERI', 'VCTR', 'UZX', 'VFC', 'VEON', 'VG', 'VANI', 'UXIN', 'VFF', 'VIAV', 'VBNK', 'VENU', 'VCEL', 'VFS', 'VHC', 'VCX', 'VEEV', 'VGM', 'VHI', 'VAL', 'VELO', 'V', 'VECA', 'VAI', 'VALU', 'VHCP', 'VERA', 'UZD', 'VGAS', 'VBIO', 'VBF', 'VIA', 'VECO', 'VATE', 'VCV', 'VCRE', 'VEEA', 'VET', 'VECA-U', 'VHCPW', 'VII', 'VABK', 'VGNT']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2400/2646 (have 4371)
+
+45 Failed downloads:
+['VII-U', 'VII-W', 'VLRS', 'VKI', 'WCN', 'WCT', 'WENC-R', 'VMAR', 'VNME', 'VIST', 'VMET', 'WELL', 'VLY', 'VIVS', 'VIV', 'WENC', 'WDAY', 'VNET', 'WEAV', 'VNOM', 'WDH', 'VISN', 'VKQ', 'VMO', 'VJET', 'VIR', 'VKTX', 'VLO', 'VNDA', 'VITL', 'VIRT', 'VLTO', 'WEC', 'WENC-U', 'WDI', 'VIP', 'VNCE', 'VIVK', 'VIVO', 'VMD', 'WCCB', 'VLGEA', 'WDC', 'VINP', 'VIK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2450/2646 (have 4376)
+round 3: 2500/2646 (have 4426)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+30 Failed downloads:
+['WPAC-R', 'WSE', 'WULF', 'WTRG', 'WYY', 'WRD', 'WT', 'WPAC-U', 'WYHG', 'WTM', 'XAIR', 'XBP', 'WSFS', 'WPM', 'WRAP', 'WU', 'WSHP', 'WSBK', 'WRB', 'WSO', 'WW', 'WTG', 'WSC', 'WTS', 'WORX', 'WYNN', 'WTTR', 'WRN', 'XBIO', 'WTI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2550/2646 (have 4446)
+
+43 Failed downloads:
+['XFLH-R', 'XLO', 'XFLH', 'XZO', 'XWEL', 'XYF', 'XGN', 'YAAS', 'XRN', 'XFLT', 'XFLH-U', 'XYL', 'XRTX', 'XHLD', 'XRPNW', 'XENE', 'XELB', 'XMTR', 'XRAY', 'XRXDW', 'XIFR', 'XPRO', 'XTND', 'XTER', 'XRX', 'XE', 'XIII', 'XFOR', 'XPER', 'XPEV', 'XXII', 'XPON', 'XNCR', 'XPO', 'XTNT', 'XEL', 'XERS', 'XHR', 'XSLL', 'XP', 'XELLL', 'XPL', 'XTIA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2600/2646 (have 4453)
+
+42 Failed downloads:
+['YCY-W', 'YIBO', 'YB', 'YMM', 'ZDAI', 'YETI', 'YALA', 'YMAT', 'YSG', 'YHGJ', 'YRD', 'YI', 'YSWY', 'YDDL', 'ZENA', 'YICC', 'YORW', 'ZD', 'YUM', 'YXT', 'YOUL', 'YCY', 'ZBAO', 'YCY-U', 'YDESW', 'YQ', 'YOU', 'YICCU', 'YPF', 'Z', 'YSXT', 'YEXT', 'YJ', 'YICCW', 'YTRA', 'YFOR', 'YHC', 'ZBH', 'YDKG', 'ZCMD', 'ZEO', 'YCBD']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 3: 2646/2646 (have 4457)
+
+43 Failed downloads:
+['AAC-W', 'ABG', 'ABTC', 'AARD', 'ABNB', 'ACH', 'AAPL', 'ACIU', 'ACA', 'ACHR', 'ACFN', 'AA', 'AB', 'ACI', 'ABAT', 'AAC-U', 'ABBV', 'AACI', 'ABX', 'ACCV', 'ACET', 'AAME', 'AAON', 'AAL', 'ABVC', 'AACP', 'ACIC', 'ABEO', 'AAP', 'ACCO', 'ABUS', 'AACG', 'ACEL', 'AAUC', 'ABCB', 'ABLV', 'AACO', 'AAOI', 'AADX', 'ABOS', 'ACGL', 'ABCL', 'ABEV']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 50/1796 (have 4464)
+
+38 Failed downloads:
+['AIIA-U', 'ALUB-U', 'ALMS', 'AIIA-R', 'ALTI', 'AIMDW', 'AGYS', 'ACOG', 'ALX', 'ACR', 'AIAI', 'ALUB-W', 'AHRT', 'ALLY', 'ALV', 'ALZN', 'AGRO', 'AGCO', 'ALNT', 'ALUB', 'ALOY', 'AFYA', 'AGI', 'AIDX', 'AGIO', 'AIIO', 'AHMA', 'ALXO', 'AGCC', 'ALP', 'AIIA', 'AHG', 'ALM', 'ALNY', 'ALT', 'ACON', 'AIB', 'ALSN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 100/1796 (have 4476)
+
+34 Failed downloads:
+['BBAI-W', 'AMPX-W', 'AMN', 'BAM', 'BBWI', 'AMPL', 'BBAR', 'BAOS', 'AMAC', 'AMBR', 'BBY', 'BALL', 'BBD', 'ARMK', 'ARTV', 'BBDO', 'BBNX', 'BANL', 'BBW', 'ARX', 'BBCI', 'BALY', 'AMRZ', 'AMAN', 'BBCIW', 'BANR', 'ARLO', 'AMBQ', 'BANF', 'BAK', 'AMPY', 'AMC', 'AROC', 'AMR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 150/1796 (have 4492)
+
+40 Failed downloads:
+['BEBE-U', 'BCSS-U', 'BCSS-W', 'BFAM', 'BEKE', 'BGSI', 'BDX', 'BHR', 'BDC', 'BID', 'BHAV', 'BIDU', 'BCSF', 'BCAT', 'BEAT', 'BGB', 'BEPI', 'BFRI', 'BDSX', 'BESS-W', 'BFLY', 'BELFB', 'BETR', 'BH-A', 'BF-B', 'BDCI', 'BFS', 'BDN', 'BELFA', 'BEAM', 'BEBE-W', 'BHVN', 'BDAI', 'BCE', 'BG', 'BDL', 'BCG', 'BFRIW', 'BEBE', 'BCML']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 200/1796 (have 4502)
+
+44 Failed downloads:
+['BIII-U', 'BWIV-U', 'CCK', 'CCSI', 'CCEL', 'BV', 'BWIN', 'BIII-W', 'BTOC', 'CDLR', 'CCM', 'BWFG', 'CDP', 'BILI', 'BW', 'BULL', 'CDRO', 'BWIV-W', 'BSVN', 'BSL', 'CDZIP', 'BWEN', 'BIII', 'BTCT', 'BTX', 'CCG', 'BTQ', 'BURL', 'CCCT', 'BVC', 'BUUU', 'CDNA', 'CDTG', 'CECO', 'BTO', 'CCLD', 'CCXIW', 'BTCS', 'CDRE', 'BTU', 'BTLN', 'CCI', 'BTBT', 'BST']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 250/1796 (have 4508)
+
+38 Failed downloads:
+['CELG-R', 'CLBR-U', 'CENTA', 'CFND', 'CEVA', 'CF', 'CGC', 'CGEN', 'CHCI', 'CELC', 'CHKP', 'CLBR-W', 'CLLS', 'CLMB', 'CEPV', 'CLM', 'CLNN', 'CHT', 'CIGL', 'CHOW', 'CLAR', 'CIRC', 'CGTX', 'CLF', 'CLH', 'CIIT', 'CIMO', 'CET', 'CIFR', 'CLMT', 'CJMB', 'CLBK', 'CITR', 'CLFD', 'CGNX', 'CHAR', 'CLB', 'CFFN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 300/1796 (have 4520)
+
+44 Failed downloads:
+['COPL-W', 'COPL-U', 'DD', 'CLST', 'COYA', 'CMCL', 'CORZZ', 'CMC', 'CLPS', 'CORZ', 'DAVEW', 'CLVT', 'CLRB', 'DBL', 'CMCSA', 'COSM', 'CME', 'D', 'COPR-W', 'COST', 'DAO', 'CPAC', 'CM', 'CORZW', 'DAIO', 'CPF', 'COSO', 'CLYM', 'DBCA', 'CPAY', 'CPBI', 'CLSK', 'CLPT', 'CYPH', 'CPHI', 'CLW', 'CZNC', 'DBVT', 'DCGO', 'DDC', 'CMMB', 'CORT', 'CLS', 'DAIC']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 350/1796 (have 4526)
+
+38 Failed downloads:
+['DGAC-R', 'DGAC-U', 'DFNS', 'DFTX', 'EOCN', 'DSX-W', 'DLB', 'ELMD', 'DLPN', 'DFDV', 'DINO', 'DOC', 'DNTH', 'DG', 'ELUT', 'ENR', 'DDOG', 'EFTY', 'ELPC', 'EHGO', 'EML', 'DSX', 'DMC', 'DLX', 'DYORU', 'DOCS', 'DNOW', 'DNMX', 'DRTS', 'DHC', 'DK', 'DNP', 'DHX', 'DTG', 'DLXY', 'DUKU', 'DORM', 'DOUG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 400/1796 (have 4538)
+
+44 Failed downloads:
+['EVAC-W', 'ETSS-W', 'ESE', 'ERAS', 'EVEX', 'EONR-W', 'ESLA', 'ETW', 'ERIE', 'EONR', 'EQPT', 'EVAC', 'EVAC-U', 'ETS', 'ETSS-U', 'EVC', 'ETG', 'EVEX-W', 'EROK', 'EQBK', 'EPOW', 'EPM', 'ESLT', 'ES', 'EOSE', 'ERH', 'ESTA', 'ERO', 'ETX', 'EQNR', 'EURK', 'ERNA', 'ETO', 'EQH', 'ETRA', 'ET', 'ETON', 'ESYN', 'ETSS', 'EPRX', 'ETJ', 'EP', 'EPRT', 'ESCA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 450/1796 (have 4544)
+round 4: 500/1796 (have 4594)
+
+45 Failed downloads:
+['FCRS-U', 'FTRA-U', 'FTHY', 'FCN', 'FCBM', 'FDBC', 'FTW', 'FVRR', 'FUNC', 'FCAP', 'FTW-W', 'FWONK', 'FWONA', 'FCEL', 'FTRA-W', 'FCBC', 'FUBO', 'FJDI', 'FEDU', 'FVCB', 'FDMM', 'FCX', 'FCHL', 'FDMT', 'FCNCA', 'FTK', 'FUTU', 'FVR', 'FC', 'FSUN', 'FELE', 'FENC', 'FLYX-W', 'FUFU', 'FLNG', 'FNV', 'FGII', 'FEAM', 'FOF', 'FFIN', 'FEIM', 'FRA', 'FTS', 'FOXX', 'FCRS-W']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 550/1796 (have 4599)
+
+44 Failed downloads:
+['GCTS-W', 'FWRD', 'GAINI', 'GAIA', 'GALT', 'GCV', 'GE', 'GCTS', 'GAING', 'GBLI', 'GASS', 'GEO', 'FXHO', 'GDDY', 'GECCI', 'GDOT', 'GAIN', 'GABC', 'GDYN', 'GECCG', 'G', 'GEN', 'GD', 'GEG', 'GATX', 'GCGRW', 'GCO', 'GECCH', 'GELS', 'GAUZ', 'GEF-B', 'GDRX', 'GDO', 'GERN', 'GBFH', 'GENI', 'GDEV', 'GBAB', 'FXNC', 'GCLWW', 'GAM', 'GAB', 'GCTK', 'GAU']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 600/1796 (have 4605)
+
+46 Failed downloads:
+['GLED-U', 'GLED-R', 'GMRS', 'GFAI', 'GLND', 'GLQ', 'GGG', 'GGAL', 'GLIBK', 'GEVO', 'GLOO', 'GIBOW', 'GKOS', 'GLP', 'GME-W', 'GHG', 'GLPI', 'GLO', 'GFUZ', 'GLV', 'GIGM', 'GHXIU', 'GLE', 'GJH', 'GMHS', 'GIPR', 'GLOB', 'GIB', 'GLU', 'GLDG', 'GFL', 'GL', 'GH', 'GHXI', 'GLIBA', 'GOTU', 'GIXI', 'GHC', 'GIW', 'GOF', 'GGZ', 'GITS', 'GLBS', 'GOOGL', 'GILD', 'GLNG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 650/1796 (have 4609)
+
+49 Failed downloads:
+['IAUX-W', 'HYAC-U', 'IBO', 'HWCPZ', 'IDN', 'IPVVW', 'IAUX', 'ICLR', 'ICON', 'ICMB', 'IBM', 'HYI', 'IBAC', 'IBCP', 'HYPD', 'IBIO', 'IDCC', 'GROY-W', 'HAWK', 'ICUI', 'IAF', 'GTE', 'HAVA', 'IACQ', 'ICCC', 'GYRE', 'IPVV', 'IDYA', 'GRML', 'IBN', 'GSHR', 'ICFI', 'GPJA', 'HVMCU', 'IDE', 'GTLB', 'HWBK', 'HUBS', 'IBEX', 'HACQ', 'IBG', 'INFQ-W', 'HALO', 'IPVVU', 'HURN', 'IPSC', 'HURC', 'IOT', 'INTG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 700/1796 (have 4610)
+
+46 Failed downloads:
+['IRAB-U', 'JACS-R', 'IRHOR', 'JCSE', 'IQMX', 'IRDM', 'ITIC', 'JBHT', 'ISRG', 'J', 'IVR', 'ITHA', 'JBI', 'IVVD', 'IRAB-W', 'JD', 'JAGU', 'IRT', 'IRTC', 'JACK', 'IVT', 'JEF', 'IPXG', 'JAGX', 'IXHL', 'ITP', 'IQMXW', 'IVAI', 'JCTC', 'JBLU', 'ITRG', 'JBGS', 'JCI', 'IX', 'IVF', 'IQI', 'IR', 'JBL', 'ITG', 'JELD', 'IRON', 'JACS-U', 'ISBA', 'IRHOU', 'IRM', 'ITRN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 750/1796 (have 4614)
+
+47 Failed downloads:
+['KCAC-U', 'KCA-U', 'KCAC-W', 'KE', 'KLRS', 'KHC', 'KEN', 'KEYY', 'KELYB', 'KLC', 'KEP', 'JTTT', 'KEY', 'KLIC', 'KDP', 'KC', 'KIDZ', 'KELYA', 'KINS', 'KKRT', 'KEYS', 'KKR', 'KGC', 'JF', 'KBDC', 'KKRS', 'JENA-R', 'KAPA', 'KBONU', 'JPM', 'KARD', 'JVA', 'KFRC', 'KBSX', 'KFFB', 'KAI', 'JTAI', 'KDK', 'JENA-U', 'JONE', 'JL', 'JWEL', 'KLAR', 'KG', 'KALU', 'JOBY', 'KAZR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 800/1796 (have 4617)
+
+45 Failed downloads:
+['KPET-U', 'KPET-W', 'KRSP-W', 'KRKR', 'KRNY', 'KMPB', 'KPTI', 'KMT', 'KODK', 'KNF', 'KREF', 'KNX', 'KRG', 'KNRX', 'KNSL', 'KRRO', 'KRO', 'KRP', 'KRYS', 'KPLT', 'KNDI', 'KOP', 'KLXE', 'KOPN', 'KRNT', 'KRT', 'KRUS', 'KSCP', 'KMRK', 'KOD', 'KN', 'KPET', 'KRC', 'KNTK', 'KMPR', 'KOYN', 'KRSA', 'KRSP-U', 'KRMD', 'KLTR', 'KMDA', 'KMX', 'KOS', 'KROS', 'KNOP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 850/1796 (have 4622)
+
+38 Failed downloads:
+['LEGO-W', 'LEGO-U', 'LASR', 'LEN-B', 'LAR', 'LEVI', 'LECO', 'LCII', 'LEO', 'LBTYK', 'LAKE', 'KWY', 'LANV', 'LEDS', 'LBRT', 'KVUE', 'KSS', 'LAZ', 'KZIA', 'LBRX', 'LAFA', 'KVHI', 'LEE', 'KXIN', 'LEGO', 'LCTX', 'LDOS', 'KULR', 'LEXX', 'KWR', 'LAW', 'L', 'KT', 'KURA', 'KSPI', 'LCNB', 'KUST', 'LEN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 900/1796 (have 4634)
+
+43 Failed downloads:
+['LZM-W', 'MSGK-V', 'MSGR-V', 'LVWR-W', 'LUD', 'MSTR', 'LMRI', 'LYV', 'LQDA', 'LWAC', 'LPG', 'LUCD', 'LUMN', 'LYEL', 'LXRX', 'LTM', 'MSGS', 'LSE', 'LSAK', 'LYFT', 'LPCN', 'LTBR', 'LOW', 'LUXE', 'LUNG', 'MSGE', 'LPAA', 'MSGY', 'LUCK', 'LND', 'LRMR', 'LNZA', 'LZMH', 'LVS', 'LNKS', 'LONA', 'LPCV', 'LQDT', 'LSF', 'LNT', 'LUNR', 'M', 'LOT']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 950/1796 (have 4641)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+16 Failed downloads:
+['MTAL-U', 'MTAL-W', 'MTNE-W', 'MTNE-U', 'MTRX', 'MVIS', 'MTAL', 'MYN', 'MTR', 'MTNB', 'MTH', 'MYFW', 'MUFG', 'MYX', 'MTEKW', 'MTEK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1000/1796 (have 4675)
+
+43 Failed downloads:
+['MZYX-U', 'MZYX-W', 'NB', 'NBN', 'NAZ', 'NAKA', 'NBXG', 'NAD', 'NE-A', 'NAMS', 'NAUT', 'NE-W', 'NBB', 'NBTX', 'NCEW', 'NAMI', 'NEWP', 'NCZ', 'NBTB', 'NBP', 'NCDL', 'NEOV', 'NCNA', 'NEXM', 'NBIX', 'NE', 'NATH', 'NCEL', 'NCI', 'NATL', 'NAII', 'NAAS', 'NCLH', 'NCV', 'NBBK', 'NEM', 'NABL', 'NDAQ', 'NDRA', 'NEUP', 'NAMMW', 'NCPL', 'NAK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1050/1796 (have 4682)
+
+45 Failed downloads:
+['NVA-W', 'NHTC', 'NUS', 'NSYS', 'NVDA', 'NIC', 'NSTR-W', 'NIQ', 'NMAI', 'NKTX', 'NMAX', 'NMM', 'NVCT', 'NEXR', 'NNBR', 'NHI', 'NPK', 'NEXN', 'NPAC', 'NOVT', 'NPKI', 'NIU', 'NMP', 'NGVT', 'NMRK', 'NTB', 'NPWR-W', 'NGNE', 'NPB', 'NTIP', 'NTCT', 'NODK', 'NNDM', 'NFLX', 'NFG', 'NNE', 'NRUC', 'NGEN', 'NRGV', 'NIKI', 'NMIH', 'NFGC', 'NTRS', 'NSIT', 'NG']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1100/1796 (have 4687)
+
+46 Failed downloads:
+['OCAC-R', 'OM', 'OGC', 'OACC', 'ONEW', 'OIG', 'ONEG', 'ONMD', 'OMCL', 'OCAC-U', 'OCAC-W', 'OFSSH', 'OGEN', 'OLOX', 'OFLX', 'OEC', 'ODD', 'OBX', 'NXPI', 'ONDS', 'ONB', 'OABI', 'OLN', 'OCTV', 'NXDT', 'NXXT', 'ODYS', 'OKE', 'NWAX-W', 'NVS', 'NVX', 'OHI', 'OKTA', 'OMF', 'ONCO', 'OCGN', 'NWCL', 'NWFL', 'O', 'OIA', 'OMSE', 'NVTS', 'NWAX-U', 'OIM', 'OCSAW', 'OGCP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1150/1796 (have 4691)
+
+45 Failed downloads:
+['OTAI-R', 'OPAL', 'OSG', 'OPXS', 'OVID', 'ORRF', 'OWL', 'OPEN', 'OR', 'OPTH', 'OPTT', 'OPRX', 'OUT', 'OSPR', 'OPP', 'OSIS', 'ORBS', 'OWLT', 'ORGO', 'OZK', 'OSCR', 'OPTX', 'OXSQH', 'ORC', 'PAC', 'ORI', 'ORIQU', 'ONT', 'OTAI-U', 'OXLCG', 'OPK', 'OPRT', 'OVBC', 'ORMP', 'OPCH', 'OPI', 'OZ', 'OSUR', 'P', 'OXLCL', 'OTTR', 'OPENZ', 'OPHC', 'OXY-W', 'OPNW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1200/1796 (have 4696)
+
+46 Failed downloads:
+['PLUN-R', 'PLTK', 'PLRX', 'PLYX', 'PLX', 'PLXS', 'PLOW', 'PLUN-U', 'PLMK', 'PLTR', 'PMA', 'PEW-W', 'PCAP', 'PCG', 'PLRZ', 'PAII-W', 'PAGP', 'PCSA', 'PKG', 'PBA', 'PLAG', 'PALI', 'PAR', 'PIII', 'PANL', 'PBM', 'PACK', 'PENN', 'PCB', 'PAYS', 'PEW', 'PEPG', 'PBI', 'PKBK', 'PFG', 'PHIN', 'PL', 'PLSE', 'PGR', 'PDEX', 'PBLS', 'PCM', 'PARR', 'PAY', 'PAM', 'PAII-U']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1250/1796 (have 4700)
+
+41 Failed downloads:
+['PORT-U', 'PONOR', 'PPTA', 'PML', 'POM', 'PONO', 'PMN', 'POLE', 'POWL', 'PRH', 'PPHC', 'PPIH', 'PPLC', 'PNNT', 'PMTS', 'PPSI', 'PMCB', 'PNBK', 'PRCT', 'PRFX', 'PNC', 'POWI', 'PNAQ-R', 'POST', 'PRCH', 'PPL', 'PN', 'PPG', 'PRG', 'PNFP', 'PNAQ-U', 'PPCB', 'PONOU', 'PMT', 'PNRG', 'PMAX', 'PNI', 'PMTR', 'POOL', 'PRGS', 'PNW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1300/1796 (have 4709)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+39 Failed downloads:
+['PSQH-W', 'PSTL', 'PRLD', 'PRHIZ', 'PSMT', 'PSO', 'PTON', 'PRKS', 'PRHI', 'PTEN', 'PROF', 'PSBD', 'PRTS', 'PRQR', 'PRVA', 'PSNL', 'PSN', 'PSUS', 'PSFE', 'PRME', 'PSF', 'PRK', 'PRZO', 'PSQL', 'PSNY', 'PSX', 'PROK', 'PRLB', 'PSHG', 'PUMP', 'PTGX', 'PRPL', 'PRM', 'PRTH', 'PRIM', 'PRSO', 'PTLE', 'PTOR', 'PRS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1350/1796 (have 4720)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+35 Failed downloads:
+['QRED-R', 'RAC-U', 'QSEA', 'QS', 'QLEP', 'PYT', 'QUCY', 'PURR', 'QUAD', 'PYXS', 'RAC', 'PWCM', 'QTEX', 'QCLS', 'RACD', 'QNRX', 'QTWO', 'QRED-U', 'QUBT', 'QUMS', 'RYET', 'RNGT', 'PXLW', 'RMTI', 'R', 'RYN', 'RNAZ', 'QLEP-W', 'QTI', 'RNA', 'RAC-W', 'QTRX', 'QURE', 'QNC', 'PVLA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1400/1796 (have 4735)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+42 Failed downloads:
+['SAC-U', 'SAC-W', 'SKE', 'SBXE-W', 'SBXE-U', 'SBFM', 'SKYA', 'SKM', 'SAJ', 'SAGU-R', 'SAR', 'SAIH', 'SAGU-U', 'SCCD', 'SANA', 'SAX', 'SAGT', 'RYOJ', 'SAY', 'SBSW', 'SABR', 'RZAI', 'SBS', 'SBET', 'SAMO-U', 'SAGU-W', 'SANM', 'SANG', 'SBLK', 'SARO', 'RZLV', 'SBH', 'RYZ', 'SAIQ', 'SBAC', 'SAMO', 'SAMO-W', 'RZLT', 'SB', 'SBCWW', 'SJM', 'SABS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1450/1796 (have 4743)
+
+37 Failed downloads:
+['SKYD-W', 'SKYH-W', 'SMFG', 'SMWB', 'SLBT', 'SMSI', 'SLXN', 'SNT', 'SLVM', 'SLQT', 'SLGB', 'SLNH', 'SLMT', 'SNAL', 'SOBO', 'SOUL-U', 'SMBC', 'SMJF', 'SKYD', 'SORN', 'SNA', 'SND', 'SOC', 'SMP', 'SLND-W', 'SMXT', 'SNEX', 'SLSR', 'SNDA', 'SNTI', 'SNX', 'SLND', 'SLGL', 'SOJE', 'SNAP', 'SOUL-R', 'SLI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1500/1796 (have 4756)
+
+28 Failed downloads:
+['TONT-U', 'TONT-W', 'TMS', 'TLSA', 'TOPS', 'TPB', 'TOP', 'TNMG', 'TMDE', 'TLNCW', 'TMUSZ', 'TMUSI', 'TLNC', 'SPHR', 'TLYS', 'TM', 'TEAM', 'TBCVU', 'TMC', 'SRAD', 'TMTS', 'TOON', 'TNET', 'TLNCU', 'TGE-W', 'TBN', 'TPC', 'TLPH']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1550/1796 (have 4778)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+42 Failed downloads:
+['TRAD-R', 'VAL-W', 'UAC-W', 'UAC-U', 'UAN', 'UZX', 'VANI', 'TPST', 'UXIN', 'TPVG', 'TWLV', 'TWN', 'TWIN', 'UG', 'UCFI', 'TRAD-U', 'UFCS', 'TYG', 'TY', 'U', 'UAC', 'V', 'VAI', 'TXO', 'VALU', 'VBF', 'UZD', 'UDR', 'UCL', 'TYGO', 'TWG', 'TXRH', 'UEIC', 'TYL', 'TVRD', 'UCTT', 'TWLO', 'TWAV', 'TWLVR', 'VATE', 'UBSI', 'UA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1600/1796 (have 4786)
+
+44 Failed downloads:
+['VII-W', 'VII-U', 'VIST', 'VEL', 'VECA-R', 'VCTR', 'VG', 'VEON', 'VFF', 'VBNK', 'VENU', 'VIAV', 'VIV', 'VHC', 'VCEL', 'VCX', 'VFS', 'VELO', 'VEEV', 'VIVS', 'VHI', 'VGM', 'VIR', 'VECA', 'VGNT', 'VIA', 'VBIO', 'VHCP', 'VITL', 'VISN', 'VERA', 'VECO', 'VGAS', 'VCRE', 'VET', 'VEEA', 'VIVK', 'VIRT', 'VECA-U', 'VCV', 'VIP', 'VII', 'VHCPW', 'VINP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1650/1796 (have 4792)
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+45 Failed downloads:
+['WENC-R', 'VMAR', 'VNME', 'WPAC-R', 'WCT', 'VNET', 'WPAC-U', 'WDAY', 'VMET', 'WTRG', 'VLY', 'WT', 'WEAV', 'WRD', 'WENC', 'WDH', 'VMO', 'WTM', 'WEC', 'WPM', 'VKTX', 'WSFS', 'VNDA', 'VJET', 'VNOM', 'VKQ', 'WSHP', 'VLTO', 'WENC-U', 'WRAP', 'WSC', 'WTG', 'VLO', 'WSBK', 'WRB', 'WSO', 'VLGEA', 'VMD', 'WCCB', 'WORX', 'VNCE', 'WDI', 'WDC', 'WRN', 'WTI']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1700/1796 (have 4797)
+
+44 Failed downloads:
+['XFLH-R', 'XGN', 'WYY', 'XHLD', 'XFLH-U', 'XFLT', 'XBP', 'XAIR', 'XRTX', 'XENE', 'XMTR', 'XRPNW', 'XELB', 'XRAY', 'XRXDW', 'XIFR', 'WYHG', 'XPRO', 'XPEV', 'XTND', 'XTER', 'XRX', 'XIII', 'XE', 'WU', 'WTS', 'XFOR', 'XHR', 'XPER', 'XERS', 'WW', 'XXII', 'XPO', 'XNCR', 'XEL', 'WTTR', 'WYNN', 'XPON', 'XTNT', 'XTIA', 'XSLL', 'XBIO', 'XELLL', 'XP']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1750/1796 (have 4803)
+
+34 Failed downloads:
+['YCY-W', 'YSWY', 'YI', 'YICC', 'YUM', 'XZO', 'ZD', 'YDDL', 'YORW', 'YXT', 'YCY', 'YAAS', 'ZBAO', 'YICCU', 'XYL', 'YOUL', 'YCY-U', 'YQ', 'YOU', 'YDESW', 'YSXT', 'Z', 'YPF', 'YHC', 'YEXT', 'YJ', 'YTRA', 'YICCW', 'ZBH', 'YCBD', 'ZCMD', 'ZEO', 'YDKG', 'YFOR']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+round 4: 1796/1796 (have 4815)
+prices for 4815 tickers, 501 days
+4030 stocks pass quality filters
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'NVDA'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/jaybot/Downloads/NVIDIA/secret_twin_huge.py", line 158, in <module>
+    main()
+  File "/Users/jaybot/Downloads/NVIDIA/secret_twin_huge.py", line 115, in main
+    nvda = rets[TARGET]
+           ~~~~^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/frame.py", line 4113, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'NVDA'

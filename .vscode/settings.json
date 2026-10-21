@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^pip install -q yfinance pandas 2>&1 \\| tail -2; python3 secret_twin\\.py 2>&1 \\| tail -40$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

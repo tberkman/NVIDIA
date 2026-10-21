@@ -1,0 +1,44 @@
+idx: 1436 to try
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+100 Failed downloads:
+['026960.KS', '483650.KQ', '001040.KQ', '007340.KQ', '000120.KS', '138930.KQ', '383220.KQ', '005420.KQ', '097950.KS', '093370.KQ', '068270.KS', '161390.KQ', '078930.KS', '014820.KQ', '078930.KQ', '030000.KS', '000990.KS', '086790.KQ', '002790.KQ', '068270.KQ', '000120.KQ', '450080.KQ', '097950.KQ', '138930.KS', '278470.KS', '047040.KS', '006280.KQ', '180640.KQ', '021240.KQ', '005830.KS', '454910.KS', '375500.KS', '112610.KQ', '000210.KS', '003090.KS', '042700.KS', '483650.KS', '300720.KS', '001680.KQ', '007340.KS', '005420.KS', '241560.KQ', '161390.KS', '034020.KS', '000210.KQ', '139480.KS', '185750.KQ', '090430.KS', '006040.KS', '000240.KS', '021240.KS', '042700.KQ', '000990.KQ', '300720.KQ', '278470.KQ', '128940.KQ', '112610.KS', '069620.KQ', '128940.KS', '009420.KQ', '034020.KQ', '000150.KQ', '000150.KS', '006280.KS', '282330.KQ', '093370.KS', '086790.KS', '007070.KS', '001680.KS', '006040.KQ', '139480.KQ', '282330.KS', '007070.KQ', '383220.KS', '069620.KS', '009420.KS', '450080.KS', '008930.KQ', '014820.KS', '047040.KQ', '002030.KQ', '454910.KQ', '005830.KQ', '241560.KS', '192080.KS', '026960.KQ', '000240.KQ', '008930.KS', '003090.KQ', '002030.KS', '180640.KS', '185750.KS', '192820.KS', '001040.KS', '090430.KQ', '192080.KQ', '192820.KQ', '375500.KQ', '002790.KS', '030000.KQ']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+100/1436 tried, 638 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+15 Failed downloads:
+['035720.KQ', '175330.KQ', '011210.KQ', '329180.KS', '267260.KQ', '443060.KS', '011200.KS', '002380.KS', '052690.KS', '267270.KS', '042660.KS', '017960.KQ', '267250.KS', '457190.KS', '298050.KQ']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+200/1436 tried, 723 found
+
+51 Failed downloads:
+['066970.KQ', '023530.KS', '030200.KQ', '010130.KQ', '036460.KS', '047810.KQ', '010120.KS', '010060.KQ', '039490.KS', '161890.KQ', '280360.KS', '002840.KS', '002840.KQ', '066570.KQ', '011070.KQ', '000270.KS', '039490.KQ', '081660.KQ', '006650.KS', '079550.KS', '023530.KQ', '036570.KQ', '011070.KS', '081660.KS', '001800.KQ', '033780.KQ', '051910.KS', '003550.KS', '051900.KS', '280360.KQ', '268280.KQ', '033780.KS', '047810.KS', '034220.KS', '073240.KQ', '071320.KS', '071050.KS', '003550.KQ', '073240.KS', '064400.KQ', '004990.KQ', '259960.KS', '138040.KQ', '373220.KS', '010060.KS', '007310.KS', '268280.KS', '004000.KQ', '003490.KS', '036460.KQ', '035420.KQ']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+300/1436 tried, 772 found
+
+99 Failed downloads:
+['0126Z0.KQ', '017670.KS', '000810.KQ', '302440.KS', '137310.KQ', '006400.KQ', '005930.KQ', '034730.KQ', '111770.KS', '069260.KQ', '326030.KQ', '047050.KQ', '361610.KS', '000100.KS', '003230.KQ', '402340.KQ', '005850.KQ', '096770.KS', '004170.KQ', '326030.KS', '285130.KQ', '032830.KS', '003230.KS', '022100.KQ', '316140.KS', '402340.KS', '005490.KQ', '005490.KS', '011790.KS', '103140.KS', '103140.KQ', '000660.KS', '034730.KS', '012750.KQ', '010950.KS', '007310.KQ', '022100.KS', '034230.KQ', '111770.KQ', '207940.KS', '009970.KQ', '028260.KQ', '006400.KS', '000810.KS', '000660.KQ', '062040.KS', '207940.KQ', '028050.KQ', '003240.KQ', '005850.KS', '028050.KS', '010140.KQ', '010950.KQ', '004170.KS', '028260.KS', '0126Z0.KS', '003670.KQ', '029780.KQ', '302440.KQ', '016360.KQ', '029780.KS', '003240.KS', '010140.KS', '316140.KQ', '032830.KQ', 'ABDN.L', '000100.KQ', '011790.KQ', 'III.L', '361610.KQ', '000670.KQ', '003030.KQ', '009970.KS', '028670.KQ', '018260.KQ', '001440.KQ', '034230.KS', '009150.KS', '069260.KS', '003030.KS', '001430.KS', '028670.KS', '001430.KQ', '047050.KS', '009150.KQ', '096770.KQ', '055550.KS', '000670.KS', '062040.KQ', '285130.KS', '055550.KQ', '005930.KS', '001440.KS', '017670.KQ', '018260.KS', '137310.KS', '008730.KQ', '008730.KS', '016360.KS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+400/1436 tried, 773 found
+
+64 Failed downloads:
+['BT.A', 'BBY.L', 'HWDN.L', 'MRO.L', 'ULVR.L', 'IGG.L', 'HLMA.L', 'BNZL.L', 'RKT.L', 'EXPN.L', 'LLOY.L', 'BLND.L', 'CRDA.L', 'ADM.L', 'ICG.L', 'INF.L', 'SPX.L', 'SMT.L', 'PSH.L', 'BRBY.L', 'STJ.L', 'EDV.L', 'MNG.L', 'NG.L', 'LGEN.L', 'BBOX.L', 'MKS.L', 'PSON.L', 'AAF.L', 'HSX.L', 'AAL.L', 'FCIT.L', 'ITRK.L', 'PCT.L', 'SDLF.L', 'INVP.L', 'VOD.L', 'FOUR.L', 'EZJ.L', 'CNA.L', 'SBRY.L', 'BARC.L', 'SSE.L', 'CCEP.L', 'PRU.L', 'TSCO.L', 'ANTO.L', 'GAW.L', 'BGEO.L', 'KGF.L', 'UU.L', 'RR.L', 'BP.L', 'JD.L', 'SHEL.L', 'AUTO.L', 'REL.L', 'CCC.L', 'IMB.L', 'IMI.L', 'AZN.L', 'FRES.L', 'WTB.L', 'RIO.L']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+500/1436 tried, 809 found
+600/1436 tried, 909 found
+700/1436 tried, 1009 found
+
+72 Failed downloads:
+['ECV.DE', 'ALV.DE', 'ENR.DE', 'SMWH.L', 'SEIT.L', 'SIE.DE', 'SY1.DE', 'TCAP.L', 'TBCG.L', 'CBK.DE', 'TRY.L', 'QIA.DE', 'BFSA.DE', 'DBK.DE', 'SHAW.L', 'TMPL.L', 'THRL.L', 'BEI.DE', 'ZAL.DE', 'YNGA.L', 'WKP.L', 'AFX.DE', 'DTG.DE', 'SAIN.L', 'TEM.L', 'MTX.DE', 'NDA.DE', 'TATE.L', 'DTE.DE', 'JDW.L', 'BAS.DE', 'FRE.DE', 'VEIL.L', 'SPI.L', 'TEP.L', 'SEQI.L', 'VOW3.DE', 'XPS.L', 'MUV2.DE', 'WIX.L', 'DB1.DE', 'THG.L', 'MRK.DE', 'DHER.DE', 'WOSG.L', 'AIXA.DE', 'TRN.L', 'FME.DE', 'DHL.DE', 'HEN3.DE', 'SSIT.L', 'VCT.L', 'MBG.DE', 'ADS.DE', 'IFX.DE', 'WIZZ.L', 'VTY.L', 'TW.L', 'UTG.L', 'TRIG.L', 'WWH.L', 'PAH3.DE', 'SRE.L', 'SYNC.L', 'BAYN.DE', 'BNR.DE', 'SUPR.L', 'VSVS.L', 'VOF.L', 'EVD.DE', 'SAP.DE', 'AT1.DE']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+800/1436 tried, 1037 found
+900/1436 tried, 1137 found
+1000/1436 tried, 1237 found
+
+99 Failed downloads:
+['ASK.AX', 'MXT.AX', 'IMD.AX', 'BGA.AX', 'NEM.AX', 'CYL.AX', 'GMG.AX', 'BRG.AX', 'CMM.AX', 'CEN.AX', 'CHC.AX', 'EVT.AX', 'MIN.AX', 'CDA.AX', 'CWY.AX', 'MFF.AX', 'EOS.AX', 'LLC.AX', 'IAG.AX', 'COL.AX', 'FPH.AX', 'ARG.AX', 'FLT.AX', 'FRW.AX', 'CLW.AX', 'L1G.AX', 'MSB.AX', 'GPT.AX', 'MTS.AX', 'DRO.AX', 'MGR.AX', 'JHX.AX', 'LNW.AX', 'CSC.AX', 'BSL.AX', 'CQR.AX', 'MND.AX', 'CGF.AX', 'COH.AX', 'BHP.AX', 'GNE.AX', 'CAR.AX', 'ASX.AX', 'CPU.AX', 'DNL.AX', 'CIP.AX', 'JBH.AX', 'BFL.AX', 'EMR.AX', 'APE.AX', 'CIA.AX', 'ILU.AX', 'NIC.AX', 'BXB.AX', 'BWP.AX', 'MQG.AX', 'EDV.AX', 'GDG.AX', 'BOQ.AX', 'BGL.AX', 'ASB.AX', 'HUB.AX', 'NHC.AX', 'MEZ.AX', 'DBI.AX', 'FMG.AX', 'CSL.AX', 'CBA.AX', 'NSR.AX', 'CTD.AX', 'BPT.AX', 'IFL.AX', 'HDN.AX', 'DYL.AX', 'MCY.AX', 'FBU.AX', 'MPL.AX', 'LTR.AX', 'CNU.AX', 'AUB.AX', 'EVN.AX', 'LYC.AX', 'IFT.AX', 'AZJ.AX', 'DRR.AX', 'EBO.AX', 'LSF.AX', 'GGP.AX', 'LOV.AX', 'GMD.AX', 'NHF.AX', 'HVN.AX', 'GQG.AX', 'BEN.AX', 'ARB.AX', 'IGO.AX', 'NAB.AX', 'DOW.AX', 'MFG.AX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1100/1436 tried, 1238 found
+$QUB.AX: possibly delisted; no price data found  (period=2y)
+
+43 Failed downloads:
+['QUB.AX']: possibly delisted; no price data found  (period=2y)
+['XYX.AX', 'ORA.AX', 'RRL.AX', 'WES.AX', 'SEK.AX', 'CIPLA.NS', 'NXT.AX', 'SHL.AX', 'NST.AX', 'PRN.AX', 'SUL.AX', 'TUA.AX', 'PME.AX', 'GRASIM.NS', 'SGH.AX', 'SOL.AX', 'NWS.AX', 'PDN.AX', 'RMS.AX', 'BEL.NS', 'VAU.AX', 'TLC.AX', 'SCG.AX', 'YAL.AX', 'WOW.AX', 'RIO.AX', 'VNT.AX', 'ADANIENT.NS', 'RDX.AX', 'ETERNAL.NS', 'SGM.AX', 'TNE.AX', 'WDS.AX', 'VCX.AX', 'WTC.AX', 'ZIP.AX', 'PRU.AX', 'AXISBANK.NS', 'OBM.AX', 'QAN.AX', 'SDF.AX', 'RMD.AX']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1200/1436 tried, 1295 found
+1300/1436 tried, 1395 found
+1400/1436 tried, 1495 found
+1436/1436 tried, 1531 found

@@ -1,0 +1,108 @@
+data through 2026-10-21, YTD days: 202
+
+Scanned 4214 stocks (funds removed)
+
+Top 40 by YTD daily correlation
+
+       market                                    name  d_ytd  w_ytd  d_6mo  d_3mo  beta_ytd
+TSM        US  Taiwan Semiconductor Manufacturing Com   0.65   0.47   0.65   0.63      0.71
+AIO        US  Virtus Artificial Intelligence & Techn   0.59   0.55   0.58   0.62      0.34
+ENTG       US           Entegris, Inc. - Common Stock   0.54   0.47   0.53   0.62      1.01
+NVMI       US             Nova Ltd. - Ordinary Shares   0.53   0.42   0.53   0.61      0.86
+AVGO       US            Broadcom Inc. - Common Stock   0.53   0.64   0.45   0.54      0.63
+ASML       US  ASML Holding N.V. - New York Registry    0.52   0.44   0.47   0.46      0.66
+KLAC       US         KLA Corporation  - Common Stock   0.51   0.38   0.49   0.52      0.88
+AMKR       US   Amkor Technology, Inc. - Common Stock   0.51   0.45   0.47   0.54      1.09
+ETV        US  Eaton Vance Corporation Eaton Vance Ta   0.50   0.42   0.39   0.30      0.19
+AMD        US  Advanced Micro Devices, Inc. - Common    0.49   0.44   0.46   0.43      0.93
+LRCX       US  Lam Research Corporation - Common Stoc   0.49   0.40   0.46   0.50      0.89
+MKSI       US                 MKS Inc. - Common Stock   0.49   0.39   0.45   0.56      0.83
+GS         US  Goldman Sachs Group, Inc. (The) Common   0.49   0.38   0.45   0.42      0.43
+VRT        US  Vertiv Holdings, LLC Class A Common St   0.48   0.62   0.45   0.54      0.87
+SMCI       US  Super Micro Computer, Inc. - Common St   0.48   0.37   0.51   0.55      1.28
+COHR       US             Coherent Corp. Common Stock   0.48   0.56   0.45   0.55      1.17
+2845.T   INTL                                           0.48   0.57   0.44   0.45      0.11
+ONTO       US       Onto Innovation Inc. Common Stock   0.48   0.41   0.44   0.54      0.98
+AIP        US           Arteris, Inc.  - Common Stock   0.48   0.20   0.46   0.53      0.97
+CRWV       US  CoreWeave, Inc. - Class A Common Stock   0.48   0.56   0.42   0.43      1.23
+KEEL       US  Keel Infrastructure Corp. - Common Sto   0.48   0.41   0.42   0.50      1.33
+LSCC       US  Lattice Semiconductor Corporation - Co   0.48   0.33   0.45   0.53      0.81
+MPWR       US  Monolithic Power Systems, Inc. - Commo   0.48   0.46   0.45   0.49      0.72
+COHU       US               Cohu, Inc. - Common Stock   0.47   0.40   0.47   0.55      0.95
+GLXY       US  Galaxy Digital Inc. - Class A common s   0.47   0.37   0.39   0.41      1.18
+APLD       US  Applied Digital Corporation - Common S   0.47   0.43   0.40   0.52      1.26
+AEIS       US  Advanced Energy Industries, Inc. - Com   0.46   0.30   0.45   0.55      0.82
+NBIS       US  Nebius Group N.V. - Class A Ordinary S   0.46   0.43   0.43   0.44      1.39
+HUT        US              Hut 8 Corp. - Common Stock   0.46   0.31   0.41   0.41      1.27
+ACLS       US  Axcelis Technologies, Inc. - Common St   0.46   0.34   0.51   0.57      0.90
+RIOT       US     Riot Platforms, Inc. - Common Stock   0.46   0.33   0.41   0.46      1.09
+2521.T   INTL                                           0.46   0.53   0.42   0.46      0.05
+AMRC       US     Ameresco, Inc. Class A Common Stock   0.45   0.34   0.38   0.43      0.88
+FLEX       US             Flex Ltd. - Ordinary Shares   0.45   0.46   0.41   0.49      0.91
+BTDR       US  Bitdeer Technologies Group - Ordinary    0.45   0.22   0.43   0.50      1.24
+AMAT       US  Applied Materials, Inc. - Common Stock   0.45   0.36   0.42   0.46      0.78
+CCJ        US         Cameco Corporation Common Stock   0.45   0.36   0.39   0.39      0.62
+Q          US    Qnity Electronics, Inc. Common Stock   0.45   0.32   0.46   0.51      0.67
+FLS        US      Flowserve Corporation Common Stock   0.45   0.21   0.41   0.33      0.51
+HIVE       US  HIVE Digital Technologies Ltd - Common   0.45   0.21   0.37   0.52      1.15
+
+Top 20 by YTD weekly correlation
+
+       market                                    name  d_ytd  w_ytd  d_6mo  d_3mo  beta_ytd
+SITM       US       SiTime Corporation - Common Stock   0.40   0.64   0.39   0.47      0.94
+AVGO       US            Broadcom Inc. - Common Stock   0.53   0.64   0.45   0.54      0.63
+HIMX       US  Himax Technologies, Inc. - American de   0.43   0.63   0.42   0.42      0.96
+VRT        US  Vertiv Holdings, LLC Class A Common St   0.48   0.62   0.45   0.54      0.87
+6875.T   INTL                                           0.31   0.59   0.34   0.33      0.20
+RMBS       US             Rambus, Inc. - Common Stock   0.45   0.58   0.44   0.52      0.97
+META       US  Meta Platforms, Inc. - Class A Common    0.29   0.57   0.19   0.15      0.34
+2845.T   INTL                                           0.48   0.57   0.44   0.45      0.11
+PENG       US  Penguin Solutions, Inc. - Common Stock   0.42   0.57   0.44   0.47      1.03
+DDD        US     3D Systems Corporation Common Stock   0.28   0.56   0.23   0.38      0.66
+COHR       US             Coherent Corp. Common Stock   0.48   0.56   0.45   0.55      1.17
+CRWV       US  CoreWeave, Inc. - Class A Common Stock   0.48   0.56   0.42   0.43      1.23
+AIO        US  Virtus Artificial Intelligence & Techn   0.59   0.55   0.58   0.62      0.34
+RKLB       US   Rocket Lab Corporation - Common Stock   0.38   0.55   0.35   0.52      0.95
+WOLF       US        Wolfspeed, Inc. Common Stock New   0.37   0.55   0.40   0.42      1.20
+SMTC       US      Semtech Corporation - Common Stock   0.40   0.55   0.39   0.42      0.89
+IREN       US          IREN Limited - Ordinary Shares   0.44   0.54   0.42   0.55      1.24
+URGN       US    UroGen Pharma Ltd. - Ordinary Shares   0.22   0.54   0.25   0.32      0.35
+2521.T   INTL                                           0.46   0.53   0.42   0.46      0.05
+MTSI       US  MACOM Technology Solutions Holdings, I   0.42   0.53   0.41   0.50      0.74
+
+Top 15 most consistent (min of YTD/6mo/3mo daily)
+
+     market                                    name  d_ytd  w_ytd  d_6mo  d_3mo  beta_ytd  consistency
+TSM      US  Taiwan Semiconductor Manufacturing Com   0.65   0.47   0.65   0.63      0.71         0.63
+AIO      US  Virtus Artificial Intelligence & Techn   0.59   0.55   0.58   0.62      0.34         0.58
+NVMI     US             Nova Ltd. - Ordinary Shares   0.53   0.42   0.53   0.61      0.86         0.53
+ENTG     US           Entegris, Inc. - Common Stock   0.54   0.47   0.53   0.62      1.01         0.53
+KLAC     US         KLA Corporation  - Common Stock   0.51   0.38   0.49   0.52      0.88         0.49
+SMCI     US  Super Micro Computer, Inc. - Common St   0.48   0.37   0.51   0.55      1.28         0.48
+AMKR     US   Amkor Technology, Inc. - Common Stock   0.51   0.45   0.47   0.54      1.09         0.47
+COHU     US               Cohu, Inc. - Common Stock   0.47   0.40   0.47   0.55      0.95         0.47
+ASML     US  ASML Holding N.V. - New York Registry    0.52   0.44   0.47   0.46      0.66         0.46
+LRCX     US  Lam Research Corporation - Common Stoc   0.49   0.40   0.46   0.50      0.89         0.46
+AIP      US           Arteris, Inc.  - Common Stock   0.48   0.20   0.46   0.53      0.97         0.46
+ACLS     US  Axcelis Technologies, Inc. - Common St   0.46   0.34   0.51   0.57      0.90         0.46
+AVGO     US            Broadcom Inc. - Common Stock   0.53   0.64   0.45   0.54      0.63         0.45
+MKSI     US                 MKS Inc. - Common Stock   0.49   0.39   0.45   0.56      0.83         0.45
+MPWR     US  Monolithic Power Systems, Inc. - Commo   0.48   0.46   0.45   0.49      0.72         0.45
+
+Top 10 international
+
+       market name  d_ytd  w_ytd  d_6mo  d_3mo  beta_ytd
+2845.T   INTL        0.48   0.57   0.44   0.45      0.11
+2521.T   INTL        0.46   0.53   0.42   0.46      0.05
+1655.T   INTL        0.39   0.46   0.37   0.25      0.04
+1557.T   INTL        0.39   0.42   0.37   0.24      0.05
+1657.T   INTL        0.38   0.39   0.36   0.22      0.03
+1547.T   INTL        0.38   0.42   0.37   0.24      0.05
+2867.T   INTL        0.38   0.35   0.37   0.47      0.11
+1554.T   INTL        0.37   0.44   0.32   0.24      0.05
+1680.T   INTL        0.36   0.37   0.35   0.28      0.03
+1578.T   INTL        0.35   0.30   0.30   0.40      0.13
+daily>0.85: 0   weekly>0.85: 0
+daily>0.7: 0   weekly>0.7: 0
+daily>0.6: 1   weekly>0.6: 4
+daily>0.5: 8   weekly>0.5: 26

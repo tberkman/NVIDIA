@@ -1,0 +1,836 @@
+9435 international symbols to try
+$2584.TW: No data found, symbol may be delisted
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 2596.TW"}}}
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 2533.TW"}}}
+$2559.TW: No data found, symbol may be delisted
+$2556.TW: No data found, symbol may be delisted
+$2588.TW: No data found, symbol may be delisted
+$2578.TW: No data found, symbol may be delisted
+$2533.TW: No data found, symbol may be delisted
+$2541.TW: No data found, symbol may be delisted
+$2586.TW: No data found, symbol may be delisted
+$2560.TW: No data found, symbol may be delisted
+$2596.TW: No data found, symbol may be delisted
+$2594.TW: No data found, symbol may be delisted
+$2600.TW: No data found, symbol may be delisted
+$2552.TW: No data found, symbol may be delisted
+$2602.TW: No data found, symbol may be delisted
+$2587.TW: No data found, symbol may be delisted
+$2573.TW: No data found, symbol may be delisted
+$2590.TW: No data found, symbol may be delisted
+$2580.TW: No data found, symbol may be delisted
+$2565.TW: No data found, symbol may be delisted
+$2570.TW: No data found, symbol may be delisted
+$2555.TW: No data found, symbol may be delisted
+$2550.TW: No data found, symbol may be delisted
+$2551.TW: No data found, symbol may be delisted
+$2571.TW: No data found, symbol may be delisted
+$2554.TW: No data found, symbol may be delisted
+$2575.TW: No data found, symbol may be delisted
+$2563.TW: No data found, symbol may be delisted
+$2574.TW: No data found, symbol may be delisted
+$2583.TW: No data found, symbol may be delisted
+$2544.TW: No data found, symbol may be delisted
+$2557.TW: No data found, symbol may be delisted
+$2569.TW: No data found, symbol may be delisted
+$2591.TW: No data found, symbol may be delisted
+$2568.TW: No data found, symbol may be delisted
+$2593.TW: No data found, symbol may be delisted
+$2598.TW: No data found, symbol may be delisted
+$2576.TW: No data found, symbol may be delisted
+$2582.TW: No data found, symbol may be delisted
+$2572.TW: No data found, symbol may be delisted
+$2567.TW: No data found, symbol may be delisted
+$2549.TW: No data found, symbol may be delisted
+$2581.TW: No data found, symbol may be delisted
+$2585.TW: No data found, symbol may be delisted
+$2553.TW: No data found, symbol may be delisted
+$2599.TW: No data found, symbol may be delisted
+$2561.TW: No data found, symbol may be delisted
+$2562.TW: No data found, symbol may be delisted
+$2558.TW: No data found, symbol may be delisted
+$2595.TW: No data found, symbol may be delisted
+$2604.TW: No data found, symbol may be delisted
+$2566.TW: No data found, symbol may be delisted
+$2579.TW: No data found, symbol may be delisted
+$2577.TW: No data found, symbol may be delisted
+$2592.TW: No data found, symbol may be delisted
+$2564.TW: No data found, symbol may be delisted
+$2589.TW: No data found, symbol may be delisted
+
+56 Failed downloads:
+['2584.TW', '2559.TW', '2556.TW', '2588.TW', '2578.TW', '2533.TW', '2541.TW', '2586.TW', '2560.TW', '2596.TW', '2594.TW', '2600.TW', '2552.TW', '2602.TW', '2587.TW', '2573.TW', '2590.TW', '2580.TW', '2565.TW', '2570.TW', '2555.TW', '2550.TW', '2551.TW', '2571.TW', '2554.TW', '2575.TW', '2563.TW', '2574.TW', '2583.TW', '2544.TW', '2557.TW', '2569.TW', '2591.TW', '2568.TW', '2593.TW', '2598.TW', '2576.TW', '2582.TW', '2572.TW', '2567.TW', '2549.TW', '2581.TW', '2585.TW', '2553.TW', '2599.TW', '2561.TW', '2562.TW', '2558.TW', '2595.TW', '2604.TW', '2566.TW', '2579.TW', '2577.TW', '2592.TW', '2564.TW', '2589.TW']: No data found, symbol may be delisted
+80/9435 tried, 495 found
+$2674.TW: No data found, symbol may be delisted
+$2648.TW: No data found, symbol may be delisted
+$2684.TW: No data found, symbol may be delisted
+$2627.TW: No data found, symbol may be delisted
+$2683.TW: No data found, symbol may be delisted
+$2675.TW: No data found, symbol may be delisted
+$2624.TW: No data found, symbol may be delisted
+$2666.TW: No data found, symbol may be delisted
+$2651.TW: No data found, symbol may be delisted
+$2663.TW: No data found, symbol may be delisted
+$2678.TW: No data found, symbol may be delisted
+$2692.TW: No data found, symbol may be delisted
+$2632.TW: No data found, symbol may be delisted
+$2668.TW: No data found, symbol may be delisted
+$2670.TW: No data found, symbol may be delisted
+$2677.TW: No data found, symbol may be delisted
+$2667.TW: No data found, symbol may be delisted
+$2691.TW: No data found, symbol may be delisted
+$2676.TW: No data found, symbol may be delisted
+$2619.TW: No data found, symbol may be delisted
+$2656.TW: No data found, symbol may be delisted
+$2680.TW: No data found, symbol may be delisted
+$2665.TW: No data found, symbol may be delisted
+$2631.TW: No data found, symbol may be delisted
+$2682.TW: No data found, symbol may be delisted
+$2658.TW: No data found, symbol may be delisted
+$2654.TW: No data found, symbol may be delisted
+$2620.TW: No data found, symbol may be delisted
+$2669.TW: No data found, symbol may be delisted
+$2688.TW: No data found, symbol may be delisted
+$2672.TW: No data found, symbol may be delisted
+$2640.TW: No data found, symbol may be delisted
+$2621.TW: No data found, symbol may be delisted
+$2690.TW: No data found, symbol may be delisted
+$2649.TW: No data found, symbol may be delisted
+$2689.TW: No data found, symbol may be delisted
+$2653.TW: No data found, symbol may be delisted
+$2647.TW: No data found, symbol may be delisted
+$2652.TW: No data found, symbol may be delisted
+$2662.TW: No data found, symbol may be delisted
+$2661.TW: No data found, symbol may be delisted
+$2681.TW: No data found, symbol may be delisted
+$2671.TW: No data found, symbol may be delisted
+$2660.TW: No data found, symbol may be delisted
+$2638.TW: No data found, symbol may be delisted
+$2622.TW: No data found, symbol may be delisted
+$2635.TW: No data found, symbol may be delisted
+$2644.TW: No data found, symbol may be delisted
+$2664.TW: No data found, symbol may be delisted
+$2623.TW: No data found, symbol may be delisted
+$2655.TW: No data found, symbol may be delisted
+$2625.TW: No data found, symbol may be delisted
+$2641.TW: No data found, symbol may be delisted
+$2626.TW: No data found, symbol may be delisted
+$2643.TW: No data found, symbol may be delisted
+$2628.TW: No data found, symbol may be delisted
+$2686.TW: No data found, symbol may be delisted
+$2679.TW: No data found, symbol may be delisted
+$2685.TW: No data found, symbol may be delisted
+$2629.TW: No data found, symbol may be delisted
+$2687.TW: No data found, symbol may be delisted
+$2659.TW: No data found, symbol may be delisted
+$2673.TW: No data found, symbol may be delisted
+$2657.TW: No data found, symbol may be delisted
+$2650.TW: No data found, symbol may be delisted
+$2639.TW: No data found, symbol may be delisted
+
+66 Failed downloads:
+['2674.TW', '2648.TW', '2684.TW', '2627.TW', '2683.TW', '2675.TW', '2624.TW', '2666.TW', '2651.TW', '2663.TW', '2678.TW', '2692.TW', '2632.TW', '2668.TW', '2670.TW', '2677.TW', '2667.TW', '2691.TW', '2676.TW', '2619.TW', '2656.TW', '2680.TW', '2665.TW', '2631.TW', '2682.TW', '2658.TW', '2654.TW', '2620.TW', '2669.TW', '2688.TW', '2672.TW', '2640.TW', '2621.TW', '2690.TW', '2649.TW', '2689.TW', '2653.TW', '2647.TW', '2652.TW', '2662.TW', '2661.TW', '2681.TW', '2671.TW', '2660.TW', '2638.TW', '2622.TW', '2635.TW', '2644.TW', '2664.TW', '2623.TW', '2655.TW', '2625.TW', '2641.TW', '2626.TW', '2643.TW', '2628.TW', '2686.TW', '2679.TW', '2685.TW', '2629.TW', '2687.TW', '2659.TW', '2673.TW', '2657.TW', '2650.TW', '2639.TW']: No data found, symbol may be delisted
+160/9435 tried, 509 found
+$2746.TW: No data found, symbol may be delisted
+$2750.TW: No data found, symbol may be delisted
+$2730.TW: No data found, symbol may be delisted
+$2734.TW: No data found, symbol may be delisted
+$2715.TW: No data found, symbol may be delisted
+$2697.TW: No data found, symbol may be delisted
+$2736.TW: No data found, symbol may be delisted
+$2732.TW: No data found, symbol may be delisted
+$2698.TW: No data found, symbol may be delisted
+$2738.TW: No data found, symbol may be delisted
+$2726.TW: No data found, symbol may be delisted
+$2700.TW: No data found, symbol may be delisted
+$2749.TW: No data found, symbol may be delisted
+$2742.TW: No data found, symbol may be delisted
+$2729.TW: No data found, symbol may be delisted
+$2709.TW: No data found, symbol may be delisted
+$2728.TW: No data found, symbol may be delisted
+$2710.TW: No data found, symbol may be delisted
+$2737.TW: No data found, symbol may be delisted
+$2765.TW: No data found, symbol may be delisted
+$2761.TW: No data found, symbol may be delisted
+$2720.TW: No data found, symbol may be delisted
+$2724.TW: No data found, symbol may be delisted
+$2721.TW: No data found, symbol may be delisted
+$2725.TW: No data found, symbol may be delisted
+$2740.TW: No data found, symbol may be delisted
+$2703.TW: No data found, symbol may be delisted
+$2711.TW: No data found, symbol may be delisted
+$2767.TW: No data found, symbol may be delisted
+$2735.TW: No data found, symbol may be delisted
+$2741.TW: No data found, symbol may be delisted
+$2693.TW: No data found, symbol may be delisted
+$2764.TW: No data found, symbol may be delisted
+$2766.TW: No data found, symbol may be delisted
+$2752.TW: No data found, symbol may be delisted
+$2763.TW: No data found, symbol may be delisted
+$2759.TW: No data found, symbol may be delisted
+$2758.TW: No data found, symbol may be delisted
+$2769.TW: No data found, symbol may be delisted
+$2771.TW: No data found, symbol may be delisted
+$2696.TW: No data found, symbol may be delisted
+$2772.TW: No data found, symbol may be delisted
+$2768.TW: No data found, symbol may be delisted
+$2743.TW: No data found, symbol may be delisted
+$2695.TW: No data found, symbol may be delisted
+$2733.TW: No data found, symbol may be delisted
+$2714.TW: No data found, symbol may be delisted
+$2754.TW: No data found, symbol may be delisted
+$2760.TW: No data found, symbol may be delisted
+$2694.TW: No data found, symbol may be delisted
+$2708.TW: No data found, symbol may be delisted
+$2745.TW: No data found, symbol may be delisted
+$2717.TW: No data found, symbol may be delisted
+$2699.TW: No data found, symbol may be delisted
+$2713.TW: No data found, symbol may be delisted
+$2751.TW: No data found, symbol may be delisted
+$2718.TW: No data found, symbol may be delisted
+$2770.TW: No data found, symbol may be delisted
+$2747.TW: No data found, symbol may be delisted
+$2719.TW: No data found, symbol may be delisted
+$2744.TW: No data found, symbol may be delisted
+$2755.TW: No data found, symbol may be delisted
+$2756.TW: No data found, symbol may be delisted
+$2757.TW: No data found, symbol may be delisted
+$2716.TW: No data found, symbol may be delisted
+
+65 Failed downloads:
+['2746.TW', '2750.TW', '2730.TW', '2734.TW', '2715.TW', '2697.TW', '2736.TW', '2732.TW', '2698.TW', '2738.TW', '2726.TW', '2700.TW', '2749.TW', '2742.TW', '2729.TW', '2709.TW', '2728.TW', '2710.TW', '2737.TW', '2765.TW', '2761.TW', '2720.TW', '2724.TW', '2721.TW', '2725.TW', '2740.TW', '2703.TW', '2711.TW', '2767.TW', '2735.TW', '2741.TW', '2693.TW', '2764.TW', '2766.TW', '2752.TW', '2763.TW', '2759.TW', '2758.TW', '2769.TW', '2771.TW', '2696.TW', '2772.TW', '2768.TW', '2743.TW', '2695.TW', '2733.TW', '2714.TW', '2754.TW', '2760.TW', '2694.TW', '2708.TW', '2745.TW', '2717.TW', '2699.TW', '2713.TW', '2751.TW', '2718.TW', '2770.TW', '2747.TW', '2719.TW', '2744.TW', '2755.TW', '2756.TW', '2757.TW', '2716.TW']: No data found, symbol may be delisted
+240/9435 tried, 524 found
+$2833.TW: No data found, symbol may be delisted
+$2804.TW: No data found, symbol may be delisted
+$2807.TW: No data found, symbol may be delisted
+$2792.TW: No data found, symbol may be delisted
+$2805.TW: No data found, symbol may be delisted
+$2827.TW: No data found, symbol may be delisted
+$2788.TW: No data found, symbol may be delisted
+$2839.TW: No data found, symbol may be delisted
+$2777.TW: No data found, symbol may be delisted
+$2776.TW: No data found, symbol may be delisted
+$2843.TW: No data found, symbol may be delisted
+$2813.TW: No data found, symbol may be delisted
+$2800.TW: No data found, symbol may be delisted
+$2781.TW: No data found, symbol may be delisted
+$2846.TW: No data found, symbol may be delisted
+$2844.TW: No data found, symbol may be delisted
+$2825.TW: No data found, symbol may be delisted
+$2780.TW: No data found, symbol may be delisted
+$2822.TW: No data found, symbol may be delisted
+$2809.TW: No data found, symbol may be delisted
+$2784.TW: No data found, symbol may be delisted
+$2831.TW: No data found, symbol may be delisted
+$2779.TW: No data found, symbol may be delisted
+$2841.TW: No data found, symbol may be delisted
+$2810.TW: No data found, symbol may be delisted
+$2811.TW: No data found, symbol may be delisted
+$2821.TW: No data found, symbol may be delisted
+$2847.TW: No data found, symbol may be delisted
+$2791.TW: No data found, symbol may be delisted
+$2789.TW: No data found, symbol may be delisted
+$2814.TW: No data found, symbol may be delisted
+$2774.TW: No data found, symbol may be delisted
+$2798.TW: No data found, symbol may be delisted
+$2824.TW: No data found, symbol may be delisted
+$2840.TW: No data found, symbol may be delisted
+$2775.TW: No data found, symbol may be delisted
+$2819.TW: No data found, symbol may be delisted
+$2828.TW: No data found, symbol may be delisted
+$2802.TW: No data found, symbol may be delisted
+$2793.TW: No data found, symbol may be delisted
+$2794.TW: No data found, symbol may be delisted
+$2826.TW: No data found, symbol may be delisted
+$2782.TW: No data found, symbol may be delisted
+$2818.TW: No data found, symbol may be delisted
+$2808.TW: No data found, symbol may be delisted
+$2815.TW: No data found, symbol may be delisted
+$2790.TW: No data found, symbol may be delisted
+$2796.TW: No data found, symbol may be delisted
+$2829.TW: No data found, symbol may be delisted
+$2783.TW: No data found, symbol may be delisted
+$2806.TW: No data found, symbol may be delisted
+$2823.TW: No data found, symbol may be delisted
+$2803.TW: No data found, symbol may be delisted
+$2835.TW: No data found, symbol may be delisted
+$2848.TW: No data found, symbol may be delisted
+$2830.TW: No data found, symbol may be delisted
+$2799.TW: No data found, symbol may be delisted
+$2795.TW: No data found, symbol may be delisted
+$2817.TW: No data found, symbol may be delisted
+$2773.TW: No data found, symbol may be delisted
+$2778.TW: No data found, symbol may be delisted
+$2837.TW: No data found, symbol may be delisted
+$2787.TW: No data found, symbol may be delisted
+$2786.TW: No data found, symbol may be delisted
+$2842.TW: No data found, symbol may be delisted
+$2797.TW: No data found, symbol may be delisted
+$2785.TW: No data found, symbol may be delisted
+
+67 Failed downloads:
+['2833.TW', '2804.TW', '2807.TW', '2792.TW', '2805.TW', '2827.TW', '2788.TW', '2839.TW', '2777.TW', '2776.TW', '2843.TW', '2813.TW', '2800.TW', '2781.TW', '2846.TW', '2844.TW', '2825.TW', '2780.TW', '2822.TW', '2809.TW', '2784.TW', '2831.TW', '2779.TW', '2841.TW', '2810.TW', '2811.TW', '2821.TW', '2847.TW', '2791.TW', '2789.TW', '2814.TW', '2774.TW', '2798.TW', '2824.TW', '2840.TW', '2775.TW', '2819.TW', '2828.TW', '2802.TW', '2793.TW', '2794.TW', '2826.TW', '2782.TW', '2818.TW', '2808.TW', '2815.TW', '2790.TW', '2796.TW', '2829.TW', '2783.TW', '2806.TW', '2823.TW', '2803.TW', '2835.TW', '2848.TW', '2830.TW', '2799.TW', '2795.TW', '2817.TW', '2773.TW', '2778.TW', '2837.TW', '2787.TW', '2786.TW', '2842.TW', '2797.TW', '2785.TW']: No data found, symbol may be delisted
+320/9435 tried, 537 found
+$2902.TW: No data found, symbol may be delisted
+$2861.TW: No data found, symbol may be delisted
+$2870.TW: No data found, symbol may be delisted
+$2878.TW: No data found, symbol may be delisted
+$2894.TW: No data found, symbol may be delisted
+$2888.TW: No data found, symbol may be delisted
+$2907.TW: No data found, symbol may be delisted
+$2859.TW: No data found, symbol may be delisted
+$2871.TW: No data found, symbol may be delisted
+$2899.TW: No data found, symbol may be delisted
+$2926.TW: No data found, symbol may be delisted
+$2928.TW: No data found, symbol may be delisted
+$2876.TW: No data found, symbol may be delisted
+$2856.TW: No data found, symbol may be delisted
+$2895.TW: No data found, symbol may be delisted
+$2932.TW: No data found, symbol may be delisted
+$2853.TW: No data found, symbol may be delisted
+$2930.TW: No data found, symbol may be delisted
+$2866.TW: No data found, symbol may be delisted
+$2857.TW: No data found, symbol may be delisted
+$2863.TW: No data found, symbol may be delisted
+$2874.TW: No data found, symbol may be delisted
+$2872.TW: No data found, symbol may be delisted
+$2896.TW: No data found, symbol may be delisted
+$2858.TW: No data found, symbol may be delisted
+$2865.TW: No data found, symbol may be delisted
+$2869.TW: No data found, symbol may be delisted
+$2900.TW: No data found, symbol may be delisted
+$2916.TW: No data found, symbol may be delisted
+$2920.TW: No data found, symbol may be delisted
+$2927.TW: No data found, symbol may be delisted
+$2893.TW: No data found, symbol may be delisted
+$2909.TW: No data found, symbol may be delisted
+$2914.TW: No data found, symbol may be delisted
+$2862.TW: No data found, symbol may be delisted
+$2879.TW: No data found, symbol may be delisted
+$2898.TW: No data found, symbol may be delisted
+$2864.TW: No data found, symbol may be delisted
+$2875.TW: No data found, symbol may be delisted
+$2877.TW: No data found, symbol may be delisted
+$2925.TW: No data found, symbol may be delisted
+$2873.TW: No data found, symbol may be delisted
+$2921.TW: No data found, symbol may be delisted
+$2917.TW: No data found, symbol may be delisted
+$2922.TW: No data found, symbol may be delisted
+$2868.TW: No data found, symbol may be delisted
+$2860.TW: No data found, symbol may be delisted
+$2931.TW: No data found, symbol may be delisted
+$2919.TW: No data found, symbol may be delisted
+$2854.TW: No data found, symbol may be delisted
+$2924.TW: No data found, symbol may be delisted
+$2918.TW: No data found, symbol may be delisted
+
+52 Failed downloads:
+['2902.TW', '2861.TW', '2870.TW', '2878.TW', '2894.TW', '2888.TW', '2907.TW', '2859.TW', '2871.TW', '2899.TW', '2926.TW', '2928.TW', '2876.TW', '2856.TW', '2895.TW', '2932.TW', '2853.TW', '2930.TW', '2866.TW', '2857.TW', '2863.TW', '2874.TW', '2872.TW', '2896.TW', '2858.TW', '2865.TW', '2869.TW', '2900.TW', '2916.TW', '2920.TW', '2927.TW', '2893.TW', '2909.TW', '2914.TW', '2862.TW', '2879.TW', '2898.TW', '2864.TW', '2875.TW', '2877.TW', '2925.TW', '2873.TW', '2921.TW', '2917.TW', '2922.TW', '2868.TW', '2860.TW', '2931.TW', '2919.TW', '2854.TW', '2924.TW', '2918.TW']: No data found, symbol may be delisted
+400/9435 tried, 565 found
+$2964.TW: No data found, symbol may be delisted
+$2994.TW: No data found, symbol may be delisted
+$2965.TW: No data found, symbol may be delisted
+$2962.TW: No data found, symbol may be delisted
+$2979.TW: No data found, symbol may be delisted
+$3001.TW: No data found, symbol may be delisted
+$2973.TW: No data found, symbol may be delisted
+$2977.TW: No data found, symbol may be delisted
+$2966.TW: No data found, symbol may be delisted
+$2984.TW: No data found, symbol may be delisted
+$2968.TW: No data found, symbol may be delisted
+$2951.TW: No data found, symbol may be delisted
+$2947.TW: No data found, symbol may be delisted
+$2967.TW: No data found, symbol may be delisted
+$2960.TW: No data found, symbol may be delisted
+$2981.TW: No data found, symbol may be delisted
+$2989.TW: No data found, symbol may be delisted
+$2970.TW: No data found, symbol may be delisted
+$2988.TW: No data found, symbol may be delisted
+$2952.TW: No data found, symbol may be delisted
+$2990.TW: No data found, symbol may be delisted
+$2954.TW: No data found, symbol may be delisted
+$2998.TW: No data found, symbol may be delisted
+$2953.TW: No data found, symbol may be delisted
+$2938.TW: No data found, symbol may be delisted
+$2934.TW: No data found, symbol may be delisted
+$2999.TW: No data found, symbol may be delisted
+$2991.TW: No data found, symbol may be delisted
+$2944.TW: No data found, symbol may be delisted
+$2983.TW: No data found, symbol may be delisted
+$2972.TW: No data found, symbol may be delisted
+$2996.TW: No data found, symbol may be delisted
+$2987.TW: No data found, symbol may be delisted
+$2971.TW: No data found, symbol may be delisted
+$2995.TW: No data found, symbol may be delisted
+$2993.TW: No data found, symbol may be delisted
+$2949.TW: No data found, symbol may be delisted
+$2948.TW: No data found, symbol may be delisted
+$2955.TW: No data found, symbol may be delisted
+
+76 Failed downloads:
+['2964.TW', '2994.TW', '2965.TW', '2962.TW', '2979.TW', '3001.TW', '2973.TW', '2977.TW', '2966.TW', '2984.TW', '2968.TW', '2951.TW', '2947.TW', '2967.TW', '2960.TW', '2981.TW', '2989.TW', '2970.TW', '2988.TW', '2952.TW', '2990.TW', '2954.TW', '2998.TW', '2953.TW', '2938.TW', '2934.TW', '2999.TW', '2991.TW', '2944.TW', '2983.TW', '2972.TW', '2996.TW', '2987.TW', '2971.TW', '2995.TW', '2993.TW', '2949.TW', '2948.TW', '2955.TW']: No data found, symbol may be delisted
+['2937.TW', '2992.TW', '2975.TW', '2982.TW', '2943.TW', '2997.TW', '2941.TW', '2950.TW', '2958.TW', '3007.TW', '2969.TW', '2959.TW', '2957.TW', '2978.TW', '2985.TW', '3002.TW', '2942.TW', '3012.TW', '2933.TW', '2976.TW', '3004.TW', '3005.TW', '2939.TW', '2980.TW', '2986.TW', '2936.TW', '2956.TW', '3003.TW', '2961.TW', '2974.TW', '3000.TW', '2963.TW', '2945.TW', '2946.TW', '2940.TW', '2935.TW', '3009.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+480/9435 tried, 569 found
+
+80 Failed downloads:
+['3070.TW', '3087.TW', '3082.TW', '3075.TW', '3067.TW', '3035.TW', '3029.TW', '3017.TW', '3050.TW', '3032.TW', '3038.TW', '3072.TW', '3021.TW', '3073.TW', '3057.TW', '3027.TW', '3026.TW', '3079.TW', '3085.TW', '3036.TW', '3018.TW', '3071.TW', '3022.TW', '3048.TW', '3049.TW', '3080.TW', '3074.TW', '3066.TW', '3076.TW', '3019.TW', '3013.TW', '3015.TW', '3077.TW', '3044.TW', '3059.TW', '3084.TW', '3020.TW', '3054.TW', '3046.TW', '3062.TW', '3078.TW', '3014.TW', '3039.TW', '3041.TW', '3088.TW', '3092.TW', '3060.TW', '3089.TW', '3040.TW', '3045.TW', '3024.TW', '3056.TW', '3030.TW', '3069.TW', '3053.TW', '3052.TW', '3058.TW', '3043.TW', '3068.TW', '3025.TW', '3090.TW', '3034.TW', '3055.TW', '3083.TW', '3047.TW', '3065.TW', '3051.TW', '3023.TW', '3016.TW', '3028.TW', '3063.TW', '3086.TW', '3064.TW', '3033.TW', '3037.TW', '3042.TW', '3091.TW', '3031.TW', '3081.TW', '3061.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+560/9435 tried, 569 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+79 Failed downloads:
+['3133.TW', '3123.TW', '3121.TW', '3104.TW', '3160.TW', '3098.TW', '3101.TW', '3113.TW', '3119.TW', '3114.TW', '3149.TW', '3096.TW', '3107.TW', '3122.TW', '3128.TW', '3112.TW', '3131.TW', '3110.TW', '3120.TW', '3155.TW', '3161.TW', '3134.TW', '3171.TW', '3141.TW', '3143.TW', '3135.TW', '3111.TW', '3158.TW', '3129.TW', '3163.TW', '3095.TW', '3105.TW', '3118.TW', '3115.TW', '3159.TW', '3167.TW', '3142.TW', '3108.TW', '3099.TW', '3165.TW', '3127.TW', '3102.TW', '3153.TW', '3151.TW', '3136.TW', '3150.TW', '3097.TW', '3152.TW', '3156.TW', '3124.TW', '3146.TW', '3109.TW', '3147.TW', '3166.TW', '3145.TW', '3116.TW', '3164.TW', '3144.TW', '3093.TW', '3137.TW', '3157.TW', '3169.TW', '3132.TW', '3170.TW', '3126.TW', '3148.TW', '3140.TW', '3100.TW', '3154.TW', '3162.TW', '3168.TW', '3172.TW', '3139.TW', '3125.TW', '3117.TW', '3130.TW', '3106.TW', '3103.TW', '3138.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+640/9435 tried, 570 found
+
+80 Failed downloads:
+['3248.TW', '3226.TW', '3249.TW', '3237.TW', '3176.TW', '3187.TW', '3196.TW', '3231.TW', '3246.TW', '3207.TW', '3177.TW', '3229.TW', '3247.TW', '3209.TW', '3244.TW', '3197.TW', '3183.TW', '3242.TW', '3227.TW', '3182.TW', '3212.TW', '3174.TW', '3180.TW', '3218.TW', '3251.TW', '3236.TW', '3178.TW', '3189.TW', '3210.TW', '3217.TW', '3186.TW', '3235.TW', '3234.TW', '3201.TW', '3245.TW', '3228.TW', '3221.TW', '3216.TW', '3232.TW', '3224.TW', '3184.TW', '3225.TW', '3239.TW', '3198.TW', '3194.TW', '3191.TW', '3179.TW', '3252.TW', '3241.TW', '3190.TW', '3211.TW', '3220.TW', '3192.TW', '3175.TW', '3222.TW', '3230.TW', '3205.TW', '3215.TW', '3204.TW', '3223.TW', '3233.TW', '3206.TW', '3202.TW', '3173.TW', '3213.TW', '3219.TW', '3188.TW', '3203.TW', '3185.TW', '3181.TW', '3200.TW', '3208.TW', '3195.TW', '3240.TW', '3193.TW', '3214.TW', '3238.TW', '3199.TW', '3250.TW', '3243.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+720/9435 tried, 570 found
+
+79 Failed downloads:
+['3316.TW', '3272.TW', '3273.TW', '3276.TW', '3262.TW', '3287.TW', '3265.TW', '3306.TW', '3328.TW', '3323.TW', '3312.TW', '3304.TW', '3282.TW', '3309.TW', '3258.TW', '3293.TW', '3325.TW', '3261.TW', '3327.TW', '3297.TW', '3295.TW', '3270.TW', '3286.TW', '3307.TW', '3284.TW', '3300.TW', '3288.TW', '3264.TW', '3294.TW', '3296.TW', '3257.TW', '3318.TW', '3321.TW', '3308.TW', '3278.TW', '3290.TW', '3322.TW', '3289.TW', '3281.TW', '3259.TW', '3254.TW', '3314.TW', '3279.TW', '3320.TW', '3302.TW', '3268.TW', '3285.TW', '3317.TW', '3291.TW', '3332.TW', '3260.TW', '3280.TW', '3283.TW', '3292.TW', '3274.TW', '3313.TW', '3263.TW', '3269.TW', '3303.TW', '3319.TW', '3277.TW', '3329.TW', '3331.TW', '3266.TW', '3311.TW', '3299.TW', '3310.TW', '3271.TW', '3330.TW', '3315.TW', '3253.TW', '3255.TW', '3267.TW', '3324.TW', '3326.TW', '3301.TW', '3275.TW', '3256.TW', '3298.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+800/9435 tried, 571 found
+
+80 Failed downloads:
+['3374.TW', '3399.TW', '3387.TW', '3339.TW', '3371.TW', '3334.TW', '3410.TW', '3404.TW', '3391.TW', '3344.TW', '3400.TW', '3396.TW', '3367.TW', '3340.TW', '3357.TW', '3397.TW', '3401.TW', '3405.TW', '3383.TW', '3385.TW', '3349.TW', '3378.TW', '3348.TW', '3390.TW', '3408.TW', '3362.TW', '3406.TW', '3412.TW', '3358.TW', '3370.TW', '3336.TW', '3360.TW', '3363.TW', '3375.TW', '3366.TW', '3394.TW', '3369.TW', '3343.TW', '3389.TW', '3337.TW', '3341.TW', '3386.TW', '3335.TW', '3365.TW', '3380.TW', '3355.TW', '3379.TW', '3347.TW', '3364.TW', '3395.TW', '3376.TW', '3359.TW', '3346.TW', '3411.TW', '3353.TW', '3409.TW', '3351.TW', '3345.TW', '3342.TW', '3350.TW', '3373.TW', '3333.TW', '3384.TW', '3368.TW', '3377.TW', '3392.TW', '3403.TW', '3361.TW', '3354.TW', '3338.TW', '3381.TW', '3372.TW', '3388.TW', '3407.TW', '3356.TW', '3402.TW', '3382.TW', '3352.TW', '3398.TW', '3393.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+880/9435 tried, 571 found
+
+80 Failed downloads:
+['3490.TW', '3418.TW', '3458.TW', '3487.TW', '3461.TW', '3455.TW', '3440.TW', '3442.TW', '3462.TW', '3439.TW', '3427.TW', '3466.TW', '3469.TW', '3456.TW', '3448.TW', '3480.TW', '3477.TW', '3421.TW', '3472.TW', '3436.TW', '3415.TW', '3468.TW', '3488.TW', '3485.TW', '3435.TW', '3453.TW', '3464.TW', '3416.TW', '3437.TW', '3443.TW', '3473.TW', '3420.TW', '3433.TW', '3479.TW', '3467.TW', '3460.TW', '3422.TW', '3441.TW', '3426.TW', '3428.TW', '3419.TW', '3470.TW', '3474.TW', '3481.TW', '3423.TW', '3476.TW', '3446.TW', '3432.TW', '3478.TW', '3447.TW', '3450.TW', '3452.TW', '3430.TW', '3491.TW', '3425.TW', '3414.TW', '3413.TW', '3482.TW', '3417.TW', '3438.TW', '3483.TW', '3451.TW', '3484.TW', '3475.TW', '3465.TW', '3445.TW', '3431.TW', '3457.TW', '3434.TW', '3454.TW', '3459.TW', '3486.TW', '3471.TW', '3489.TW', '3449.TW', '3492.TW', '3429.TW', '3463.TW', '3444.TW', '3424.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+960/9435 tried, 571 found
+
+80 Failed downloads:
+['3511.TW', '3495.TW', '3544.TW', '3498.TW', '3546.TW', '3513.TW', '3557.TW', '3563.TW', '3568.TW', '3517.TW', '3545.TW', '3554.TW', '3515.TW', '3520.TW', '3559.TW', '3549.TW', '3503.TW', '3512.TW', '3531.TW', '3534.TW', '3551.TW', '3530.TW', '3506.TW', '3558.TW', '3561.TW', '3518.TW', '3496.TW', '3560.TW', '3505.TW', '3500.TW', '3509.TW', '3548.TW', '3555.TW', '3497.TW', '3536.TW', '3516.TW', '3519.TW', '3537.TW', '3533.TW', '3540.TW', '3528.TW', '3493.TW', '3521.TW', '3542.TW', '3547.TW', '3566.TW', '3510.TW', '3572.TW', '3565.TW', '3550.TW', '3532.TW', '3504.TW', '3552.TW', '3501.TW', '3524.TW', '3499.TW', '3543.TW', '3529.TW', '3525.TW', '3526.TW', '3514.TW', '3564.TW', '3567.TW', '3571.TW', '3523.TW', '3556.TW', '3539.TW', '3570.TW', '3541.TW', '3494.TW', '3535.TW', '3569.TW', '3508.TW', '3538.TW', '3502.TW', '3527.TW', '3522.TW', '3553.TW', '3507.TW', '3562.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1040/9435 tried, 571 found
+
+80 Failed downloads:
+['3642.TW', '3602.TW', '3603.TW', '3615.TW', '3613.TW', '3646.TW', '3587.TW', '3643.TW', '3609.TW', '3622.TW', '3597.TW', '3598.TW', '3647.TW', '3601.TW', '3581.TW', '3637.TW', '3582.TW', '3579.TW', '3594.TW', '3580.TW', '3638.TW', '3626.TW', '3574.TW', '3590.TW', '3624.TW', '3614.TW', '3652.TW', '3608.TW', '3644.TW', '3573.TW', '3593.TW', '3618.TW', '3617.TW', '3592.TW', '3610.TW', '3620.TW', '3604.TW', '3632.TW', '3576.TW', '3588.TW', '3629.TW', '3623.TW', '3640.TW', '3607.TW', '3589.TW', '3625.TW', '3584.TW', '3596.TW', '3650.TW', '3591.TW', '3649.TW', '3641.TW', '3631.TW', '3627.TW', '3599.TW', '3616.TW', '3639.TW', '3635.TW', '3634.TW', '3595.TW', '3621.TW', '3630.TW', '3575.TW', '3586.TW', '3645.TW', '3611.TW', '3619.TW', '3583.TW', '3605.TW', '3612.TW', '3633.TW', '3628.TW', '3585.TW', '3600.TW', '3577.TW', '3578.TW', '3648.TW', '3636.TW', '3606.TW', '3651.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1120/9435 tried, 571 found
+
+80 Failed downloads:
+['3663.TW', '3689.TW', '3690.TW', '3691.TW', '3711.TW', '3653.TW', '3706.TW', '3679.TW', '3716.TW', '3727.TW', '3687.TW', '3725.TW', '3683.TW', '3731.TW', '3692.TW', '3715.TW', '3686.TW', '3662.TW', '3688.TW', '3660.TW', '3667.TW', '3720.TW', '3675.TW', '3709.TW', '3668.TW', '3723.TW', '3708.TW', '3694.TW', '3685.TW', '3698.TW', '3657.TW', '3707.TW', '3665.TW', '3701.TW', '3719.TW', '3682.TW', '3656.TW', '3713.TW', '3666.TW', '3684.TW', '3654.TW', '3730.TW', '3697.TW', '3710.TW', '3677.TW', '3655.TW', '3718.TW', '3721.TW', '3681.TW', '3700.TW', '3702.TW', '3661.TW', '3717.TW', '3664.TW', '3671.TW', '3673.TW', '3704.TW', '3669.TW', '3696.TW', '3705.TW', '3699.TW', '3674.TW', '3712.TW', '3726.TW', '3680.TW', '3659.TW', '3714.TW', '3728.TW', '3732.TW', '3678.TW', '3676.TW', '3703.TW', '3724.TW', '3670.TW', '3672.TW', '3693.TW', '3729.TW', '3722.TW', '3695.TW', '3658.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1200/9435 tried, 571 found
+
+80 Failed downloads:
+['3760.TW', '3803.TW', '3805.TW', '3796.TW', '3740.TW', '3743.TW', '3738.TW', '3780.TW', '3747.TW', '3759.TW', '3781.TW', '3784.TW', '3790.TW', '3775.TW', '3744.TW', '3810.TW', '3789.TW', '3756.TW', '3748.TW', '3801.TW', '3782.TW', '3769.TW', '3774.TW', '3798.TW', '3806.TW', '3752.TW', '3762.TW', '3742.TW', '3765.TW', '3791.TW', '3745.TW', '3764.TW', '3768.TW', '3739.TW', '3746.TW', '3733.TW', '3808.TW', '3794.TW', '3788.TW', '3736.TW', '3750.TW', '3735.TW', '3793.TW', '3763.TW', '3787.TW', '3749.TW', '3761.TW', '3795.TW', '3758.TW', '3800.TW', '3792.TW', '3770.TW', '3812.TW', '3734.TW', '3753.TW', '3802.TW', '3776.TW', '3757.TW', '3807.TW', '3772.TW', '3777.TW', '3766.TW', '3773.TW', '3751.TW', '3778.TW', '3754.TW', '3797.TW', '3811.TW', '3741.TW', '3771.TW', '3779.TW', '3737.TW', '3755.TW', '3786.TW', '3785.TW', '3767.TW', '3783.TW', '3799.TW', '3809.TW', '3804.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1280/9435 tried, 571 found
+
+80 Failed downloads:
+['3858.TW', '3870.TW', '3852.TW', '3892.TW', '3860.TW', '3841.TW', '3864.TW', '3849.TW', '3857.TW', '3862.TW', '3827.TW', '3848.TW', '3855.TW', '3815.TW', '3818.TW', '3825.TW', '3866.TW', '3890.TW', '3814.TW', '3823.TW', '3830.TW', '3877.TW', '3871.TW', '3891.TW', '3828.TW', '3885.TW', '3824.TW', '3851.TW', '3883.TW', '3846.TW', '3822.TW', '3869.TW', '3820.TW', '3854.TW', '3833.TW', '3887.TW', '3817.TW', '3867.TW', '3863.TW', '3842.TW', '3826.TW', '3847.TW', '3843.TW', '3838.TW', '3821.TW', '3836.TW', '3874.TW', '3876.TW', '3834.TW', '3888.TW', '3816.TW', '3840.TW', '3832.TW', '3868.TW', '3879.TW', '3831.TW', '3880.TW', '3865.TW', '3875.TW', '3844.TW', '3873.TW', '3850.TW', '3878.TW', '3886.TW', '3872.TW', '3889.TW', '3839.TW', '3837.TW', '3881.TW', '3845.TW', '3819.TW', '3835.TW', '3813.TW', '3853.TW', '3861.TW', '3884.TW', '3856.TW', '3829.TW', '3859.TW', '3882.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1360/9435 tried, 571 found
+
+80 Failed downloads:
+['3954.TW', '3912.TW', '3957.TW', '3969.TW', '3909.TW', '3953.TW', '3946.TW', '3914.TW', '3908.TW', '3972.TW', '3915.TW', '3911.TW', '3913.TW', '3932.TW', '3926.TW', '3955.TW', '3931.TW', '3918.TW', '3951.TW', '3924.TW', '3905.TW', '3916.TW', '3947.TW', '3904.TW', '3906.TW', '3907.TW', '3941.TW', '3966.TW', '3970.TW', '3928.TW', '3896.TW', '3925.TW', '3903.TW', '3933.TW', '3958.TW', '3944.TW', '3962.TW', '3894.TW', '3934.TW', '3910.TW', '3949.TW', '3927.TW', '3965.TW', '3901.TW', '3917.TW', '3967.TW', '3959.TW', '3921.TW', '3938.TW', '3919.TW', '3963.TW', '3964.TW', '3939.TW', '3961.TW', '3897.TW', '3900.TW', '3971.TW', '3936.TW', '3902.TW', '3950.TW', '3968.TW', '3898.TW', '3893.TW', '3929.TW', '3948.TW', '3937.TW', '3943.TW', '3956.TW', '3899.TW', '3930.TW', '3935.TW', '3923.TW', '3940.TW', '3920.TW', '3942.TW', '3922.TW', '3895.TW', '3952.TW', '3960.TW', '3945.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1440/9435 tried, 571 found
+
+80 Failed downloads:
+['4040.TW', '3979.TW', '3986.TW', '4015.TW', '4016.TW', '4033.TW', '3992.TW', '4049.TW', '4000.TW', '4019.TW', '3989.TW', '4041.TW', '4002.TW', '4005.TW', '4021.TW', '4003.TW', '4012.TW', '4044.TW', '3987.TW', '4032.TW', '3973.TW', '4030.TW', '3974.TW', '4008.TW', '3980.TW', '4018.TW', '4013.TW', '3988.TW', '3981.TW', '4028.TW', '4001.TW', '3997.TW', '3983.TW', '4009.TW', '4007.TW', '4039.TW', '4017.TW', '3977.TW', '4052.TW', '4006.TW', '4035.TW', '3982.TW', '4038.TW', '4020.TW', '4022.TW', '4031.TW', '4034.TW', '4037.TW', '4023.TW', '3993.TW', '4004.TW', '4024.TW', '4050.TW', '4011.TW', '3999.TW', '4014.TW', '4043.TW', '3978.TW', '3984.TW', '3975.TW', '3976.TW', '3996.TW', '4027.TW', '3995.TW', '3991.TW', '4042.TW', '4051.TW', '4026.TW', '4010.TW', '3985.TW', '4025.TW', '4047.TW', '4029.TW', '3990.TW', '4045.TW', '4048.TW', '4046.TW', '4036.TW', '3998.TW', '3994.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1520/9435 tried, 571 found
+
+80 Failed downloads:
+['4116.TW', '4115.TW', '4072.TW', '4062.TW', '4103.TW', '4082.TW', '4070.TW', '4096.TW', '4100.TW', '4121.TW', '4053.TW', '4128.TW', '4085.TW', '4129.TW', '4124.TW', '4078.TW', '4069.TW', '4063.TW', '4104.TW', '4064.TW', '4110.TW', '4067.TW', '4081.TW', '4111.TW', '4127.TW', '4075.TW', '4077.TW', '4089.TW', '4086.TW', '4094.TW', '4084.TW', '4130.TW', '4059.TW', '4120.TW', '4101.TW', '4095.TW', '4098.TW', '4122.TW', '4119.TW', '4088.TW', '4093.TW', '4113.TW', '4060.TW', '4079.TW', '4061.TW', '4057.TW', '4087.TW', '4105.TW', '4054.TW', '4091.TW', '4125.TW', '4071.TW', '4107.TW', '4102.TW', '4126.TW', '4076.TW', '4108.TW', '4083.TW', '4099.TW', '4132.TW', '4123.TW', '4109.TW', '4066.TW', '4092.TW', '4056.TW', '4058.TW', '4112.TW', '4106.TW', '4118.TW', '4073.TW', '4055.TW', '4080.TW', '4097.TW', '4131.TW', '4117.TW', '4114.TW', '4074.TW', '4090.TW', '4068.TW', '4065.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1600/9435 tried, 571 found
+
+80 Failed downloads:
+['4198.TW', '4181.TW', '4204.TW', '4201.TW', '4187.TW', '4171.TW', '4182.TW', '4175.TW', '4159.TW', '4142.TW', '4139.TW', '4144.TW', '4151.TW', '4147.TW', '4170.TW', '4155.TW', '4146.TW', '4168.TW', '4141.TW', '4208.TW', '4193.TW', '4180.TW', '4203.TW', '4154.TW', '4177.TW', '4192.TW', '4191.TW', '4161.TW', '4138.TW', '4207.TW', '4179.TW', '4134.TW', '4135.TW', '4166.TW', '4176.TW', '4189.TW', '4152.TW', '4184.TW', '4169.TW', '4153.TW', '4206.TW', '4148.TW', '4200.TW', '4188.TW', '4174.TW', '4156.TW', '4209.TW', '4199.TW', '4145.TW', '4211.TW', '4197.TW', '4205.TW', '4140.TW', '4210.TW', '4186.TW', '4133.TW', '4157.TW', '4164.TW', '4162.TW', '4185.TW', '4136.TW', '4167.TW', '4143.TW', '4190.TW', '4183.TW', '4163.TW', '4172.TW', '4150.TW', '4165.TW', '4194.TW', '4137.TW', '4212.TW', '4178.TW', '4158.TW', '4173.TW', '4196.TW', '4149.TW', '4202.TW', '4160.TW', '4195.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1680/9435 tried, 571 found
+
+80 Failed downloads:
+['4228.TW', '4241.TW', '4251.TW', '4285.TW', '4286.TW', '4235.TW', '4278.TW', '4234.TW', '4268.TW', '4245.TW', '4238.TW', '4231.TW', '4274.TW', '4270.TW', '4287.TW', '4276.TW', '4288.TW', '4229.TW', '4279.TW', '4243.TW', '4284.TW', '4266.TW', '4221.TW', '4218.TW', '4289.TW', '4263.TW', '4240.TW', '4249.TW', '4265.TW', '4233.TW', '4290.TW', '4225.TW', '4239.TW', '4255.TW', '4283.TW', '4214.TW', '4217.TW', '4226.TW', '4237.TW', '4264.TW', '4260.TW', '4261.TW', '4280.TW', '4254.TW', '4273.TW', '4223.TW', '4277.TW', '4219.TW', '4230.TW', '4291.TW', '4259.TW', '4222.TW', '4232.TW', '4258.TW', '4256.TW', '4281.TW', '4253.TW', '4224.TW', '4246.TW', '4272.TW', '4250.TW', '4269.TW', '4267.TW', '4247.TW', '4236.TW', '4244.TW', '4242.TW', '4248.TW', '4227.TW', '4292.TW', '4220.TW', '4213.TW', '4282.TW', '4262.TW', '4271.TW', '4257.TW', '4216.TW', '4275.TW', '4252.TW', '4215.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1760/9435 tried, 571 found
+
+80 Failed downloads:
+['4356.TW', '4337.TW', '4317.TW', '4319.TW', '4314.TW', '4305.TW', '4370.TW', '4330.TW', '4344.TW', '4320.TW', '4345.TW', '4371.TW', '4357.TW', '4312.TW', '4338.TW', '4326.TW', '4355.TW', '4363.TW', '4332.TW', '4308.TW', '4303.TW', '4365.TW', '4367.TW', '4306.TW', '4299.TW', '4295.TW', '4358.TW', '4322.TW', '4369.TW', '4316.TW', '4301.TW', '4313.TW', '4324.TW', '4328.TW', '4350.TW', '4334.TW', '4347.TW', '4349.TW', '4336.TW', '4359.TW', '4342.TW', '4339.TW', '4333.TW', '4368.TW', '4352.TW', '4351.TW', '4300.TW', '4297.TW', '4335.TW', '4341.TW', '4346.TW', '4361.TW', '4318.TW', '4325.TW', '4364.TW', '4307.TW', '4321.TW', '4348.TW', '4372.TW', '4302.TW', '4340.TW', '4309.TW', '4331.TW', '4315.TW', '4343.TW', '4366.TW', '4298.TW', '4294.TW', '4304.TW', '4360.TW', '4323.TW', '4311.TW', '4293.TW', '4353.TW', '4354.TW', '4362.TW', '4327.TW', '4296.TW', '4310.TW', '4329.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1840/9435 tried, 571 found
+
+80 Failed downloads:
+['4380.TW', '4397.TW', '4406.TW', '4410.TW', '4384.TW', '4442.TW', '4440.TW', '4379.TW', '4418.TW', '4378.TW', '4446.TW', '4408.TW', '4388.TW', '4373.TW', '4423.TW', '4417.TW', '4449.TW', '4431.TW', '4411.TW', '4447.TW', '4422.TW', '4429.TW', '4439.TW', '4407.TW', '4395.TW', '4386.TW', '4432.TW', '4391.TW', '4381.TW', '4437.TW', '4424.TW', '4398.TW', '4428.TW', '4403.TW', '4404.TW', '4394.TW', '4443.TW', '4405.TW', '4390.TW', '4434.TW', '4399.TW', '4383.TW', '4409.TW', '4430.TW', '4435.TW', '4415.TW', '4421.TW', '4387.TW', '4374.TW', '4416.TW', '4427.TW', '4414.TW', '4401.TW', '4441.TW', '4402.TW', '4448.TW', '4450.TW', '4385.TW', '4376.TW', '4413.TW', '4444.TW', '4433.TW', '4400.TW', '4451.TW', '4426.TW', '4445.TW', '4425.TW', '4375.TW', '4412.TW', '4389.TW', '4393.TW', '4420.TW', '4396.TW', '4452.TW', '4392.TW', '4436.TW', '4377.TW', '4382.TW', '4419.TW', '4438.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+1920/9435 tried, 571 found
+
+80 Failed downloads:
+['4513.TW', '4482.TW', '4454.TW', '4456.TW', '4504.TW', '4468.TW', '4453.TW', '4502.TW', '4530.TW', '4480.TW', '4489.TW', '4474.TW', '4463.TW', '4527.TW', '4475.TW', '4488.TW', '4494.TW', '4503.TW', '4514.TW', '4485.TW', '4531.TW', '4483.TW', '4492.TW', '4464.TW', '4487.TW', '4532.TW', '4522.TW', '4510.TW', '4490.TW', '4495.TW', '4458.TW', '4484.TW', '4528.TW', '4459.TW', '4472.TW', '4471.TW', '4467.TW', '4478.TW', '4523.TW', '4518.TW', '4507.TW', '4476.TW', '4460.TW', '4515.TW', '4517.TW', '4477.TW', '4493.TW', '4496.TW', '4469.TW', '4457.TW', '4500.TW', '4508.TW', '4501.TW', '4455.TW', '4473.TW', '4524.TW', '4481.TW', '4497.TW', '4529.TW', '4511.TW', '4491.TW', '4526.TW', '4465.TW', '4516.TW', '4499.TW', '4486.TW', '4470.TW', '4512.TW', '4461.TW', '4479.TW', '4466.TW', '4505.TW', '4506.TW', '4519.TW', '4462.TW', '4498.TW', '4521.TW', '4509.TW', '4520.TW', '4525.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2000/9435 tried, 571 found
+
+80 Failed downloads:
+['4613.TW', '4578.TW', '4567.TW', '4587.TW', '4548.TW', '4536.TW', '4562.TW', '4576.TW', '4543.TW', '4564.TW', '4550.TW', '4533.TW', '4549.TW', '4602.TW', '4565.TW', '4554.TW', '4538.TW', '4612.TW', '4600.TW', '4597.TW', '4594.TW', '4555.TW', '4580.TW', '4553.TW', '4573.TW', '4561.TW', '4572.TW', '4551.TW', '4589.TW', '4570.TW', '4601.TW', '4609.TW', '4534.TW', '4566.TW', '4583.TW', '4559.TW', '4556.TW', '4593.TW', '4611.TW', '4545.TW', '4544.TW', '4552.TW', '4598.TW', '4591.TW', '4560.TW', '4571.TW', '4608.TW', '4569.TW', '4595.TW', '4586.TW', '4605.TW', '4607.TW', '4585.TW', '4579.TW', '4575.TW', '4588.TW', '4539.TW', '4557.TW', '4568.TW', '4535.TW', '4596.TW', '4610.TW', '4606.TW', '4581.TW', '4540.TW', '4592.TW', '4577.TW', '4603.TW', '4546.TW', '4584.TW', '4541.TW', '4563.TW', '4590.TW', '4558.TW', '4599.TW', '4542.TW', '4547.TW', '4574.TW', '4537.TW', '4604.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2080/9435 tried, 571 found
+
+80 Failed downloads:
+['4637.TW', '4693.TW', '4626.TW', '4685.TW', '4658.TW', '4633.TW', '4673.TW', '4662.TW', '4624.TW', '4614.TW', '4639.TW', '4648.TW', '4620.TW', '4630.TW', '4678.TW', '4638.TW', '4649.TW', '4618.TW', '4660.TW', '4646.TW', '4655.TW', '4644.TW', '4684.TW', '4627.TW', '4647.TW', '4621.TW', '4691.TW', '4623.TW', '4631.TW', '4669.TW', '4645.TW', '4652.TW', '4661.TW', '4634.TW', '4632.TW', '4664.TW', '4619.TW', '4636.TW', '4672.TW', '4692.TW', '4653.TW', '4666.TW', '4688.TW', '4689.TW', '4629.TW', '4625.TW', '4680.TW', '4656.TW', '4651.TW', '4682.TW', '4641.TW', '4654.TW', '4683.TW', '4615.TW', '4635.TW', '4663.TW', '4677.TW', '4622.TW', '4671.TW', '4643.TW', '4657.TW', '4687.TW', '4670.TW', '4616.TW', '4690.TW', '4667.TW', '4674.TW', '4617.TW', '4675.TW', '4679.TW', '4628.TW', '4665.TW', '4659.TW', '4676.TW', '4681.TW', '4686.TW', '4640.TW', '4642.TW', '4668.TW', '4650.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2160/9435 tried, 571 found
+
+79 Failed downloads:
+['4753.TW', '4741.TW', '4699.TW', '4731.TW', '4718.TW', '4762.TW', '4707.TW', '4743.TW', '4752.TW', '4770.TW', '4765.TW', '4719.TW', '4694.TW', '4751.TW', '4737.TW', '4758.TW', '4761.TW', '4722.TW', '4732.TW', '4710.TW', '4769.TW', '4723.TW', '4747.TW', '4772.TW', '4721.TW', '4703.TW', '4735.TW', '4771.TW', '4729.TW', '4695.TW', '4734.TW', '4730.TW', '4704.TW', '4708.TW', '4727.TW', '4696.TW', '4709.TW', '4764.TW', '4711.TW', '4720.TW', '4742.TW', '4759.TW', '4700.TW', '4744.TW', '4740.TW', '4705.TW', '4702.TW', '4736.TW', '4756.TW', '4728.TW', '4748.TW', '4750.TW', '4767.TW', '4706.TW', '4763.TW', '4733.TW', '4697.TW', '4757.TW', '4726.TW', '4715.TW', '4712.TW', '4749.TW', '4724.TW', '4716.TW', '4746.TW', '4713.TW', '4725.TW', '4738.TW', '4773.TW', '4698.TW', '4714.TW', '4766.TW', '4717.TW', '4745.TW', '4701.TW', '4754.TW', '4760.TW', '4768.TW', '4755.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2240/9435 tried, 572 found
+
+80 Failed downloads:
+['4847.TW', '4796.TW', '4775.TW', '4805.TW', '4827.TW', '4841.TW', '4782.TW', '4852.TW', '4815.TW', '4849.TW', '4838.TW', '4845.TW', '4795.TW', '4826.TW', '4811.TW', '4794.TW', '4844.TW', '4851.TW', '4781.TW', '4836.TW', '4822.TW', '4816.TW', '4837.TW', '4824.TW', '4793.TW', '4834.TW', '4823.TW', '4828.TW', '4803.TW', '4833.TW', '4791.TW', '4820.TW', '4777.TW', '4848.TW', '4790.TW', '4817.TW', '4830.TW', '4831.TW', '4850.TW', '4812.TW', '4802.TW', '4832.TW', '4789.TW', '4792.TW', '4810.TW', '4807.TW', '4853.TW', '4786.TW', '4842.TW', '4800.TW', '4846.TW', '4776.TW', '4821.TW', '4788.TW', '4825.TW', '4808.TW', '4835.TW', '4779.TW', '4774.TW', '4818.TW', '4784.TW', '4843.TW', '4801.TW', '4783.TW', '4813.TW', '4809.TW', '4819.TW', '4797.TW', '4785.TW', '4804.TW', '4798.TW', '4787.TW', '4839.TW', '4814.TW', '4840.TW', '4780.TW', '4829.TW', '4778.TW', '4799.TW', '4806.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2320/9435 tried, 572 found
+
+80 Failed downloads:
+['4869.TW', '4863.TW', '4881.TW', '4854.TW', '4862.TW', '4920.TW', '4911.TW', '4930.TW', '4861.TW', '4868.TW', '4857.TW', '4870.TW', '4858.TW', '4891.TW', '4918.TW', '4906.TW', '4883.TW', '4923.TW', '4876.TW', '4884.TW', '4932.TW', '4901.TW', '4926.TW', '4909.TW', '4882.TW', '4867.TW', '4908.TW', '4896.TW', '4910.TW', '4892.TW', '4875.TW', '4877.TW', '4921.TW', '4912.TW', '4898.TW', '4928.TW', '4856.TW', '4905.TW', '4924.TW', '4866.TW', '4904.TW', '4872.TW', '4878.TW', '4902.TW', '4914.TW', '4879.TW', '4927.TW', '4915.TW', '4900.TW', '4894.TW', '4860.TW', '4865.TW', '4897.TW', '4880.TW', '4855.TW', '4895.TW', '4886.TW', '4907.TW', '4919.TW', '4890.TW', '4922.TW', '4933.TW', '4899.TW', '4885.TW', '4864.TW', '4929.TW', '4925.TW', '4887.TW', '4931.TW', '4874.TW', '4871.TW', '4889.TW', '4859.TW', '4873.TW', '4893.TW', '4917.TW', '4888.TW', '4913.TW', '4916.TW', '4903.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2400/9435 tried, 572 found
+
+80 Failed downloads:
+['4980.TW', '4970.TW', '4979.TW', '4947.TW', '4996.TW', '4950.TW', '4977.TW', '4999.TW', '4960.TW', '4940.TW', '4944.TW', '4972.TW', '4965.TW', '5002.TW', '5004.TW', '5013.TW', '5011.TW', '4966.TW', '4991.TW', '4974.TW', '4957.TW', '5000.TW', '4973.TW', '4935.TW', '4964.TW', '4988.TW', '5008.TW', '4992.TW', '4997.TW', '4943.TW', '4942.TW', '4981.TW', '5001.TW', '4954.TW', '4949.TW', '4951.TW', '4982.TW', '4936.TW', '4987.TW', '5009.TW', '4976.TW', '4989.TW', '4971.TW', '4939.TW', '4956.TW', '4938.TW', '4967.TW', '4961.TW', '4975.TW', '5010.TW', '4959.TW', '4955.TW', '4946.TW', '5012.TW', '4998.TW', '5003.TW', '4983.TW', '4937.TW', '4985.TW', '4948.TW', '4986.TW', '4953.TW', '5006.TW', '4958.TW', '4963.TW', '4969.TW', '4995.TW', '4952.TW', '4994.TW', '4968.TW', '5005.TW', '4978.TW', '4990.TW', '4993.TW', '4962.TW', '4984.TW', '4934.TW', '4941.TW', '4945.TW', '5007.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2480/9435 tried, 572 found
+
+80 Failed downloads:
+['5018.TW', '5071.TW', '5024.TW', '5083.TW', '5061.TW', '5020.TW', '5030.TW', '5066.TW', '5025.TW', '5050.TW', '5067.TW', '5069.TW', '5028.TW', '5031.TW', '5041.TW', '5081.TW', '5036.TW', '5035.TW', '5063.TW', '5070.TW', '5087.TW', '5052.TW', '5089.TW', '5085.TW', '5084.TW', '5054.TW', '5048.TW', '5074.TW', '5057.TW', '5077.TW', '5060.TW', '5040.TW', '5076.TW', '5090.TW', '5078.TW', '5015.TW', '5026.TW', '5034.TW', '5079.TW', '5093.TW', '5047.TW', '5051.TW', '5073.TW', '5058.TW', '5017.TW', '5033.TW', '5022.TW', '5056.TW', '5064.TW', '5043.TW', '5037.TW', '5038.TW', '5092.TW', '5029.TW', '5019.TW', '5082.TW', '5046.TW', '5059.TW', '5023.TW', '5014.TW', '5039.TW', '5045.TW', '5016.TW', '5053.TW', '5072.TW', '5088.TW', '5086.TW', '5091.TW', '5080.TW', '5049.TW', '5065.TW', '5021.TW', '5068.TW', '5062.TW', '5075.TW', '5044.TW', '5042.TW', '5032.TW', '5055.TW', '5027.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2560/9435 tried, 572 found
+
+80 Failed downloads:
+['5154.TW', '5168.TW', '5137.TW', '5101.TW', '5140.TW', '5165.TW', '5160.TW', '5172.TW', '5115.TW', '5173.TW', '5134.TW', '5127.TW', '5094.TW', '5145.TW', '5156.TW', '5099.TW', '5105.TW', '5132.TW', '5110.TW', '5112.TW', '5113.TW', '5107.TW', '5153.TW', '5152.TW', '5097.TW', '5150.TW', '5147.TW', '5111.TW', '5143.TW', '5098.TW', '5138.TW', '5136.TW', '5157.TW', '5167.TW', '5151.TW', '5109.TW', '5144.TW', '5131.TW', '5141.TW', '5125.TW', '5171.TW', '5169.TW', '5159.TW', '5158.TW', '5116.TW', '5108.TW', '5130.TW', '5117.TW', '5139.TW', '5104.TW', '5162.TW', '5164.TW', '5142.TW', '5155.TW', '5121.TW', '5133.TW', '5123.TW', '5096.TW', '5128.TW', '5149.TW', '5124.TW', '5163.TW', '5120.TW', '5170.TW', '5135.TW', '5119.TW', '5122.TW', '5129.TW', '5095.TW', '5148.TW', '5106.TW', '5100.TW', '5126.TW', '5161.TW', '5103.TW', '5114.TW', '5146.TW', '5166.TW', '5102.TW', '5118.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2640/9435 tried, 572 found
+
+80 Failed downloads:
+['5185.TW', '5213.TW', '5188.TW', '5193.TW', '5176.TW', '5219.TW', '5211.TW', '5177.TW', '5252.TW', '5251.TW', '5246.TW', '5237.TW', '5190.TW', '5227.TW', '5202.TW', '5233.TW', '5253.TW', '5238.TW', '5225.TW', '5228.TW', '5222.TW', '5189.TW', '5217.TW', '5174.TW', '5186.TW', '5200.TW', '5226.TW', '5207.TW', '5221.TW', '5215.TW', '5192.TW', '5214.TW', '5220.TW', '5247.TW', '5194.TW', '5184.TW', '5244.TW', '5196.TW', '5198.TW', '5243.TW', '5236.TW', '5212.TW', '5208.TW', '5239.TW', '5249.TW', '5229.TW', '5180.TW', '5178.TW', '5210.TW', '5230.TW', '5240.TW', '5181.TW', '5231.TW', '5235.TW', '5245.TW', '5223.TW', '5195.TW', '5204.TW', '5209.TW', '5205.TW', '5183.TW', '5175.TW', '5232.TW', '5216.TW', '5242.TW', '5191.TW', '5248.TW', '5201.TW', '5218.TW', '5234.TW', '5203.TW', '5224.TW', '5206.TW', '5199.TW', '5197.TW', '5182.TW', '5250.TW', '5241.TW', '5179.TW', '5187.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2720/9435 tried, 572 found
+
+80 Failed downloads:
+['5298.TW', '5291.TW', '5272.TW', '5259.TW', '5334.TW', '5279.TW', '5331.TW', '5306.TW', '5254.TW', '5317.TW', '5286.TW', '5314.TW', '5321.TW', '5308.TW', '5268.TW', '5290.TW', '5287.TW', '5323.TW', '5274.TW', '5326.TW', '5288.TW', '5333.TW', '5301.TW', '5313.TW', '5285.TW', '5269.TW', '5264.TW', '5332.TW', '5324.TW', '5300.TW', '5303.TW', '5327.TW', '5260.TW', '5315.TW', '5320.TW', '5330.TW', '5322.TW', '5309.TW', '5310.TW', '5275.TW', '5282.TW', '5302.TW', '5305.TW', '5255.TW', '5328.TW', '5278.TW', '5295.TW', '5283.TW', '5266.TW', '5262.TW', '5293.TW', '5296.TW', '5257.TW', '5307.TW', '5316.TW', '5289.TW', '5277.TW', '5265.TW', '5276.TW', '5319.TW', '5261.TW', '5311.TW', '5284.TW', '5256.TW', '5329.TW', '5267.TW', '5280.TW', '5281.TW', '5270.TW', '5299.TW', '5292.TW', '5304.TW', '5271.TW', '5325.TW', '5312.TW', '5297.TW', '5263.TW', '5294.TW', '5318.TW', '5273.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2800/9435 tried, 572 found
+
+80 Failed downloads:
+['5372.TW', '5359.TW', '5360.TW', '5396.TW', '5392.TW', '5406.TW', '5380.TW', '5339.TW', '5404.TW', '5382.TW', '5370.TW', '5366.TW', '5367.TW', '5356.TW', '5343.TW', '5391.TW', '5390.TW', '5412.TW', '5362.TW', '5403.TW', '5397.TW', '5381.TW', '5354.TW', '5385.TW', '5386.TW', '5338.TW', '5413.TW', '5405.TW', '5374.TW', '5337.TW', '5357.TW', '5349.TW', '5383.TW', '5348.TW', '5414.TW', '5376.TW', '5358.TW', '5377.TW', '5342.TW', '5336.TW', '5364.TW', '5347.TW', '5399.TW', '5355.TW', '5379.TW', '5335.TW', '5371.TW', '5373.TW', '5402.TW', '5398.TW', '5400.TW', '5389.TW', '5378.TW', '5341.TW', '5345.TW', '5401.TW', '5365.TW', '5393.TW', '5410.TW', '5387.TW', '5351.TW', '5363.TW', '5344.TW', '5353.TW', '5411.TW', '5394.TW', '5384.TW', '5361.TW', '5346.TW', '5350.TW', '5352.TW', '5409.TW', '5395.TW', '5407.TW', '5369.TW', '5408.TW', '5375.TW', '5388.TW', '5340.TW', '5368.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2880/9435 tried, 572 found
+
+80 Failed downloads:
+['5467.TW', '5476.TW', '5445.TW', '5473.TW', '5426.TW', '5486.TW', '5458.TW', '5487.TW', '5418.TW', '5447.TW', '5474.TW', '5443.TW', '5442.TW', '5425.TW', '5436.TW', '5457.TW', '5455.TW', '5485.TW', '5444.TW', '5430.TW', '5482.TW', '5429.TW', '5483.TW', '5435.TW', '5453.TW', '5431.TW', '5440.TW', '5438.TW', '5469.TW', '5460.TW', '5454.TW', '5419.TW', '5422.TW', '5456.TW', '5465.TW', '5471.TW', '5428.TW', '5450.TW', '5416.TW', '5427.TW', '5484.TW', '5488.TW', '5468.TW', '5466.TW', '5432.TW', '5461.TW', '5475.TW', '5463.TW', '5470.TW', '5437.TW', '5421.TW', '5459.TW', '5433.TW', '5477.TW', '5492.TW', '5464.TW', '5491.TW', '5417.TW', '5479.TW', '5481.TW', '5415.TW', '5441.TW', '5420.TW', '5462.TW', '5448.TW', '5480.TW', '5434.TW', '5494.TW', '5472.TW', '5424.TW', '5490.TW', '5451.TW', '5478.TW', '5452.TW', '5489.TW', '5493.TW', '5449.TW', '5446.TW', '5423.TW', '5439.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2960/9435 tried, 572 found
+
+80 Failed downloads:
+['5552.TW', '5516.TW', '5512.TW', '5569.TW', '5524.TW', '5508.TW', '5526.TW', '5521.TW', '5542.TW', '5534.TW', '5533.TW', '5572.TW', '5568.TW', '5499.TW', '5570.TW', '5501.TW', '5553.TW', '5525.TW', '5504.TW', '5518.TW', '5561.TW', '5510.TW', '5540.TW', '5496.TW', '5509.TW', '5535.TW', '5550.TW', '5551.TW', '5536.TW', '5549.TW', '5546.TW', '5519.TW', '5497.TW', '5511.TW', '5541.TW', '5513.TW', '5543.TW', '5515.TW', '5503.TW', '5522.TW', '5502.TW', '5527.TW', '5520.TW', '5560.TW', '5530.TW', '5558.TW', '5537.TW', '5498.TW', '5545.TW', '5523.TW', '5555.TW', '5538.TW', '5529.TW', '5531.TW', '5556.TW', '5567.TW', '5547.TW', '5563.TW', '5562.TW', '5517.TW', '5507.TW', '5564.TW', '5557.TW', '5506.TW', '5544.TW', '5548.TW', '5505.TW', '5571.TW', '5532.TW', '5574.TW', '5514.TW', '5566.TW', '5495.TW', '5500.TW', '5539.TW', '5559.TW', '5573.TW', '5528.TW', '5565.TW', '5554.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3040/9435 tried, 572 found
+
+80 Failed downloads:
+['5621.TW', '5624.TW', '5600.TW', '5642.TW', '5597.TW', '5615.TW', '5616.TW', '5603.TW', '5576.TW', '5635.TW', '5593.TW', '5651.TW', '5638.TW', '5628.TW', '5582.TW', '5614.TW', '5636.TW', '5594.TW', '5648.TW', '5617.TW', '5605.TW', '5639.TW', '5634.TW', '5643.TW', '5631.TW', '5622.TW', '5578.TW', '5623.TW', '5587.TW', '5645.TW', '5606.TW', '5611.TW', '5646.TW', '5653.TW', '5613.TW', '5607.TW', '5630.TW', '5584.TW', '5610.TW', '5650.TW', '5586.TW', '5654.TW', '5637.TW', '5626.TW', '5579.TW', '5596.TW', '5652.TW', '5590.TW', '5618.TW', '5649.TW', '5620.TW', '5575.TW', '5598.TW', '5583.TW', '5581.TW', '5632.TW', '5625.TW', '5591.TW', '5647.TW', '5585.TW', '5619.TW', '5633.TW', '5612.TW', '5577.TW', '5627.TW', '5640.TW', '5629.TW', '5609.TW', '5601.TW', '5641.TW', '5608.TW', '5644.TW', '5592.TW', '5604.TW', '5588.TW', '5599.TW', '5580.TW', '5589.TW', '5602.TW', '5595.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3120/9435 tried, 572 found
+
+80 Failed downloads:
+['5707.TW', '5663.TW', '5677.TW', '5719.TW', '5701.TW', '5730.TW', '5659.TW', '5721.TW', '5694.TW', '5704.TW', '5656.TW', '5720.TW', '5675.TW', '5690.TW', '5683.TW', '5667.TW', '5661.TW', '5723.TW', '5669.TW', '5700.TW', '5693.TW', '5726.TW', '5688.TW', '5698.TW', '5665.TW', '5722.TW', '5699.TW', '5703.TW', '5728.TW', '5680.TW', '5717.TW', '5732.TW', '5733.TW', '5718.TW', '5710.TW', '5662.TW', '5655.TW', '5706.TW', '5696.TW', '5676.TW', '5664.TW', '5695.TW', '5709.TW', '5670.TW', '5705.TW', '5727.TW', '5681.TW', '5671.TW', '5657.TW', '5674.TW', '5702.TW', '5724.TW', '5689.TW', '5708.TW', '5673.TW', '5691.TW', '5686.TW', '5679.TW', '5729.TW', '5716.TW', '5678.TW', '5713.TW', '5697.TW', '5668.TW', '5685.TW', '5658.TW', '5734.TW', '5687.TW', '5731.TW', '5715.TW', '5711.TW', '5714.TW', '5692.TW', '5725.TW', '5712.TW', '5684.TW', '5672.TW', '5666.TW', '5660.TW', '5682.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3200/9435 tried, 572 found
+
+80 Failed downloads:
+['5806.TW', '5805.TW', '5787.TW', '5808.TW', '5749.TW', '5794.TW', '5763.TW', '5782.TW', '5802.TW', '5781.TW', '5799.TW', '5741.TW', '5773.TW', '5778.TW', '5747.TW', '5798.TW', '5756.TW', '5752.TW', '5737.TW', '5797.TW', '5736.TW', '5748.TW', '5776.TW', '5785.TW', '5784.TW', '5744.TW', '5772.TW', '5757.TW', '5786.TW', '5792.TW', '5801.TW', '5750.TW', '5762.TW', '5793.TW', '5761.TW', '5813.TW', '5745.TW', '5790.TW', '5800.TW', '5791.TW', '5804.TW', '5811.TW', '5766.TW', '5809.TW', '5768.TW', '5760.TW', '5788.TW', '5759.TW', '5742.TW', '5779.TW', '5754.TW', '5746.TW', '5767.TW', '5807.TW', '5780.TW', '5753.TW', '5770.TW', '5771.TW', '5774.TW', '5803.TW', '5755.TW', '5814.TW', '5783.TW', '5775.TW', '5812.TW', '5769.TW', '5743.TW', '5751.TW', '5789.TW', '5740.TW', '5765.TW', '5810.TW', '5795.TW', '5738.TW', '5758.TW', '5739.TW', '5777.TW', '5796.TW', '5764.TW', '5735.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3280/9435 tried, 572 found
+
+80 Failed downloads:
+['5873.TW', '5830.TW', '5869.TW', '5850.TW', '5885.TW', '5833.TW', '5821.TW', '5841.TW', '5894.TW', '5851.TW', '5881.TW', '5883.TW', '5857.TW', '5891.TW', '5817.TW', '5859.TW', '5865.TW', '5887.TW', '5893.TW', '5876.TW', '5868.TW', '5860.TW', '5843.TW', '5882.TW', '5832.TW', '5828.TW', '5864.TW', '5879.TW', '5886.TW', '5861.TW', '5826.TW', '5863.TW', '5827.TW', '5889.TW', '5846.TW', '5829.TW', '5853.TW', '5844.TW', '5820.TW', '5840.TW', '5815.TW', '5831.TW', '5872.TW', '5839.TW', '5847.TW', '5880.TW', '5855.TW', '5877.TW', '5825.TW', '5884.TW', '5824.TW', '5890.TW', '5835.TW', '5842.TW', '5875.TW', '5892.TW', '5878.TW', '5862.TW', '5854.TW', '5836.TW', '5823.TW', '5874.TW', '5837.TW', '5848.TW', '5838.TW', '5822.TW', '5867.TW', '5852.TW', '5870.TW', '5818.TW', '5819.TW', '5858.TW', '5888.TW', '5834.TW', '5816.TW', '5871.TW', '5866.TW', '5849.TW', '5845.TW', '5856.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3360/9435 tried, 572 found
+
+80 Failed downloads:
+['5917.TW', '5926.TW', '5962.TW', '5914.TW', '5942.TW', '5972.TW', '5939.TW', '5937.TW', '5956.TW', '5941.TW', '5896.TW', '5912.TW', '5905.TW', '5969.TW', '5963.TW', '5953.TW', '5931.TW', '5960.TW', '5913.TW', '5935.TW', '5944.TW', '5946.TW', '5900.TW', '5930.TW', '5921.TW', '5927.TW', '5916.TW', '5952.TW', '5918.TW', '5928.TW', '5974.TW', '5966.TW', '5967.TW', '5951.TW', '5932.TW', '5968.TW', '5936.TW', '5909.TW', '5943.TW', '5970.TW', '5924.TW', '5925.TW', '5948.TW', '5955.TW', '5947.TW', '5957.TW', '5919.TW', '5898.TW', '5906.TW', '5929.TW', '5971.TW', '5902.TW', '5938.TW', '5895.TW', '5961.TW', '5908.TW', '5940.TW', '5915.TW', '5897.TW', '5964.TW', '5907.TW', '5903.TW', '5950.TW', '5949.TW', '5901.TW', '5910.TW', '5899.TW', '5934.TW', '5945.TW', '5923.TW', '5958.TW', '5959.TW', '5920.TW', '5973.TW', '5933.TW', '5911.TW', '5904.TW', '5954.TW', '5922.TW', '5965.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3440/9435 tried, 572 found
+
+80 Failed downloads:
+['6038.TW', '5980.TW', '6051.TW', '6037.TW', '5976.TW', '5994.TW', '6041.TW', '6005.TW', '5995.TW', '6007.TW', '5996.TW', '5997.TW', '5982.TW', '6040.TW', '6036.TW', '6033.TW', '6008.TW', '6054.TW', '5992.TW', '6035.TW', '5986.TW', '6026.TW', '6011.TW', '5991.TW', '6034.TW', '6020.TW', '6046.TW', '5999.TW', '6016.TW', '6004.TW', '6030.TW', '6049.TW', '6014.TW', '6048.TW', '6015.TW', '6050.TW', '6018.TW', '5984.TW', '6031.TW', '5998.TW', '5988.TW', '6009.TW', '5989.TW', '5983.TW', '6052.TW', '6043.TW', '6027.TW', '5979.TW', '6013.TW', '6000.TW', '6022.TW', '6017.TW', '6012.TW', '6044.TW', '6028.TW', '5975.TW', '5985.TW', '6042.TW', '6024.TW', '6025.TW', '6029.TW', '6047.TW', '5987.TW', '5978.TW', '6010.TW', '6023.TW', '6019.TW', '5990.TW', '6006.TW', '5977.TW', '6053.TW', '5993.TW', '6001.TW', '6039.TW', '6002.TW', '6045.TW', '6003.TW', '6032.TW', '6021.TW', '5981.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3520/9435 tried, 572 found
+
+80 Failed downloads:
+['6082.TW', '6059.TW', '6063.TW', '6066.TW', '6071.TW', '6087.TW', '6104.TW', '6128.TW', '6058.TW', '6064.TW', '6110.TW', '6117.TW', '6098.TW', '6091.TW', '6056.TW', '6088.TW', '6114.TW', '6073.TW', '6083.TW', '6055.TW', '6075.TW', '6092.TW', '6124.TW', '6070.TW', '6111.TW', '6127.TW', '6116.TW', '6132.TW', '6119.TW', '6060.TW', '6086.TW', '6113.TW', '6131.TW', '6078.TW', '6077.TW', '6112.TW', '6067.TW', '6123.TW', '6074.TW', '6134.TW', '6129.TW', '6095.TW', '6069.TW', '6085.TW', '6065.TW', '6072.TW', '6109.TW', '6108.TW', '6089.TW', '6062.TW', '6081.TW', '6106.TW', '6122.TW', '6096.TW', '6093.TW', '6097.TW', '6125.TW', '6061.TW', '6099.TW', '6076.TW', '6094.TW', '6101.TW', '6068.TW', '6084.TW', '6135.TW', '6103.TW', '6130.TW', '6105.TW', '6133.TW', '6115.TW', '6079.TW', '6118.TW', '6107.TW', '6080.TW', '6121.TW', '6057.TW', '6100.TW', '6102.TW', '6126.TW', '6090.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3600/9435 tried, 572 found
+
+80 Failed downloads:
+['6199.TW', '6162.TW', '6163.TW', '6212.TW', '6137.TW', '6204.TW', '6198.TW', '6152.TW', '6164.TW', '6160.TW', '6140.TW', '6211.TW', '6143.TW', '6173.TW', '6189.TW', '6215.TW', '6141.TW', '6154.TW', '6197.TW', '6138.TW', '6177.TW', '6167.TW', '6145.TW', '6188.TW', '6175.TW', '6210.TW', '6161.TW', '6158.TW', '6172.TW', '6208.TW', '6136.TW', '6144.TW', '6153.TW', '6174.TW', '6151.TW', '6196.TW', '6209.TW', '6192.TW', '6194.TW', '6159.TW', '6205.TW', '6165.TW', '6182.TW', '6195.TW', '6148.TW', '6200.TW', '6170.TW', '6185.TW', '6191.TW', '6139.TW', '6142.TW', '6146.TW', '6186.TW', '6176.TW', '6171.TW', '6168.TW', '6207.TW', '6150.TW', '6214.TW', '6169.TW', '6181.TW', '6179.TW', '6157.TW', '6155.TW', '6193.TW', '6190.TW', '6166.TW', '6187.TW', '6156.TW', '6180.TW', '6178.TW', '6201.TW', '6202.TW', '6184.TW', '6149.TW', '6147.TW', '6213.TW', '6203.TW', '6183.TW', '6206.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3680/9435 tried, 572 found
+
+80 Failed downloads:
+['6286.TW', '6287.TW', '6227.TW', '6293.TW', '6294.TW', '6225.TW', '6237.TW', '6238.TW', '6251.TW', '6269.TW', '6236.TW', '6288.TW', '6274.TW', '6278.TW', '6255.TW', '6254.TW', '6276.TW', '6283.TW', '6273.TW', '6228.TW', '6277.TW', '6223.TW', '6217.TW', '6261.TW', '6267.TW', '6230.TW', '6242.TW', '6295.TW', '6243.TW', '6234.TW', '6263.TW', '6240.TW', '6235.TW', '6247.TW', '6268.TW', '6224.TW', '6271.TW', '6222.TW', '6272.TW', '6258.TW', '6259.TW', '6249.TW', '6248.TW', '6280.TW', '6231.TW', '6229.TW', '6260.TW', '6264.TW', '6252.TW', '6232.TW', '6245.TW', '6256.TW', '6219.TW', '6226.TW', '6289.TW', '6244.TW', '6282.TW', '6221.TW', '6292.TW', '6218.TW', '6290.TW', '6270.TW', '6266.TW', '6284.TW', '6246.TW', '6279.TW', '6257.TW', '6262.TW', '6281.TW', '6220.TW', '6291.TW', '6275.TW', '6241.TW', '6216.TW', '6285.TW', '6253.TW', '6265.TW', '6239.TW', '6250.TW', '6233.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3760/9435 tried, 572 found
+
+80 Failed downloads:
+['6321.TW', '6331.TW', '6375.TW', '6301.TW', '6358.TW', '6303.TW', '6329.TW', '6360.TW', '6366.TW', '6302.TW', '6350.TW', '6357.TW', '6304.TW', '6348.TW', '6369.TW', '6373.TW', '6362.TW', '6316.TW', '6325.TW', '6310.TW', '6353.TW', '6356.TW', '6359.TW', '6328.TW', '6355.TW', '6351.TW', '6307.TW', '6314.TW', '6374.TW', '6330.TW', '6345.TW', '6326.TW', '6371.TW', '6361.TW', '6332.TW', '6305.TW', '6372.TW', '6336.TW', '6335.TW', '6320.TW', '6333.TW', '6318.TW', '6339.TW', '6296.TW', '6300.TW', '6352.TW', '6367.TW', '6323.TW', '6309.TW', '6322.TW', '6343.TW', '6347.TW', '6327.TW', '6346.TW', '6319.TW', '6311.TW', '6363.TW', '6337.TW', '6315.TW', '6298.TW', '6340.TW', '6299.TW', '6370.TW', '6341.TW', '6342.TW', '6349.TW', '6312.TW', '6368.TW', '6317.TW', '6306.TW', '6338.TW', '6344.TW', '6313.TW', '6354.TW', '6308.TW', '6324.TW', '6365.TW', '6364.TW', '6297.TW', '6334.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3840/9435 tried, 572 found
+
+80 Failed downloads:
+['6420.TW', '6410.TW', '6396.TW', '6440.TW', '6450.TW', '6383.TW', '6387.TW', '6409.TW', '6376.TW', '6447.TW', '6382.TW', '6377.TW', '6406.TW', '6441.TW', '6435.TW', '6408.TW', '6417.TW', '6439.TW', '6414.TW', '6405.TW', '6395.TW', '6415.TW', '6449.TW', '6389.TW', '6379.TW', '6425.TW', '6380.TW', '6421.TW', '6452.TW', '6418.TW', '6426.TW', '6412.TW', '6398.TW', '6400.TW', '6424.TW', '6419.TW', '6393.TW', '6445.TW', '6391.TW', '6430.TW', '6392.TW', '6407.TW', '6433.TW', '6446.TW', '6434.TW', '6423.TW', '6385.TW', '6402.TW', '6444.TW', '6455.TW', '6386.TW', '6399.TW', '6378.TW', '6384.TW', '6448.TW', '6442.TW', '6427.TW', '6397.TW', '6413.TW', '6394.TW', '6453.TW', '6438.TW', '6454.TW', '6403.TW', '6411.TW', '6443.TW', '6381.TW', '6431.TW', '6404.TW', '6451.TW', '6401.TW', '6429.TW', '6422.TW', '6428.TW', '6416.TW', '6437.TW', '6436.TW', '6390.TW', '6432.TW', '6388.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+3920/9435 tried, 572 found
+
+80 Failed downloads:
+['6496.TW', '6483.TW', '6460.TW', '6511.TW', '6492.TW', '6530.TW', '6526.TW', '6485.TW', '6465.TW', '6475.TW', '6533.TW', '6482.TW', '6459.TW', '6515.TW', '6467.TW', '6499.TW', '6456.TW', '6504.TW', '6488.TW', '6497.TW', '6532.TW', '6505.TW', '6507.TW', '6518.TW', '6508.TW', '6528.TW', '6531.TW', '6501.TW', '6517.TW', '6494.TW', '6502.TW', '6474.TW', '6523.TW', '6463.TW', '6521.TW', '6535.TW', '6476.TW', '6478.TW', '6464.TW', '6461.TW', '6529.TW', '6468.TW', '6514.TW', '6498.TW', '6522.TW', '6486.TW', '6520.TW', '6472.TW', '6457.TW', '6495.TW', '6490.TW', '6500.TW', '6525.TW', '6480.TW', '6534.TW', '6484.TW', '6469.TW', '6510.TW', '6527.TW', '6524.TW', '6466.TW', '6487.TW', '6479.TW', '6513.TW', '6519.TW', '6493.TW', '6470.TW', '6458.TW', '6503.TW', '6462.TW', '6481.TW', '6477.TW', '6516.TW', '6491.TW', '6512.TW', '6506.TW', '6489.TW', '6471.TW', '6509.TW', '6473.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4000/9435 tried, 572 found
+
+80 Failed downloads:
+['6576.TW', '6584.TW', '6542.TW', '6615.TW', '6599.TW', '6580.TW', '6605.TW', '6582.TW', '6607.TW', '6603.TW', '6612.TW', '6594.TW', '6575.TW', '6560.TW', '6566.TW', '6610.TW', '6546.TW', '6606.TW', '6585.TW', '6550.TW', '6597.TW', '6569.TW', '6571.TW', '6581.TW', '6572.TW', '6586.TW', '6574.TW', '6568.TW', '6602.TW', '6567.TW', '6614.TW', '6561.TW', '6596.TW', '6588.TW', '6556.TW', '6548.TW', '6555.TW', '6552.TW', '6565.TW', '6547.TW', '6549.TW', '6587.TW', '6591.TW', '6536.TW', '6600.TW', '6553.TW', '6540.TW', '6559.TW', '6538.TW', '6598.TW', '6579.TW', '6537.TW', '6583.TW', '6578.TW', '6544.TW', '6570.TW', '6564.TW', '6545.TW', '6554.TW', '6595.TW', '6562.TW', '6557.TW', '6608.TW', '6563.TW', '6611.TW', '6593.TW', '6541.TW', '6590.TW', '6589.TW', '6609.TW', '6551.TW', '6604.TW', '6601.TW', '6573.TW', '6543.TW', '6613.TW', '6577.TW', '6558.TW', '6539.TW', '6592.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4080/9435 tried, 572 found
+
+79 Failed downloads:
+['6662.TW', '6650.TW', '6643.TW', '6628.TW', '6684.TW', '6631.TW', '6664.TW', '6693.TW', '6659.TW', '6648.TW', '6636.TW', '6642.TW', '6666.TW', '6626.TW', '6665.TW', '6617.TW', '6686.TW', '6623.TW', '6668.TW', '6646.TW', '6621.TW', '6639.TW', '6682.TW', '6654.TW', '6627.TW', '6656.TW', '6640.TW', '6695.TW', '6629.TW', '6661.TW', '6676.TW', '6624.TW', '6675.TW', '6692.TW', '6635.TW', '6634.TW', '6655.TW', '6616.TW', '6651.TW', '6671.TW', '6644.TW', '6689.TW', '6637.TW', '6625.TW', '6622.TW', '6641.TW', '6638.TW', '6691.TW', '6683.TW', '6687.TW', '6645.TW', '6679.TW', '6678.TW', '6681.TW', '6619.TW', '6618.TW', '6657.TW', '6649.TW', '6633.TW', '6672.TW', '6677.TW', '6674.TW', '6690.TW', '6669.TW', '6680.TW', '6663.TW', '6685.TW', '6620.TW', '6660.TW', '6652.TW', '6688.TW', '6694.TW', '6658.TW', '6632.TW', '6630.TW', '6673.TW', '6647.TW', '6653.TW', '6667.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4160/9435 tried, 573 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+78 Failed downloads:
+['6705.TW', '6741.TW', '6724.TW', '6739.TW', '6728.TW', '6760.TW', '6747.TW', '6717.TW', '6708.TW', '6773.TW', '6731.TW', '6763.TW', '6702.TW', '6712.TW', '6766.TW', '6700.TW', '6699.TW', '6761.TW', '6751.TW', '6740.TW', '6697.TW', '6725.TW', '6754.TW', '6755.TW', '6701.TW', '6768.TW', '6745.TW', '6710.TW', '6713.TW', '6729.TW', '6703.TW', '6715.TW', '6743.TW', '6750.TW', '6769.TW', '6744.TW', '6748.TW', '6734.TW', '6732.TW', '6774.TW', '6722.TW', '6723.TW', '6706.TW', '6772.TW', '6749.TW', '6759.TW', '6771.TW', '6727.TW', '6762.TW', '6758.TW', '6704.TW', '6709.TW', '6711.TW', '6716.TW', '6775.TW', '6757.TW', '6720.TW', '6765.TW', '6752.TW', '6718.TW', '6735.TW', '6721.TW', '6738.TW', '6733.TW', '6714.TW', '6730.TW', '6736.TW', '6726.TW', '6696.TW', '6698.TW', '6770.TW', '6707.TW', '6742.TW', '6756.TW', '6767.TW', '6746.TW', '6764.TW', '6737.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4240/9435 tried, 575 found
+
+80 Failed downloads:
+['6791.TW', '6837.TW', '6804.TW', '6817.TW', '6813.TW', '6811.TW', '6809.TW', '6835.TW', '6830.TW', '6798.TW', '6849.TW', '6832.TW', '6799.TW', '6834.TW', '6776.TW', '6800.TW', '6805.TW', '6788.TW', '6810.TW', '6803.TW', '6806.TW', '6781.TW', '6840.TW', '6819.TW', '6778.TW', '6818.TW', '6828.TW', '6855.TW', '6852.TW', '6846.TW', '6785.TW', '6795.TW', '6780.TW', '6814.TW', '6833.TW', '6794.TW', '6821.TW', '6853.TW', '6839.TW', '6845.TW', '6779.TW', '6802.TW', '6784.TW', '6836.TW', '6782.TW', '6826.TW', '6838.TW', '6793.TW', '6848.TW', '6851.TW', '6783.TW', '6822.TW', '6801.TW', '6820.TW', '6790.TW', '6847.TW', '6786.TW', '6831.TW', '6816.TW', '6825.TW', '6850.TW', '6792.TW', '6807.TW', '6823.TW', '6841.TW', '6829.TW', '6842.TW', '6808.TW', '6843.TW', '6854.TW', '6824.TW', '6777.TW', '6787.TW', '6812.TW', '6797.TW', '6844.TW', '6789.TW', '6815.TW', '6796.TW', '6827.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4320/9435 tried, 575 found
+$6927.TW: No data found, symbol may be delisted
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+79 Failed downloads:
+['6932.TW', '6858.TW', '6901.TW', '6916.TW', '6890.TW', '6891.TW', '6876.TW', '6856.TW', '6893.TW', '6889.TW', '6923.TW', '6870.TW', '6875.TW', '6862.TW', '6879.TW', '6911.TW', '6874.TW', '6898.TW', '6860.TW', '6861.TW', '6913.TW', '6899.TW', '6925.TW', '6885.TW', '6928.TW', '6920.TW', '6929.TW', '6912.TW', '6914.TW', '6931.TW', '6867.TW', '6864.TW', '6897.TW', '6880.TW', '6930.TW', '6859.TW', '6881.TW', '6933.TW', '6883.TW', '6892.TW', '6895.TW', '6896.TW', '6869.TW', '6917.TW', '6918.TW', '6907.TW', '6884.TW', '6877.TW', '6926.TW', '6868.TW', '6915.TW', '6905.TW', '6906.TW', '6921.TW', '6866.TW', '6924.TW', '6873.TW', '6871.TW', '6886.TW', '6902.TW', '6888.TW', '6904.TW', '6887.TW', '6857.TW', '6894.TW', '6908.TW', '6934.TW', '6882.TW', '6910.TW', '6935.TW', '6919.TW', '6903.TW', '6878.TW', '6863.TW', '6922.TW', '6865.TW', '6872.TW', '6900.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+['6927.TW']: No data found, symbol may be delisted
+4400/9435 tried, 576 found
+
+79 Failed downloads:
+['8014.TW', '6992.TW', '6959.TW', '6977.TW', '6975.TW', '6983.TW', '6967.TW', '6974.TW', '8012.TW', '6936.TW', '6984.TW', '6981.TW', '6986.TW', '6997.TW', '8008.TW', '8001.TW', '6980.TW', '6953.TW', '8013.TW', '6943.TW', '6970.TW', '6985.TW', '6938.TW', '6965.TW', '6940.TW', '6989.TW', '6978.TW', '6982.TW', '6946.TW', '6945.TW', '6969.TW', '6956.TW', '6990.TW', '8005.TW', '8015.TW', '6964.TW', '8009.TW', '8002.TW', '6998.TW', '6941.TW', '6971.TW', '6962.TW', '8011.TW', '6972.TW', '6950.TW', '6995.TW', '6948.TW', '6939.TW', '6949.TW', '6993.TW', '6966.TW', '6944.TW', '8010.TW', '6961.TW', '6951.TW', '6960.TW', '6955.TW', '6958.TW', '6988.TW', '6942.TW', '6979.TW', '6999.TW', '6994.TW', '8006.TW', '6957.TW', '6996.TW', '6947.TW', '6991.TW', '8000.TW', '8004.TW', '8003.TW', '6937.TW', '6987.TW', '6954.TW', '6963.TW', '6968.TW', '6973.TW', '6976.TW', '8007.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4480/9435 tried, 577 found
+
+80 Failed downloads:
+['8088.TW', '8032.TW', '8068.TW', '8031.TW', '8057.TW', '8050.TW', '8053.TW', '8028.TW', '8080.TW', '8069.TW', '8058.TW', '8041.TW', '8084.TW', '8071.TW', '8038.TW', '8060.TW', '8074.TW', '8066.TW', '8036.TW', '8051.TW', '8027.TW', '8040.TW', '8037.TW', '8017.TW', '8078.TW', '8067.TW', '8045.TW', '8075.TW', '8026.TW', '8023.TW', '8042.TW', '8065.TW', '8094.TW', '8081.TW', '8056.TW', '8052.TW', '8064.TW', '8091.TW', '8035.TW', '8054.TW', '8073.TW', '8076.TW', '8021.TW', '8093.TW', '8070.TW', '8090.TW', '8086.TW', '8083.TW', '8062.TW', '8048.TW', '8061.TW', '8085.TW', '8055.TW', '8018.TW', '8044.TW', '8046.TW', '8063.TW', '8029.TW', '8072.TW', '8082.TW', '8024.TW', '8049.TW', '8059.TW', '8020.TW', '8043.TW', '8019.TW', '8022.TW', '8087.TW', '8079.TW', '8089.TW', '8047.TW', '8030.TW', '8095.TW', '8039.TW', '8034.TW', '8025.TW', '8033.TW', '8092.TW', '8016.TW', '8077.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4560/9435 tried, 577 found
+
+80 Failed downloads:
+['8164.TW', '8142.TW', '8173.TW', '8115.TW', '8175.TW', '8145.TW', '8118.TW', '8113.TW', '8148.TW', '8137.TW', '8163.TW', '8151.TW', '8174.TW', '8106.TW', '8127.TW', '8171.TW', '8156.TW', '8117.TW', '8154.TW', '8098.TW', '8107.TW', '8169.TW', '8122.TW', '8128.TW', '8129.TW', '8120.TW', '8135.TW', '8102.TW', '8149.TW', '8111.TW', '8097.TW', '8126.TW', '8108.TW', '8139.TW', '8144.TW', '8121.TW', '8116.TW', '8103.TW', '8160.TW', '8170.TW', '8147.TW', '8119.TW', '8143.TW', '8123.TW', '8125.TW', '8157.TW', '8101.TW', '8150.TW', '8124.TW', '8172.TW', '8146.TW', '8168.TW', '8114.TW', '8161.TW', '8109.TW', '8105.TW', '8162.TW', '8100.TW', '8132.TW', '8136.TW', '8133.TW', '8104.TW', '8096.TW', '8099.TW', '8158.TW', '8159.TW', '8140.TW', '8153.TW', '8152.TW', '8138.TW', '8131.TW', '8141.TW', '8112.TW', '8130.TW', '8165.TW', '8167.TW', '8110.TW', '8155.TW', '8166.TW', '8134.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4640/9435 tried, 577 found
+
+80 Failed downloads:
+['8233.TW', '8219.TW', '8181.TW', '8252.TW', '8198.TW', '8216.TW', '8184.TW', '8193.TW', '8228.TW', '8245.TW', '8218.TW', '8207.TW', '8244.TW', '8196.TW', '8249.TW', '8213.TW', '8187.TW', '8239.TW', '8234.TW', '8237.TW', '8204.TW', '8201.TW', '8236.TW', '8241.TW', '8189.TW', '8178.TW', '8229.TW', '8224.TW', '8235.TW', '8180.TW', '8222.TW', '8226.TW', '8179.TW', '8191.TW', '8247.TW', '8254.TW', '8195.TW', '8227.TW', '8217.TW', '8206.TW', '8186.TW', '8185.TW', '8182.TW', '8202.TW', '8200.TW', '8238.TW', '8199.TW', '8176.TW', '8240.TW', '8253.TW', '8209.TW', '8246.TW', '8197.TW', '8220.TW', '8183.TW', '8232.TW', '8223.TW', '8194.TW', '8251.TW', '8215.TW', '8203.TW', '8205.TW', '8231.TW', '8214.TW', '8190.TW', '8248.TW', '8230.TW', '8225.TW', '8192.TW', '8243.TW', '8212.TW', '8250.TW', '8242.TW', '8188.TW', '8210.TW', '8211.TW', '8208.TW', '8221.TW', '8255.TW', '8177.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4720/9435 tried, 577 found
+
+80 Failed downloads:
+['8266.TW', '8303.TW', '8290.TW', '8305.TW', '8289.TW', '8298.TW', '8256.TW', '8283.TW', '8328.TW', '8299.TW', '8309.TW', '8315.TW', '8286.TW', '8331.TW', '8295.TW', '8273.TW', '8307.TW', '8257.TW', '8281.TW', '8332.TW', '8272.TW', '8292.TW', '8287.TW', '8278.TW', '8317.TW', '8297.TW', '8323.TW', '8285.TW', '8279.TW', '8267.TW', '8319.TW', '8320.TW', '8291.TW', '8326.TW', '8268.TW', '8276.TW', '8335.TW', '8316.TW', '8264.TW', '8296.TW', '8304.TW', '8334.TW', '8261.TW', '8312.TW', '8324.TW', '8284.TW', '8262.TW', '8270.TW', '8329.TW', '8313.TW', '8265.TW', '8314.TW', '8280.TW', '8294.TW', '8327.TW', '8318.TW', '8260.TW', '8277.TW', '8306.TW', '8274.TW', '8322.TW', '8301.TW', '8258.TW', '8333.TW', '8302.TW', '8288.TW', '8275.TW', '8269.TW', '8259.TW', '8311.TW', '8321.TW', '8330.TW', '8325.TW', '8263.TW', '8300.TW', '8271.TW', '8293.TW', '8308.TW', '8310.TW', '8282.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4800/9435 tried, 577 found
+
+80 Failed downloads:
+['8392.TW', '8401.TW', '8354.TW', '8348.TW', '8381.TW', '8353.TW', '8343.TW', '8411.TW', '8364.TW', '8396.TW', '8371.TW', '8344.TW', '8412.TW', '8339.TW', '8357.TW', '8388.TW', '8391.TW', '8376.TW', '8360.TW', '8361.TW', '8363.TW', '8374.TW', '8372.TW', '8383.TW', '8408.TW', '8375.TW', '8338.TW', '8378.TW', '8350.TW', '8347.TW', '8406.TW', '8405.TW', '8395.TW', '8384.TW', '8369.TW', '8345.TW', '8387.TW', '8404.TW', '8402.TW', '8399.TW', '8352.TW', '8356.TW', '8400.TW', '8403.TW', '8346.TW', '8366.TW', '8362.TW', '8351.TW', '8415.TW', '8367.TW', '8386.TW', '8368.TW', '8414.TW', '8380.TW', '8398.TW', '8340.TW', '8370.TW', '8342.TW', '8390.TW', '8410.TW', '8359.TW', '8393.TW', '8377.TW', '8394.TW', '8397.TW', '8385.TW', '8355.TW', '8336.TW', '8389.TW', '8379.TW', '8407.TW', '8337.TW', '8413.TW', '8341.TW', '8365.TW', '8409.TW', '8349.TW', '8373.TW', '8358.TW', '8382.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4880/9435 tried, 577 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+80 Failed downloads:
+['8477.TW', '8449.TW', '8445.TW', '8424.TW', '8434.TW', '8462.TW', '8468.TW', '8439.TW', '8489.TW', '8473.TW', '8479.TW', '8490.TW', '8450.TW', '8476.TW', '8421.TW', '8492.TW', '8459.TW', '8467.TW', '8487.TW', '8485.TW', '8493.TW', '8486.TW', '8451.TW', '8443.TW', '8472.TW', '8432.TW', '8466.TW', '8422.TW', '8461.TW', '8495.TW', '8437.TW', '8454.TW', '8428.TW', '8456.TW', '8463.TW', '8480.TW', '8429.TW', '8453.TW', '8471.TW', '8469.TW', '8491.TW', '8465.TW', '8426.TW', '8438.TW', '8444.TW', '8464.TW', '8494.TW', '8482.TW', '8452.TW', '8447.TW', '8431.TW', '8457.TW', '8423.TW', '8427.TW', '8418.TW', '8420.TW', '8455.TW', '8446.TW', '8433.TW', '8442.TW', '8478.TW', '8417.TW', '8483.TW', '8488.TW', '8474.TW', '8458.TW', '8435.TW', '8440.TW', '8484.TW', '8481.TW', '8470.TW', '8448.TW', '8419.TW', '8475.TW', '8436.TW', '8416.TW', '8460.TW', '8441.TW', '8430.TW', '8425.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+4960/9435 tried, 577 found
+
+80 Failed downloads:
+['8547.TW', '8565.TW', '8551.TW', '8509.TW', '8548.TW', '8505.TW', '8546.TW', '8562.TW', '8500.TW', '8517.TW', '8557.TW', '8537.TW', '8523.TW', '8563.TW', '8532.TW', '8528.TW', '8518.TW', '8559.TW', '8540.TW', '8504.TW', '8496.TW', '8572.TW', '8527.TW', '8535.TW', '8533.TW', '8574.TW', '8549.TW', '8525.TW', '8543.TW', '8542.TW', '8550.TW', '8503.TW', '8552.TW', '8569.TW', '8558.TW', '8510.TW', '8564.TW', '8531.TW', '8561.TW', '8515.TW', '8520.TW', '8541.TW', '8529.TW', '8524.TW', '8536.TW', '8513.TW', '8570.TW', '8534.TW', '8538.TW', '8575.TW', '8530.TW', '8555.TW', '8545.TW', '8566.TW', '8567.TW', '8521.TW', '8498.TW', '8499.TW', '8501.TW', '8556.TW', '8568.TW', '8544.TW', '8519.TW', '8553.TW', '8497.TW', '8560.TW', '8571.TW', '8539.TW', '8511.TW', '8508.TW', '8502.TW', '8526.TW', '8514.TW', '8522.TW', '8506.TW', '8573.TW', '8554.TW', '8516.TW', '8512.TW', '8507.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5040/9435 tried, 577 found
+
+80 Failed downloads:
+['8607.TW', '8627.TW', '8635.TW', '8605.TW', '8603.TW', '8655.TW', '8643.TW', '8604.TW', '8591.TW', '8600.TW', '8576.TW', '8654.TW', '8597.TW', '8621.TW', '8652.TW', '8622.TW', '8586.TW', '8646.TW', '8645.TW', '8601.TW', '8619.TW', '8608.TW', '8637.TW', '8595.TW', '8624.TW', '8640.TW', '8628.TW', '8583.TW', '8592.TW', '8582.TW', '8578.TW', '8653.TW', '8631.TW', '8581.TW', '8580.TW', '8629.TW', '8648.TW', '8649.TW', '8598.TW', '8584.TW', '8599.TW', '8613.TW', '8630.TW', '8612.TW', '8615.TW', '8633.TW', '8593.TW', '8616.TW', '8617.TW', '8590.TW', '8614.TW', '8623.TW', '8594.TW', '8620.TW', '8641.TW', '8596.TW', '8632.TW', '8587.TW', '8638.TW', '8634.TW', '8644.TW', '8647.TW', '8579.TW', '8589.TW', '8625.TW', '8577.TW', '8618.TW', '8651.TW', '8626.TW', '8602.TW', '8639.TW', '8610.TW', '8611.TW', '8636.TW', '8606.TW', '8585.TW', '8609.TW', '8650.TW', '8588.TW', '8642.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5120/9435 tried, 577 found
+
+80 Failed downloads:
+['8685.TW', '8709.TW', '8733.TW', '8723.TW', '8663.TW', '8678.TW', '8690.TW', '8727.TW', '8720.TW', '8691.TW', '8661.TW', '8710.TW', '8725.TW', '8696.TW', '8667.TW', '8728.TW', '8671.TW', '8708.TW', '8713.TW', '8657.TW', '8712.TW', '8715.TW', '8697.TW', '8676.TW', '8716.TW', '8662.TW', '8701.TW', '8693.TW', '8711.TW', '8670.TW', '8702.TW', '8686.TW', '8687.TW', '8694.TW', '8699.TW', '8677.TW', '8705.TW', '8707.TW', '8735.TW', '8688.TW', '8683.TW', '8734.TW', '8679.TW', '8718.TW', '8695.TW', '8684.TW', '8665.TW', '8706.TW', '8714.TW', '8704.TW', '8680.TW', '8681.TW', '8703.TW', '8730.TW', '8660.TW', '8722.TW', '8668.TW', '8673.TW', '8659.TW', '8731.TW', '8674.TW', '8656.TW', '8698.TW', '8675.TW', '8719.TW', '8689.TW', '8664.TW', '8669.TW', '8666.TW', '8682.TW', '8700.TW', '8672.TW', '8729.TW', '8732.TW', '8717.TW', '8724.TW', '8721.TW', '8692.TW', '8658.TW', '8726.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5200/9435 tried, 577 found
+
+80 Failed downloads:
+['8764.TW', '8756.TW', '8740.TW', '8814.TW', '8790.TW', '8805.TW', '8779.TW', '8802.TW', '8758.TW', '8797.TW', '8787.TW', '8804.TW', '8777.TW', '8743.TW', '8781.TW', '8799.TW', '8793.TW', '8771.TW', '8753.TW', '8796.TW', '8778.TW', '8759.TW', '8780.TW', '8770.TW', '8803.TW', '8742.TW', '8757.TW', '8761.TW', '8739.TW', '8798.TW', '8737.TW', '8751.TW', '8754.TW', '8773.TW', '8746.TW', '8752.TW', '8747.TW', '8812.TW', '8765.TW', '8813.TW', '8767.TW', '8736.TW', '8738.TW', '8792.TW', '8795.TW', '8810.TW', '8794.TW', '8776.TW', '8791.TW', '8762.TW', '8811.TW', '8815.TW', '8775.TW', '8755.TW', '8741.TW', '8801.TW', '8788.TW', '8809.TW', '8784.TW', '8745.TW', '8763.TW', '8760.TW', '8807.TW', '8769.TW', '8774.TW', '8783.TW', '8782.TW', '8766.TW', '8749.TW', '8808.TW', '8806.TW', '8744.TW', '8748.TW', '8768.TW', '8750.TW', '8786.TW', '8800.TW', '8785.TW', '8772.TW', '8789.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5280/9435 tried, 577 found
+
+80 Failed downloads:
+['8894.TW', '8816.TW', '8878.TW', '8824.TW', '8890.TW', '8862.TW', '8891.TW', '8842.TW', '8885.TW', '8881.TW', '8889.TW', '8827.TW', '8864.TW', '8821.TW', '8834.TW', '8835.TW', '8872.TW', '8833.TW', '8839.TW', '8844.TW', '8859.TW', '8849.TW', '8828.TW', '8837.TW', '8825.TW', '8886.TW', '8858.TW', '8856.TW', '8829.TW', '8820.TW', '8873.TW', '8877.TW', '8823.TW', '8861.TW', '8830.TW', '8860.TW', '8855.TW', '8852.TW', '8879.TW', '8826.TW', '8819.TW', '8869.TW', '8843.TW', '8868.TW', '8851.TW', '8892.TW', '8817.TW', '8838.TW', '8880.TW', '8818.TW', '8863.TW', '8867.TW', '8845.TW', '8866.TW', '8888.TW', '8850.TW', '8865.TW', '8857.TW', '8874.TW', '8870.TW', '8841.TW', '8822.TW', '8887.TW', '8875.TW', '8836.TW', '8847.TW', '8846.TW', '8876.TW', '8848.TW', '8840.TW', '8853.TW', '8831.TW', '8893.TW', '8832.TW', '8883.TW', '8882.TW', '8871.TW', '8854.TW', '8884.TW', '8895.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5360/9435 tried, 577 found
+
+80 Failed downloads:
+['8925.TW', '8938.TW', '8930.TW', '8921.TW', '8941.TW', '8932.TW', '8898.TW', '8951.TW', '8914.TW', '8966.TW', '8912.TW', '8916.TW', '8909.TW', '8933.TW', '8904.TW', '8959.TW', '8903.TW', '8947.TW', '8973.TW', '8967.TW', '8901.TW', '8911.TW', '8942.TW', '8900.TW', '8949.TW', '8975.TW', '8950.TW', '8908.TW', '8955.TW', '8958.TW', '8937.TW', '8924.TW', '8934.TW', '8962.TW', '8946.TW', '8919.TW', '8902.TW', '8960.TW', '8943.TW', '8935.TW', '8918.TW', '8931.TW', '8954.TW', '8905.TW', '8970.TW', '8917.TW', '8897.TW', '8922.TW', '8945.TW', '8936.TW', '8939.TW', '8974.TW', '8896.TW', '8969.TW', '8953.TW', '8956.TW', '8948.TW', '8964.TW', '8899.TW', '8952.TW', '8915.TW', '8907.TW', '8963.TW', '8957.TW', '8944.TW', '8923.TW', '8920.TW', '8965.TW', '8926.TW', '8929.TW', '8972.TW', '8961.TW', '8910.TW', '8971.TW', '8927.TW', '8968.TW', '8913.TW', '8928.TW', '8906.TW', '8940.TW']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5440/9435 tried, 577 found
+
+80 Failed downloads:
+['8985.TW', '0015.HK', '0029.HK', '0034.HK', '0020.HK', '0018.HK', '0012.HK', '0050.HK', '8994.TW', '0011.HK', '0028.HK', '8987.TW', '0023.HK', '0008.HK', '0038.HK', '0033.HK', '0043.HK', '8999.TW', '8977.TW', '0021.HK', '8988.TW', '8991.TW', '8989.TW', '0009.HK', '0051.HK', '8978.TW', '0058.HK', '0054.HK', '0010.HK', '8992.TW', '8981.TW', '8998.TW', '0047.HK', '0017.HK', '0037.HK', '8983.TW', '0055.HK', '0040.HK', '0013.HK', '0022.HK', '0036.HK', '0031.HK', '0019.HK', '0003.HK', '0046.HK', '0025.HK', '0027.HK', '0001.HK', '0035.HK', '0030.HK', '8976.TW', '0041.HK', '0004.HK', '0044.HK', '8997.TW', '8984.TW', '0052.HK', '8979.TW', '0024.HK', '0026.HK', '8980.TW', '8995.TW', '0053.HK', '0048.HK', '0016.HK', '0042.HK', '0007.HK', '8982.TW', '0006.HK', '0002.HK', '0049.HK', '8986.TW', '0057.HK', '8993.TW', '0039.HK', '8990.TW', '0032.HK', '0056.HK', '0005.HK', '0014.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5520/9435 tried, 577 found
+
+66 Failed downloads:
+['0109.HK', '0138.HK', '0119.HK', '0139.HK', '0083.HK', '0074.HK', '0101.HK', '0096.HK', '0137.HK', '0091.HK', '0099.HK', '0102.HK', '0089.HK', '0133.HK', '0135.HK', '0111.HK', '0125.HK', '0095.HK', '0112.HK', '0070.HK', '0120.HK', '0059.HK', '0115.HK', '0076.HK', '0098.HK', '0087.HK', '0134.HK', '0117.HK', '0067.HK', '0121.HK', '0062.HK', '0100.HK', '0136.HK', '0108.HK', '0093.HK', '0085.HK', '0130.HK', '0126.HK', '0103.HK', '0086.HK', '0068.HK', '0092.HK', '0084.HK', '0127.HK', '0072.HK', '0082.HK', '0110.HK', '0132.HK', '0129.HK', '0113.HK', '0065.HK', '0064.HK', '0094.HK', '0131.HK', '0114.HK', '0122.HK', '0079.HK', '0071.HK', '0106.HK', '0060.HK', '0061.HK', '0116.HK', '0069.HK', '0078.HK', '0105.HK', '0090.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5600/9435 tried, 591 found
+
+74 Failed downloads:
+['0161.HK', '0207.HK', '0152.HK', '0155.HK', '0179.HK', '0154.HK', '0149.HK', '0215.HK', '0143.HK', '0168.HK', '0213.HK', '0153.HK', '0203.HK', '0148.HK', '0169.HK', '0216.HK', '0160.HK', '0218.HK', '0157.HK', '0185.HK', '0217.HK', '0212.HK', '0195.HK', '0200.HK', '0177.HK', '0150.HK', '0205.HK', '0166.HK', '0170.HK', '0178.HK', '0158.HK', '0183.HK', '0173.HK', '0165.HK', '0198.HK', '0156.HK', '0171.HK', '0196.HK', '0190.HK', '0181.HK', '0163.HK', '0164.HK', '0142.HK', '0191.HK', '0174.HK', '0159.HK', '0186.HK', '0193.HK', '0197.HK', '0184.HK', '0219.HK', '0175.HK', '0188.HK', '0140.HK', '0208.HK', '0214.HK', '0151.HK', '0192.HK', '0182.HK', '0146.HK', '0209.HK', '0180.HK', '0187.HK', '0147.HK', '0220.HK', '0176.HK', '0141.HK', '0206.HK', '0172.HK', '0199.HK', '0211.HK', '0189.HK', '0210.HK', '0145.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5680/9435 tried, 597 found
+
+77 Failed downloads:
+['0282.HK', '0277.HK', '0295.HK', '0291.HK', '0237.HK', '0264.HK', '0224.HK', '0251.HK', '0293.HK', '0235.HK', '0249.HK', '0229.HK', '0225.HK', '0221.HK', '0231.HK', '0258.HK', '0243.HK', '0274.HK', '0236.HK', '0297.HK', '0269.HK', '0244.HK', '0246.HK', '0275.HK', '0257.HK', '0228.HK', '0263.HK', '0242.HK', '0298.HK', '0288.HK', '0278.HK', '0260.HK', '0292.HK', '0232.HK', '0247.HK', '0286.HK', '0267.HK', '0285.HK', '0239.HK', '0289.HK', '0265.HK', '0262.HK', '0254.HK', '0240.HK', '0284.HK', '0230.HK', '0300.HK', '0270.HK', '0272.HK', '0259.HK', '0280.HK', '0226.HK', '0233.HK', '0253.HK', '0283.HK', '0248.HK', '0227.HK', '0268.HK', '0276.HK', '0241.HK', '0238.HK', '0294.HK', '0266.HK', '0287.HK', '0222.HK', '0261.HK', '0250.HK', '0271.HK', '0299.HK', '0252.HK', '0223.HK', '0273.HK', '0296.HK', '0290.HK', '0245.HK', '0281.HK', '0255.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5760/9435 tried, 600 found
+
+63 Failed downloads:
+['0359.HK', '0338.HK', '0348.HK', '0305.HK', '0339.HK', '0353.HK', '0318.HK', '0332.HK', '0366.HK', '0377.HK', '0306.HK', '0314.HK', '0365.HK', '0368.HK', '0308.HK', '0376.HK', '0330.HK', '0327.HK', '0358.HK', '0320.HK', '0352.HK', '0373.HK', '0307.HK', '0310.HK', '0303.HK', '0357.HK', '0364.HK', '0329.HK', '0375.HK', '0324.HK', '0343.HK', '0312.HK', '0356.HK', '0333.HK', '0367.HK', '0313.HK', '0335.HK', '0342.HK', '0344.HK', '0321.HK', '0363.HK', '0349.HK', '0371.HK', '0351.HK', '0319.HK', '0379.HK', '0317.HK', '0325.HK', '0336.HK', '0372.HK', '0322.HK', '0304.HK', '0345.HK', '0323.HK', '0301.HK', '0361.HK', '0378.HK', '0331.HK', '0328.HK', '0350.HK', '0380.HK', '0315.HK', '0311.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5840/9435 tried, 617 found
+
+79 Failed downloads:
+['0421.HK', '0394.HK', '0404.HK', '0415.HK', '0447.HK', '0386.HK', '0430.HK', '0445.HK', '0401.HK', '0435.HK', '0452.HK', '0383.HK', '0451.HK', '0385.HK', '0393.HK', '0439.HK', '0437.HK', '0409.HK', '0382.HK', '0425.HK', '0406.HK', '0399.HK', '0428.HK', '0461.HK', '0384.HK', '0400.HK', '0427.HK', '0381.HK', '0457.HK', '0388.HK', '0395.HK', '0410.HK', '0419.HK', '0429.HK', '0416.HK', '0450.HK', '0426.HK', '0440.HK', '0418.HK', '0436.HK', '0423.HK', '0455.HK', '0441.HK', '0460.HK', '0389.HK', '0424.HK', '0446.HK', '0459.HK', '0411.HK', '0462.HK', '0438.HK', '0422.HK', '0442.HK', '0405.HK', '0456.HK', '0387.HK', '0453.HK', '0397.HK', '0448.HK', '0449.HK', '0412.HK', '0396.HK', '0414.HK', '0444.HK', '0390.HK', '0392.HK', '0407.HK', '0432.HK', '0434.HK', '0443.HK', '0458.HK', '0420.HK', '0402.HK', '0431.HK', '0454.HK', '0398.HK', '0417.HK', '0413.HK', '0391.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+5920/9435 tried, 618 found
+
+74 Failed downloads:
+['0473.HK', '0463.HK', '0531.HK', '0467.HK', '0508.HK', '0483.HK', '0532.HK', '0512.HK', '0480.HK', '0465.HK', '0470.HK', '0522.HK', '0495.HK', '0502.HK', '0538.HK', '0475.HK', '0478.HK', '0529.HK', '0504.HK', '0517.HK', '0494.HK', '0468.HK', '0499.HK', '0506.HK', '0518.HK', '0489.HK', '0464.HK', '0476.HK', '0488.HK', '0492.HK', '0507.HK', '0530.HK', '0535.HK', '0514.HK', '0472.HK', '0513.HK', '0486.HK', '0505.HK', '0469.HK', '0541.HK', '0501.HK', '0523.HK', '0503.HK', '0520.HK', '0516.HK', '0471.HK', '0519.HK', '0533.HK', '0474.HK', '0525.HK', '0493.HK', '0484.HK', '0497.HK', '0528.HK', '0511.HK', '0542.HK', '0540.HK', '0490.HK', '0521.HK', '0491.HK', '0510.HK', '0539.HK', '0487.HK', '0515.HK', '0527.HK', '0500.HK', '0466.HK', '0477.HK', '0479.HK', '0496.HK', '0536.HK', '0481.HK', '0534.HK', '0482.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6000/9435 tried, 624 found
+
+78 Failed downloads:
+['0545.HK', '0548.HK', '0556.HK', '0583.HK', '0602.HK', '0622.HK', '0566.HK', '0618.HK', '0551.HK', '0573.HK', '0610.HK', '0579.HK', '0608.HK', '0613.HK', '0559.HK', '0625.HK', '0565.HK', '0599.HK', '0588.HK', '0614.HK', '0621.HK', '0600.HK', '0564.HK', '0549.HK', '0575.HK', '0591.HK', '0550.HK', '0576.HK', '0552.HK', '0624.HK', '0572.HK', '0598.HK', '0553.HK', '0592.HK', '0555.HK', '0561.HK', '0571.HK', '0580.HK', '0586.HK', '0597.HK', '0567.HK', '0570.HK', '0560.HK', '0584.HK', '0604.HK', '0627.HK', '0558.HK', '0587.HK', '0595.HK', '0557.HK', '0569.HK', '0589.HK', '0562.HK', '0615.HK', '0601.HK', '0612.HK', '0554.HK', '0596.HK', '0616.HK', '0605.HK', '0543.HK', '0582.HK', '0623.HK', '0593.HK', '0607.HK', '0568.HK', '0585.HK', '0578.HK', '0594.HK', '0617.HK', '0590.HK', '0609.HK', '0611.HK', '0577.HK', '0626.HK', '0581.HK', '0544.HK', '0574.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6080/9435 tried, 626 found
+
+80 Failed downloads:
+['0654.HK', '0649.HK', '0706.HK', '0652.HK', '0655.HK', '0674.HK', '0690.HK', '0672.HK', '0681.HK', '0701.HK', '0643.HK', '0635.HK', '0688.HK', '0673.HK', '0658.HK', '0663.HK', '0696.HK', '0667.HK', '0628.HK', '0651.HK', '0638.HK', '0693.HK', '0679.HK', '0639.HK', '0694.HK', '0668.HK', '0656.HK', '0703.HK', '0629.HK', '0689.HK', '0675.HK', '0702.HK', '0692.HK', '0631.HK', '0666.HK', '0677.HK', '0669.HK', '0630.HK', '0661.HK', '0698.HK', '0645.HK', '0670.HK', '0662.HK', '0683.HK', '0686.HK', '0684.HK', '0642.HK', '0657.HK', '0653.HK', '0637.HK', '0685.HK', '0697.HK', '0644.HK', '0671.HK', '0705.HK', '0678.HK', '0695.HK', '0633.HK', '0640.HK', '0650.HK', '0648.HK', '0699.HK', '0700.HK', '0641.HK', '0660.HK', '0647.HK', '0646.HK', '0707.HK', '0664.HK', '0691.HK', '0634.HK', '0676.HK', '0687.HK', '0636.HK', '0680.HK', '0704.HK', '0665.HK', '0682.HK', '0659.HK', '0632.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6160/9435 tried, 626 found
+
+75 Failed downloads:
+['0735.HK', '0742.HK', '0734.HK', '0752.HK', '0769.HK', '0762.HK', '0739.HK', '0751.HK', '0747.HK', '0716.HK', '0738.HK', '0710.HK', '0733.HK', '0745.HK', '0729.HK', '0771.HK', '0721.HK', '0763.HK', '0719.HK', '0749.HK', '0748.HK', '0766.HK', '0725.HK', '0755.HK', '0722.HK', '0756.HK', '0744.HK', '0774.HK', '0779.HK', '0782.HK', '0713.HK', '0765.HK', '0785.HK', '0727.HK', '0709.HK', '0737.HK', '0712.HK', '0784.HK', '0718.HK', '0750.HK', '0708.HK', '0761.HK', '0743.HK', '0780.HK', '0770.HK', '0726.HK', '0758.HK', '0775.HK', '0746.HK', '0753.HK', '0778.HK', '0717.HK', '0736.HK', '0759.HK', '0723.HK', '0728.HK', '0720.HK', '0757.HK', '0787.HK', '0767.HK', '0724.HK', '0776.HK', '0781.HK', '0741.HK', '0754.HK', '0786.HK', '0740.HK', '0714.HK', '0788.HK', '0772.HK', '0783.HK', '0715.HK', '0773.HK', '0777.HK', '0768.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6240/9435 tried, 631 found
+
+78 Failed downloads:
+['0849.HK', '0843.HK', '0868.HK', '0833.HK', '0859.HK', '0809.HK', '0831.HK', '0818.HK', '0846.HK', '0808.HK', '0806.HK', '0839.HK', '0810.HK', '0817.HK', '0852.HK', '0795.HK', '0838.HK', '0823.HK', '0858.HK', '0863.HK', '0804.HK', '0848.HK', '0850.HK', '0866.HK', '0799.HK', '0830.HK', '0857.HK', '0851.HK', '0794.HK', '0814.HK', '0824.HK', '0802.HK', '0792.HK', '0816.HK', '0853.HK', '0837.HK', '0834.HK', '0865.HK', '0829.HK', '0813.HK', '0790.HK', '0862.HK', '0797.HK', '0812.HK', '0807.HK', '0836.HK', '0805.HK', '0867.HK', '0861.HK', '0819.HK', '0847.HK', '0825.HK', '0864.HK', '0844.HK', '0845.HK', '0832.HK', '0800.HK', '0827.HK', '0789.HK', '0856.HK', '0791.HK', '0793.HK', '0821.HK', '0803.HK', '0860.HK', '0801.HK', '0840.HK', '0854.HK', '0841.HK', '0798.HK', '0855.HK', '0828.HK', '0796.HK', '0842.HK', '0822.HK', '0826.HK', '0835.HK', '0820.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6320/9435 tried, 633 found
+
+79 Failed downloads:
+['0949.HK', '0877.HK', '0940.HK', '0875.HK', '0910.HK', '0909.HK', '0947.HK', '0944.HK', '0881.HK', '0913.HK', '0892.HK', '0896.HK', '0886.HK', '0907.HK', '0924.HK', '0921.HK', '0936.HK', '0922.HK', '0902.HK', '0899.HK', '0939.HK', '0914.HK', '0878.HK', '0887.HK', '0903.HK', '0943.HK', '0906.HK', '0911.HK', '0927.HK', '0926.HK', '0889.HK', '0872.HK', '0879.HK', '0950.HK', '0888.HK', '0937.HK', '0920.HK', '0916.HK', '0900.HK', '0874.HK', '0931.HK', '0897.HK', '0908.HK', '0935.HK', '0919.HK', '0948.HK', '0938.HK', '0915.HK', '0912.HK', '0885.HK', '0882.HK', '0880.HK', '0945.HK', '0901.HK', '0898.HK', '0925.HK', '0871.HK', '0928.HK', '0904.HK', '0894.HK', '0942.HK', '0941.HK', '0918.HK', '0873.HK', '0946.HK', '0883.HK', '0891.HK', '0934.HK', '0905.HK', '0869.HK', '0890.HK', '0932.HK', '0917.HK', '0876.HK', '0895.HK', '0923.HK', '0930.HK', '0884.HK', '0870.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6400/9435 tried, 634 found
+
+79 Failed downloads:
+['0967.HK', '1031.HK', '1017.HK', '1006.HK', '1020.HK', '1026.HK', '0979.HK', '0980.HK', '0973.HK', '1028.HK', '0959.HK', '1005.HK', '0990.HK', '0954.HK', '1021.HK', '0993.HK', '0964.HK', '1009.HK', '1001.HK', '0975.HK', '0955.HK', '0985.HK', '0999.HK', '1019.HK', '0963.HK', '0971.HK', '0974.HK', '1016.HK', '1022.HK', '1015.HK', '1012.HK', '0981.HK', '1024.HK', '0969.HK', '0988.HK', '0987.HK', '0992.HK', '0982.HK', '0968.HK', '1010.HK', '0952.HK', '1023.HK', '1030.HK', '0972.HK', '1013.HK', '0989.HK', '0956.HK', '0970.HK', '0961.HK', '0965.HK', '1000.HK', '0996.HK', '0991.HK', '0997.HK', '0960.HK', '1014.HK', '1007.HK', '0995.HK', '0966.HK', '1008.HK', '0978.HK', '1002.HK', '0986.HK', '0998.HK', '1003.HK', '0983.HK', '0984.HK', '1029.HK', '1018.HK', '1025.HK', '0953.HK', '0962.HK', '0994.HK', '0951.HK', '0958.HK', '0957.HK', '1004.HK', '0977.HK', '0976.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6480/9435 tried, 635 found
+
+77 Failed downloads:
+['1035.HK', '1033.HK', '1047.HK', '1050.HK', '1080.HK', '1039.HK', '1069.HK', '1052.HK', '1061.HK', '1098.HK', '1090.HK', '1099.HK', '1106.HK', '1102.HK', '1046.HK', '1044.HK', '1053.HK', '1041.HK', '1055.HK', '1051.HK', '1083.HK', '1104.HK', '1037.HK', '1103.HK', '1048.HK', '1040.HK', '1081.HK', '1042.HK', '1109.HK', '1045.HK', '1088.HK', '1057.HK', '1100.HK', '1049.HK', '1060.HK', '1071.HK', '1084.HK', '1073.HK', '1056.HK', '1072.HK', '1110.HK', '1063.HK', '1075.HK', '1101.HK', '1059.HK', '1094.HK', '1095.HK', '1082.HK', '1036.HK', '1078.HK', '1086.HK', '1097.HK', '1034.HK', '1096.HK', '1068.HK', '1032.HK', '1108.HK', '1076.HK', '1054.HK', '1066.HK', '1043.HK', '1038.HK', '1065.HK', '1091.HK', '1058.HK', '1070.HK', '1105.HK', '1089.HK', '1079.HK', '1085.HK', '1062.HK', '1111.HK', '1092.HK', '1074.HK', '1077.HK', '1093.HK', '1067.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6560/9435 tried, 638 found
+
+78 Failed downloads:
+['1189.HK', '1178.HK', '1169.HK', '1124.HK', '1117.HK', '1132.HK', '1167.HK', '1140.HK', '1123.HK', '1120.HK', '1121.HK', '1180.HK', '1185.HK', '1165.HK', '1179.HK', '1137.HK', '1153.HK', '1119.HK', '1112.HK', '1182.HK', '1145.HK', '1126.HK', '1115.HK', '1133.HK', '1155.HK', '1147.HK', '1143.HK', '1129.HK', '1146.HK', '1164.HK', '1161.HK', '1188.HK', '1172.HK', '1183.HK', '1141.HK', '1184.HK', '1154.HK', '1157.HK', '1166.HK', '1139.HK', '1116.HK', '1177.HK', '1190.HK', '1134.HK', '1175.HK', '1148.HK', '1163.HK', '1138.HK', '1136.HK', '1170.HK', '1122.HK', '1142.HK', '1114.HK', '1135.HK', '1151.HK', '1160.HK', '1176.HK', '1156.HK', '1152.HK', '1130.HK', '1168.HK', '1131.HK', '1181.HK', '1125.HK', '1149.HK', '1150.HK', '1144.HK', '1187.HK', '1186.HK', '1113.HK', '1118.HK', '1128.HK', '1159.HK', '1174.HK', '1171.HK', '1127.HK', '1173.HK', '1158.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6640/9435 tried, 640 found
+
+76 Failed downloads:
+['1214.HK', '1263.HK', '1226.HK', '1205.HK', '1266.HK', '1220.HK', '1257.HK', '1240.HK', '1260.HK', '1262.HK', '1233.HK', '1247.HK', '1258.HK', '1224.HK', '1219.HK', '1210.HK', '1198.HK', '1230.HK', '1239.HK', '1197.HK', '1246.HK', '1268.HK', '1215.HK', '1192.HK', '1237.HK', '1223.HK', '1194.HK', '1211.HK', '1256.HK', '1267.HK', '1253.HK', '1259.HK', '1243.HK', '1208.HK', '1236.HK', '1232.HK', '1207.HK', '1195.HK', '1241.HK', '1231.HK', '1201.HK', '1213.HK', '1254.HK', '1265.HK', '1255.HK', '1248.HK', '1271.HK', '1221.HK', '1228.HK', '1203.HK', '1212.HK', '1252.HK', '1196.HK', '1218.HK', '1227.HK', '1238.HK', '1250.HK', '1202.HK', '1251.HK', '1235.HK', '1204.HK', '1234.HK', '1193.HK', '1229.HK', '1200.HK', '1244.HK', '1245.HK', '1225.HK', '1270.HK', '1209.HK', '1206.HK', '1261.HK', '1264.HK', '1249.HK', '1242.HK', '1217.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6720/9435 tried, 644 found
+
+76 Failed downloads:
+['1350.HK', '1344.HK', '1296.HK', '1276.HK', '1348.HK', '1333.HK', '1320.HK', '1341.HK', '1332.HK', '1299.HK', '1325.HK', '1287.HK', '1280.HK', '1326.HK', '1292.HK', '1285.HK', '1288.HK', '1322.HK', '1346.HK', '1337.HK', '1300.HK', '1306.HK', '1351.HK', '1331.HK', '1314.HK', '1321.HK', '1313.HK', '1339.HK', '1275.HK', '1290.HK', '1334.HK', '1327.HK', '1301.HK', '1307.HK', '1315.HK', '1298.HK', '1349.HK', '1277.HK', '1336.HK', '1338.HK', '1342.HK', '1305.HK', '1308.HK', '1282.HK', '1319.HK', '1323.HK', '1312.HK', '1311.HK', '1335.HK', '1278.HK', '1295.HK', '1317.HK', '1291.HK', '1309.HK', '1279.HK', '1284.HK', '1316.HK', '1302.HK', '1283.HK', '1293.HK', '1318.HK', '1329.HK', '1345.HK', '1294.HK', '1272.HK', '1347.HK', '1310.HK', '1274.HK', '1289.HK', '1281.HK', '1328.HK', '1343.HK', '1297.HK', '1330.HK', '1273.HK', '1324.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6800/9435 tried, 648 found
+
+80 Failed downloads:
+['1430.HK', '1424.HK', '1356.HK', '1376.HK', '1425.HK', '1401.HK', '1405.HK', '1381.HK', '1418.HK', '1387.HK', '1372.HK', '1412.HK', '1370.HK', '1352.HK', '1399.HK', '1389.HK', '1409.HK', '1382.HK', '1397.HK', '1391.HK', '1361.HK', '1354.HK', '1364.HK', '1369.HK', '1384.HK', '1353.HK', '1395.HK', '1359.HK', '1407.HK', '1393.HK', '1383.HK', '1423.HK', '1417.HK', '1408.HK', '1416.HK', '1390.HK', '1373.HK', '1413.HK', '1426.HK', '1371.HK', '1410.HK', '1421.HK', '1432.HK', '1420.HK', '1411.HK', '1429.HK', '1362.HK', '1428.HK', '1375.HK', '1357.HK', '1358.HK', '1365.HK', '1396.HK', '1377.HK', '1419.HK', '1374.HK', '1378.HK', '1422.HK', '1403.HK', '1414.HK', '1363.HK', '1385.HK', '1360.HK', '1398.HK', '1386.HK', '1404.HK', '1402.HK', '1368.HK', '1427.HK', '1406.HK', '1367.HK', '1355.HK', '1388.HK', '1366.HK', '1394.HK', '1380.HK', '1392.HK', '1415.HK', '1400.HK', '1431.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6880/9435 tried, 648 found
+
+76 Failed downloads:
+['1510.HK', '1484.HK', '1445.HK', '1483.HK', '1449.HK', '1464.HK', '1490.HK', '1442.HK', '1508.HK', '1458.HK', '1477.HK', '1456.HK', '1496.HK', '1505.HK', '1499.HK', '1504.HK', '1453.HK', '1478.HK', '1475.HK', '1434.HK', '1476.HK', '1491.HK', '1462.HK', '1440.HK', '1482.HK', '1471.HK', '1467.HK', '1480.HK', '1444.HK', '1487.HK', '1466.HK', '1460.HK', '1507.HK', '1437.HK', '1455.HK', '1489.HK', '1501.HK', '1452.HK', '1450.HK', '1461.HK', '1439.HK', '1503.HK', '1502.HK', '1485.HK', '1441.HK', '1433.HK', '1500.HK', '1454.HK', '1495.HK', '1492.HK', '1468.HK', '1463.HK', '1465.HK', '1438.HK', '1451.HK', '1486.HK', '1446.HK', '1488.HK', '1481.HK', '1474.HK', '1436.HK', '1472.HK', '1493.HK', '1512.HK', '1459.HK', '1457.HK', '1494.HK', '1506.HK', '1479.HK', '1448.HK', '1473.HK', '1469.HK', '1435.HK', '1447.HK', '1509.HK', '1511.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+6960/9435 tried, 652 found
+
+78 Failed downloads:
+['1514.HK', '1562.HK', '1535.HK', '1579.HK', '1583.HK', '1519.HK', '1580.HK', '1513.HK', '1574.HK', '1589.HK', '1518.HK', '1563.HK', '1551.HK', '1527.HK', '1548.HK', '1553.HK', '1584.HK', '1581.HK', '1542.HK', '1538.HK', '1540.HK', '1582.HK', '1570.HK', '1530.HK', '1533.HK', '1549.HK', '1569.HK', '1531.HK', '1592.HK', '1517.HK', '1573.HK', '1559.HK', '1522.HK', '1572.HK', '1578.HK', '1543.HK', '1575.HK', '1588.HK', '1566.HK', '1593.HK', '1516.HK', '1586.HK', '1567.HK', '1571.HK', '1541.HK', '1524.HK', '1556.HK', '1537.HK', '1547.HK', '1529.HK', '1577.HK', '1554.HK', '1544.HK', '1521.HK', '1564.HK', '1539.HK', '1576.HK', '1557.HK', '1546.HK', '1520.HK', '1523.HK', '1587.HK', '1585.HK', '1590.HK', '1555.HK', '1528.HK', '1536.HK', '1552.HK', '1568.HK', '1558.HK', '1561.HK', '1515.HK', '1532.HK', '1534.HK', '1560.HK', '1565.HK', '1550.HK', '1525.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7040/9435 tried, 654 found
+
+78 Failed downloads:
+['1634.HK', '1624.HK', '1650.HK', '1652.HK', '1637.HK', '1613.HK', '1657.HK', '1640.HK', '1614.HK', '1638.HK', '1604.HK', '1597.HK', '1598.HK', '1595.HK', '1645.HK', '1616.HK', '1635.HK', '1662.HK', '1601.HK', '1617.HK', '1605.HK', '1658.HK', '1602.HK', '1653.HK', '1646.HK', '1627.HK', '1603.HK', '1620.HK', '1654.HK', '1594.HK', '1625.HK', '1623.HK', '1608.HK', '1648.HK', '1611.HK', '1673.HK', '1618.HK', '1621.HK', '1607.HK', '1596.HK', '1612.HK', '1610.HK', '1632.HK', '1663.HK', '1600.HK', '1628.HK', '1661.HK', '1667.HK', '1665.HK', '1599.HK', '1629.HK', '1644.HK', '1619.HK', '1668.HK', '1642.HK', '1651.HK', '1659.HK', '1655.HK', '1636.HK', '1649.HK', '1622.HK', '1631.HK', '1639.HK', '1615.HK', '1643.HK', '1609.HK', '1641.HK', '1664.HK', '1647.HK', '1672.HK', '1669.HK', '1670.HK', '1666.HK', '1606.HK', '1630.HK', '1671.HK', '1660.HK', '1633.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7120/9435 tried, 656 found
+
+79 Failed downloads:
+['1694.HK', '1695.HK', '1713.HK', '1683.HK', '1731.HK', '1726.HK', '1703.HK', '1735.HK', '1701.HK', '1741.HK', '1749.HK', '1697.HK', '1742.HK', '1750.HK', '1709.HK', '1727.HK', '1746.HK', '1676.HK', '1712.HK', '1717.HK', '1686.HK', '1753.HK', '1751.HK', '1708.HK', '1696.HK', '1733.HK', '1707.HK', '1732.HK', '1705.HK', '1687.HK', '1719.HK', '1723.HK', '1674.HK', '1678.HK', '1740.HK', '1714.HK', '1693.HK', '1706.HK', '1681.HK', '1692.HK', '1685.HK', '1744.HK', '1702.HK', '1690.HK', '1724.HK', '1704.HK', '1716.HK', '1682.HK', '1747.HK', '1698.HK', '1736.HK', '1728.HK', '1739.HK', '1748.HK', '1680.HK', '1743.HK', '1738.HK', '1737.HK', '1745.HK', '1689.HK', '1677.HK', '1715.HK', '1725.HK', '1730.HK', '1711.HK', '1710.HK', '1752.HK', '1729.HK', '1722.HK', '1691.HK', '1700.HK', '1734.HK', '1718.HK', '1699.HK', '1720.HK', '1679.HK', '1675.HK', '1721.HK', '1684.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7200/9435 tried, 657 found
+
+79 Failed downloads:
+['1791.HK', '1761.HK', '1804.HK', '1777.HK', '1792.HK', '1812.HK', '1797.HK', '1785.HK', '1824.HK', '1756.HK', '1780.HK', '1781.HK', '1831.HK', '1805.HK', '1827.HK', '1828.HK', '1783.HK', '1779.HK', '1829.HK', '1822.HK', '1765.HK', '1773.HK', '1760.HK', '1776.HK', '1763.HK', '1782.HK', '1771.HK', '1826.HK', '1810.HK', '1793.HK', '1778.HK', '1770.HK', '1798.HK', '1758.HK', '1825.HK', '1807.HK', '1815.HK', '1762.HK', '1796.HK', '1832.HK', '1821.HK', '1794.HK', '1806.HK', '1786.HK', '1774.HK', '1809.HK', '1784.HK', '1790.HK', '1754.HK', '1775.HK', '1813.HK', '1764.HK', '1819.HK', '1814.HK', '1772.HK', '1800.HK', '1799.HK', '1830.HK', '1768.HK', '1808.HK', '1833.HK', '1818.HK', '1817.HK', '1795.HK', '1802.HK', '1823.HK', '1789.HK', '1811.HK', '1788.HK', '1801.HK', '1787.HK', '1767.HK', '1820.HK', '1759.HK', '1816.HK', '1766.HK', '1769.HK', '1757.HK', '1803.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7280/9435 tried, 658 found
+
+79 Failed downloads:
+['1838.HK', '1902.HK', '1901.HK', '1846.HK', '1853.HK', '1856.HK', '1905.HK', '1859.HK', '1874.HK', '1858.HK', '1869.HK', '1887.HK', '1880.HK', '1882.HK', '1851.HK', '1892.HK', '1862.HK', '1914.HK', '1891.HK', '1899.HK', '1875.HK', '1861.HK', '1837.HK', '1913.HK', '1836.HK', '1909.HK', '1910.HK', '1911.HK', '1860.HK', '1876.HK', '1871.HK', '1834.HK', '1881.HK', '1888.HK', '1904.HK', '1877.HK', '1894.HK', '1907.HK', '1893.HK', '1839.HK', '1872.HK', '1854.HK', '1863.HK', '1857.HK', '1849.HK', '1844.HK', '1867.HK', '1847.HK', '1878.HK', '1845.HK', '1873.HK', '1855.HK', '1848.HK', '1865.HK', '1852.HK', '1890.HK', '1864.HK', '1898.HK', '1896.HK', '1886.HK', '1835.HK', '1883.HK', '1908.HK', '1912.HK', '1889.HK', '1900.HK', '1879.HK', '1897.HK', '1841.HK', '1842.HK', '1850.HK', '1868.HK', '1866.HK', '1906.HK', '1870.HK', '1840.HK', '1884.HK', '1843.HK', '1885.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7360/9435 tried, 659 found
+
+73 Failed downloads:
+['1923.HK', '1946.HK', '1933.HK', '1959.HK', '1963.HK', '1920.HK', '1916.HK', '1926.HK', '1981.HK', '1951.HK', '1956.HK', '1952.HK', '1924.HK', '1928.HK', '1989.HK', '1921.HK', '1982.HK', '1973.HK', '1915.HK', '1960.HK', '1984.HK', '1975.HK', '1979.HK', '1990.HK', '1948.HK', '1954.HK', '1931.HK', '1950.HK', '1978.HK', '1966.HK', '1969.HK', '1936.HK', '1964.HK', '1937.HK', '1935.HK', '1974.HK', '1918.HK', '1934.HK', '1940.HK', '1942.HK', '1972.HK', '1994.HK', '1985.HK', '1947.HK', '1971.HK', '1922.HK', '1941.HK', '1949.HK', '1991.HK', '1943.HK', '1980.HK', '1929.HK', '1976.HK', '1968.HK', '1962.HK', '1955.HK', '1965.HK', '1939.HK', '1945.HK', '1953.HK', '1983.HK', '1977.HK', '1925.HK', '1930.HK', '1932.HK', '1970.HK', '1919.HK', '1944.HK', '1958.HK', '1967.HK', '1957.HK', '1992.HK', '1927.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7440/9435 tried, 666 found
+
+78 Failed downloads:
+['2010.HK', '2061.HK', '2060.HK', '2042.HK', '2028.HK', '2009.HK', '2065.HK', '2025.HK', '2019.HK', '2037.HK', '2036.HK', '2040.HK', '2058.HK', '2007.HK', '2070.HK', '2053.HK', '2002.HK', '2041.HK', '2039.HK', '2071.HK', '2012.HK', '2001.HK', '2017.HK', '2005.HK', '2026.HK', '1999.HK', '2044.HK', '2054.HK', '2027.HK', '2055.HK', '2033.HK', '2050.HK', '1997.HK', '2057.HK', '2024.HK', '2000.HK', '2020.HK', '2023.HK', '2074.HK', '2072.HK', '2047.HK', '2038.HK', '2063.HK', '2003.HK', '2013.HK', '2066.HK', '2064.HK', '1995.HK', '2031.HK', '2046.HK', '2014.HK', '2032.HK', '2075.HK', '2068.HK', '2004.HK', '2021.HK', '2043.HK', '2052.HK', '2059.HK', '2029.HK', '2073.HK', '2022.HK', '2016.HK', '2069.HK', '2062.HK', '2067.HK', '2006.HK', '2045.HK', '2015.HK', '2034.HK', '2008.HK', '1998.HK', '2011.HK', '2030.HK', '2049.HK', '2035.HK', '2056.HK', '2051.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7520/9435 tried, 668 found
+
+77 Failed downloads:
+['2093.HK', '2090.HK', '2089.HK', '2144.HK', '2118.HK', '2138.HK', '2129.HK', '2149.HK', '2137.HK', '2153.HK', '2133.HK', '2104.HK', '2146.HK', '2081.HK', '2151.HK', '2140.HK', '2078.HK', '2108.HK', '2114.HK', '2082.HK', '2083.HK', '2120.HK', '2091.HK', '2087.HK', '2135.HK', '2127.HK', '2085.HK', '2126.HK', '2096.HK', '2086.HK', '2132.HK', '2106.HK', '2119.HK', '2097.HK', '2103.HK', '2095.HK', '2094.HK', '2092.HK', '2147.HK', '2101.HK', '2134.HK', '2115.HK', '2100.HK', '2088.HK', '2155.HK', '2145.HK', '2077.HK', '2130.HK', '2143.HK', '2099.HK', '2116.HK', '2109.HK', '2102.HK', '2131.HK', '2142.HK', '2113.HK', '2080.HK', '2084.HK', '2148.HK', '2098.HK', '2141.HK', '2123.HK', '2154.HK', '2152.HK', '2110.HK', '2111.HK', '2136.HK', '2125.HK', '2124.HK', '2128.HK', '2121.HK', '2122.HK', '2079.HK', '2117.HK', '2112.HK', '2105.HK', '2076.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7600/9435 tried, 671 found
+
+78 Failed downloads:
+['2206.HK', '2191.HK', '2172.HK', '2177.HK', '2196.HK', '2229.HK', '2211.HK', '2164.HK', '2181.HK', '2161.HK', '2168.HK', '2201.HK', '2178.HK', '2222.HK', '2203.HK', '2212.HK', '2225.HK', '2213.HK', '2156.HK', '2169.HK', '2195.HK', '2162.HK', '2221.HK', '2198.HK', '2226.HK', '2232.HK', '2175.HK', '2197.HK', '2216.HK', '2214.HK', '2192.HK', '2163.HK', '2219.HK', '2173.HK', '2174.HK', '2223.HK', '2186.HK', '2189.HK', '2184.HK', '2234.HK', '2204.HK', '2167.HK', '2228.HK', '2171.HK', '2199.HK', '2227.HK', '2160.HK', '2220.HK', '2179.HK', '2194.HK', '2215.HK', '2231.HK', '2188.HK', '2176.HK', '2159.HK', '2210.HK', '2166.HK', '2209.HK', '2170.HK', '2218.HK', '2207.HK', '2200.HK', '2230.HK', '2205.HK', '2202.HK', '2217.HK', '2180.HK', '2233.HK', '2224.HK', '2193.HK', '2185.HK', '2183.HK', '2187.HK', '2157.HK', '2190.HK', '2235.HK', '2158.HK', '2208.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7680/9435 tried, 673 found
+
+79 Failed downloads:
+['2264.HK', '2248.HK', '2308.HK', '2267.HK', '2298.HK', '2282.HK', '2237.HK', '2296.HK', '2311.HK', '2309.HK', '2304.HK', '2244.HK', '2239.HK', '2292.HK', '2272.HK', '2261.HK', '2300.HK', '2280.HK', '2294.HK', '2289.HK', '2305.HK', '2254.HK', '2315.HK', '2290.HK', '2279.HK', '2274.HK', '2314.HK', '2302.HK', '2288.HK', '2258.HK', '2312.HK', '2256.HK', '2310.HK', '2242.HK', '2273.HK', '2262.HK', '2306.HK', '2277.HK', '2236.HK', '2271.HK', '2301.HK', '2260.HK', '2303.HK', '2259.HK', '2276.HK', '2247.HK', '2246.HK', '2269.HK', '2245.HK', '2291.HK', '2250.HK', '2287.HK', '2293.HK', '2241.HK', '2266.HK', '2257.HK', '2251.HK', '2278.HK', '2253.HK', '2299.HK', '2265.HK', '2297.HK', '2275.HK', '2238.HK', '2240.HK', '2249.HK', '2243.HK', '2283.HK', '2263.HK', '2295.HK', '2270.HK', '2313.HK', '2252.HK', '2284.HK', '2285.HK', '2307.HK', '2255.HK', '2286.HK', '2281.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7760/9435 tried, 674 found
+
+75 Failed downloads:
+['2365.HK', '2344.HK', '2384.HK', '2323.HK', '2395.HK', '2338.HK', '2326.HK', '2324.HK', '2380.HK', '2392.HK', '2388.HK', '2362.HK', '2343.HK', '2327.HK', '2364.HK', '2373.HK', '2350.HK', '2349.HK', '2386.HK', '2372.HK', '2366.HK', '2342.HK', '2333.HK', '2346.HK', '2383.HK', '2317.HK', '2319.HK', '2351.HK', '2381.HK', '2385.HK', '2358.HK', '2390.HK', '2328.HK', '2352.HK', '2378.HK', '2332.HK', '2359.HK', '2329.HK', '2393.HK', '2376.HK', '2382.HK', '2318.HK', '2369.HK', '2360.HK', '2339.HK', '2325.HK', '2341.HK', '2337.HK', '2322.HK', '2374.HK', '2367.HK', '2375.HK', '2363.HK', '2389.HK', '2336.HK', '2348.HK', '2347.HK', '2316.HK', '2387.HK', '2377.HK', '2394.HK', '2354.HK', '2334.HK', '2368.HK', '2340.HK', '2357.HK', '2361.HK', '2321.HK', '2355.HK', '2345.HK', '2391.HK', '2370.HK', '2379.HK', '2371.HK', '2353.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7840/9435 tried, 679 found
+
+79 Failed downloads:
+['2414.HK', '2447.HK', '2448.HK', '2424.HK', '2463.HK', '2422.HK', '2425.HK', '2446.HK', '2454.HK', '2438.HK', '2428.HK', '2432.HK', '2427.HK', '2436.HK', '2413.HK', '2465.HK', '2403.HK', '2423.HK', '2475.HK', '2405.HK', '2456.HK', '2426.HK', '2411.HK', '2472.HK', '2453.HK', '2457.HK', '2469.HK', '2420.HK', '2466.HK', '2450.HK', '2452.HK', '2441.HK', '2396.HK', '2402.HK', '2442.HK', '2467.HK', '2474.HK', '2430.HK', '2445.HK', '2407.HK', '2421.HK', '2409.HK', '2397.HK', '2460.HK', '2444.HK', '2398.HK', '2459.HK', '2440.HK', '2458.HK', '2433.HK', '2415.HK', '2464.HK', '2401.HK', '2406.HK', '2439.HK', '2449.HK', '2443.HK', '2419.HK', '2437.HK', '2418.HK', '2468.HK', '2470.HK', '2429.HK', '2399.HK', '2408.HK', '2451.HK', '2435.HK', '2461.HK', '2404.HK', '2412.HK', '2471.HK', '2410.HK', '2434.HK', '2431.HK', '2417.HK', '2400.HK', '2416.HK', '2473.HK', '2462.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+7920/9435 tried, 680 found
+
+79 Failed downloads:
+['2484.HK', '2492.HK', '2553.HK', '2502.HK', '2489.HK', '2551.HK', '2501.HK', '2546.HK', '2525.HK', '2479.HK', '2549.HK', '2498.HK', '2520.HK', '2503.HK', '2493.HK', '2512.HK', '2530.HK', '2482.HK', '2548.HK', '2518.HK', '2532.HK', '2528.HK', '2509.HK', '2527.HK', '2537.HK', '2514.HK', '2541.HK', '2485.HK', '2481.HK', '2495.HK', '2523.HK', '2539.HK', '2477.HK', '2510.HK', '2490.HK', '2476.HK', '2554.HK', '2522.HK', '2483.HK', '2555.HK', '2494.HK', '2478.HK', '2511.HK', '2500.HK', '2513.HK', '2499.HK', '2543.HK', '2480.HK', '2526.HK', '2545.HK', '2517.HK', '2542.HK', '2496.HK', '2544.HK', '2491.HK', '2538.HK', '2533.HK', '2486.HK', '2540.HK', '2487.HK', '2550.HK', '2505.HK', '2508.HK', '2536.HK', '2488.HK', '2524.HK', '2521.HK', '2507.HK', '2506.HK', '2529.HK', '2547.HK', '2516.HK', '2531.HK', '2497.HK', '2552.HK', '2515.HK', '2535.HK', '2504.HK', '2534.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8000/9435 tried, 681 found
+
+77 Failed downloads:
+['2584.HK', '2612.HK', '2569.HK', '2583.HK', '2600.HK', '2562.HK', '2586.HK', '2610.HK', '2611.HK', '2560.HK', '2632.HK', '2613.HK', '2635.HK', '2601.HK', '2603.HK', '2566.HK', '2620.HK', '2578.HK', '2606.HK', '2605.HK', '2598.HK', '2558.HK', '2595.HK', '2587.HK', '2579.HK', '2561.HK', '2631.HK', '2568.HK', '2608.HK', '2563.HK', '2576.HK', '2567.HK', '2559.HK', '2614.HK', '2609.HK', '2556.HK', '2602.HK', '2581.HK', '2634.HK', '2627.HK', '2582.HK', '2604.HK', '2596.HK', '2591.HK', '2597.HK', '2615.HK', '2630.HK', '2621.HK', '2557.HK', '2571.HK', '2589.HK', '2575.HK', '2625.HK', '2594.HK', '2570.HK', '2616.HK', '2607.HK', '2593.HK', '2585.HK', '2592.HK', '2623.HK', '2599.HK', '2633.HK', '2618.HK', '2565.HK', '2573.HK', '2628.HK', '2622.HK', '2617.HK', '2590.HK', '2626.HK', '2564.HK', '2624.HK', '2619.HK', '2588.HK', '2574.HK', '2572.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8080/9435 tried, 684 found
+
+77 Failed downloads:
+['2686.HK', '2636.HK', '2675.HK', '2639.HK', '2659.HK', '2709.HK', '2662.HK', '2640.HK', '2689.HK', '2680.HK', '2674.HK', '2656.HK', '2668.HK', '2646.HK', '2652.HK', '2687.HK', '2637.HK', '2655.HK', '2707.HK', '2672.HK', '2703.HK', '2673.HK', '2647.HK', '2700.HK', '2679.HK', '2660.HK', '2661.HK', '2683.HK', '2706.HK', '2704.HK', '2685.HK', '2711.HK', '2651.HK', '2654.HK', '2666.HK', '2641.HK', '2648.HK', '2664.HK', '2699.HK', '2698.HK', '2688.HK', '2695.HK', '2653.HK', '2714.HK', '2677.HK', '2684.HK', '2649.HK', '2669.HK', '2715.HK', '2692.HK', '2665.HK', '2696.HK', '2658.HK', '2705.HK', '2713.HK', '2708.HK', '2697.HK', '2694.HK', '2642.HK', '2691.HK', '2690.HK', '2657.HK', '2667.HK', '2682.HK', '2712.HK', '2702.HK', '2671.HK', '2645.HK', '2670.HK', '2650.HK', '2663.HK', '2643.HK', '2693.HK', '2710.HK', '2644.HK', '2681.HK', '2676.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8160/9435 tried, 687 found
+
+79 Failed downloads:
+['2735.HK', '2753.HK', '2721.HK', '2781.HK', '2764.HK', '2740.HK', '2736.HK', '2782.HK', '2793.HK', '2757.HK', '2741.HK', '2745.HK', '2779.HK', '2756.HK', '2776.HK', '2751.HK', '2734.HK', '2792.HK', '2770.HK', '2717.HK', '2742.HK', '2730.HK', '2762.HK', '2772.HK', '2789.HK', '2761.HK', '2729.HK', '2774.HK', '2727.HK', '2768.HK', '2787.HK', '2796.HK', '2724.HK', '2759.HK', '2738.HK', '2763.HK', '2719.HK', '2780.HK', '2758.HK', '2744.HK', '2748.HK', '2746.HK', '2790.HK', '2794.HK', '2743.HK', '2767.HK', '2791.HK', '2755.HK', '2739.HK', '2725.HK', '2716.HK', '2795.HK', '2754.HK', '2783.HK', '2769.HK', '2722.HK', '2749.HK', '2720.HK', '2733.HK', '2786.HK', '2773.HK', '2750.HK', '2775.HK', '2760.HK', '2784.HK', '2752.HK', '2771.HK', '2737.HK', '2726.HK', '2766.HK', '2723.HK', '2778.HK', '2732.HK', '2765.HK', '2731.HK', '2747.HK', '2785.HK', '2728.HK', '2718.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8240/9435 tried, 688 found
+
+80 Failed downloads:
+['2856.HK', '2874.HK', '2825.HK', '2840.HK', '2820.HK', '2798.HK', '2803.HK', '2837.HK', '2824.HK', '2871.HK', '2844.HK', '2831.HK', '2804.HK', '2833.HK', '2875.HK', '2819.HK', '2866.HK', '2851.HK', '2797.HK', '2865.HK', '2876.HK', '2853.HK', '2818.HK', '2816.HK', '2857.HK', '2855.HK', '2852.HK', '2841.HK', '2822.HK', '2873.HK', '2830.HK', '2846.HK', '2845.HK', '2799.HK', '2864.HK', '2854.HK', '2829.HK', '2811.HK', '2809.HK', '2843.HK', '2806.HK', '2828.HK', '2842.HK', '2847.HK', '2868.HK', '2802.HK', '2839.HK', '2848.HK', '2823.HK', '2850.HK', '2849.HK', '2835.HK', '2872.HK', '2860.HK', '2827.HK', '2870.HK', '2838.HK', '2807.HK', '2869.HK', '2862.HK', '2800.HK', '2805.HK', '2867.HK', '2861.HK', '2808.HK', '2859.HK', '2832.HK', '2812.HK', '2826.HK', '2801.HK', '2821.HK', '2813.HK', '2834.HK', '2836.HK', '2817.HK', '2863.HK', '2810.HK', '2814.HK', '2858.HK', '2815.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8320/9435 tried, 688 found
+
+80 Failed downloads:
+['2952.HK', '2935.HK', '2896.HK', '2919.HK', '2932.HK', '2941.HK', '2951.HK', '2886.HK', '2905.HK', '2953.HK', '2959.HK', '2899.HK', '2887.HK', '2893.HK', '2920.HK', '2939.HK', '2911.HK', '2894.HK', '2924.HK', '2884.HK', '2877.HK', '2903.HK', '2921.HK', '2891.HK', '2904.HK', '2927.HK', '2943.HK', '2916.HK', '2929.HK', '2956.HK', '2938.HK', '2926.HK', '2954.HK', '2948.HK', '2928.HK', '2878.HK', '2889.HK', '2880.HK', '2923.HK', '2901.HK', '2908.HK', '2955.HK', '2945.HK', '2892.HK', '2958.HK', '2914.HK', '2940.HK', '2897.HK', '2934.HK', '2937.HK', '2917.HK', '2946.HK', '2885.HK', '2913.HK', '2888.HK', '2947.HK', '2879.HK', '2882.HK', '2915.HK', '2922.HK', '2944.HK', '2930.HK', '2902.HK', '2949.HK', '2890.HK', '2883.HK', '2933.HK', '2950.HK', '2957.HK', '2918.HK', '2925.HK', '2909.HK', '2931.HK', '2912.HK', '2898.HK', '2936.HK', '2910.HK', '2906.HK', '2895.HK', '2900.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8400/9435 tried, 688 found
+
+80 Failed downloads:
+['2972.HK', '3000.HK', '2988.HK', '3039.HK', '3032.HK', '2985.HK', '2960.HK', '2987.HK', '2967.HK', '3027.HK', '3029.HK', '3037.HK', '2995.HK', '2992.HK', '2971.HK', '2980.HK', '2993.HK', '3002.HK', '2969.HK', '3022.HK', '3024.HK', '3034.HK', '3004.HK', '3031.HK', '2965.HK', '2997.HK', '3008.HK', '3003.HK', '2989.HK', '3018.HK', '2986.HK', '3005.HK', '2994.HK', '2982.HK', '3016.HK', '3023.HK', '3035.HK', '3009.HK', '3010.HK', '3006.HK', '3015.HK', '2991.HK', '3019.HK', '3038.HK', '3020.HK', '2996.HK', '2976.HK', '3028.HK', '3030.HK', '2961.HK', '2983.HK', '3025.HK', '3014.HK', '3033.HK', '2964.HK', '3001.HK', '2975.HK', '2998.HK', '3036.HK', '2963.HK', '2981.HK', '3021.HK', '2984.HK', '2999.HK', '3013.HK', '2990.HK', '2966.HK', '2978.HK', '3026.HK', '2970.HK', '2979.HK', '3012.HK', '3017.HK', '2977.HK', '2962.HK', '2968.HK', '2974.HK', '2973.HK', '3007.HK', '3011.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8480/9435 tried, 688 found
+
+77 Failed downloads:
+['3058.HK', '3106.HK', '3092.HK', '3107.HK', '3046.HK', '3059.HK', '3112.HK', '3076.HK', '3043.HK', '3057.HK', '3067.HK', '3071.HK', '3084.HK', '3068.HK', '3111.HK', '3105.HK', '3074.HK', '3078.HK', '3091.HK', '3044.HK', '3082.HK', '3047.HK', '3040.HK', '3085.HK', '3063.HK', '3065.HK', '3049.HK', '3113.HK', '3117.HK', '3102.HK', '3060.HK', '3096.HK', '3086.HK', '3073.HK', '3089.HK', '3041.HK', '3103.HK', '3051.HK', '3116.HK', '3098.HK', '3045.HK', '3050.HK', '3080.HK', '3053.HK', '3070.HK', '3081.HK', '3062.HK', '3090.HK', '3087.HK', '3099.HK', '3115.HK', '3052.HK', '3055.HK', '3083.HK', '3048.HK', '3095.HK', '3114.HK', '3066.HK', '3100.HK', '3042.HK', '3056.HK', '3097.HK', '3093.HK', '3118.HK', '3079.HK', '3077.HK', '3094.HK', '3061.HK', '3069.HK', '3054.HK', '3108.HK', '3104.HK', '3072.HK', '3075.HK', '3109.HK', '3101.HK', '3064.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8560/9435 tried, 691 found
+
+76 Failed downloads:
+['3125.HK', '3138.HK', '3177.HK', '3124.HK', '3128.HK', '3194.HK', '3173.HK', '3142.HK', '3159.HK', '3133.HK', '3139.HK', '3186.HK', '3153.HK', '3155.HK', '3197.HK', '3126.HK', '3137.HK', '3188.HK', '3171.HK', '3135.HK', '3141.HK', '3175.HK', '3120.HK', '3132.HK', '3150.HK', '3140.HK', '3147.HK', '3176.HK', '3196.HK', '3143.HK', '3174.HK', '3131.HK', '3169.HK', '3172.HK', '3130.HK', '3158.HK', '3122.HK', '3195.HK', '3162.HK', '3168.HK', '3121.HK', '3136.HK', '3151.HK', '3164.HK', '3123.HK', '3127.HK', '3185.HK', '3184.HK', '3189.HK', '3148.HK', '3199.HK', '3187.HK', '3192.HK', '3157.HK', '3193.HK', '3152.HK', '3183.HK', '3179.HK', '3149.HK', '3163.HK', '3191.HK', '3145.HK', '3180.HK', '3181.HK', '3182.HK', '3154.HK', '3160.HK', '3144.HK', '3146.HK', '3161.HK', '3198.HK', '3167.HK', '3178.HK', '3165.HK', '3166.HK', '3170.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8640/9435 tried, 695 found
+
+80 Failed downloads:
+['3203.HK', '3213.HK', '3259.HK', '3271.HK', '3207.HK', '3221.HK', '3229.HK', '3273.HK', '3257.HK', '3265.HK', '3208.HK', '3262.HK', '3250.HK', '3219.HK', '3264.HK', '3255.HK', '3253.HK', '3217.HK', '3204.HK', '3216.HK', '3200.HK', '3243.HK', '3220.HK', '3247.HK', '3227.HK', '3223.HK', '3270.HK', '3274.HK', '3226.HK', '3256.HK', '3278.HK', '3214.HK', '3231.HK', '3215.HK', '3244.HK', '3234.HK', '3277.HK', '3235.HK', '3201.HK', '3268.HK', '3237.HK', '3222.HK', '3272.HK', '3224.HK', '3230.HK', '3242.HK', '3249.HK', '3248.HK', '3228.HK', '3236.HK', '3267.HK', '3205.HK', '3202.HK', '3261.HK', '3240.HK', '3210.HK', '3254.HK', '3218.HK', '3275.HK', '3245.HK', '3241.HK', '3206.HK', '3263.HK', '3251.HK', '3260.HK', '3233.HK', '3246.HK', '3232.HK', '3212.HK', '3211.HK', '3269.HK', '3238.HK', '3258.HK', '3279.HK', '3252.HK', '3276.HK', '3239.HK', '3209.HK', '3225.HK', '3266.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8720/9435 tried, 695 found
+
+80 Failed downloads:
+['3359.HK', '3331.HK', '3351.HK', '3346.HK', '3326.HK', '3335.HK', '3283.HK', '3358.HK', '3297.HK', '3307.HK', '3280.HK', '3313.HK', '3348.HK', '3305.HK', '3344.HK', '3308.HK', '3338.HK', '3329.HK', '3322.HK', '3281.HK', '3340.HK', '3301.HK', '3304.HK', '3298.HK', '3353.HK', '3349.HK', '3289.HK', '3332.HK', '3342.HK', '3299.HK', '3343.HK', '3352.HK', '3288.HK', '3300.HK', '3318.HK', '3284.HK', '3306.HK', '3357.HK', '3337.HK', '3334.HK', '3321.HK', '3356.HK', '3315.HK', '3330.HK', '3290.HK', '3310.HK', '3314.HK', '3341.HK', '3285.HK', '3354.HK', '3302.HK', '3287.HK', '3295.HK', '3355.HK', '3350.HK', '3317.HK', '3293.HK', '3324.HK', '3328.HK', '3291.HK', '3339.HK', '3311.HK', '3319.HK', '3312.HK', '3282.HK', '3303.HK', '3347.HK', '3336.HK', '3286.HK', '3294.HK', '3327.HK', '3292.HK', '3316.HK', '3309.HK', '3325.HK', '3323.HK', '3333.HK', '3320.HK', '3345.HK', '3296.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8800/9435 tried, 695 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+78 Failed downloads:
+['3381.HK', '3417.HK', '3375.HK', '3366.HK', '3421.HK', '3408.HK', '3425.HK', '3370.HK', '3426.HK', '3385.HK', '3362.HK', '3412.HK', '3368.HK', '3434.HK', '3379.HK', '3414.HK', '3398.HK', '3409.HK', '3428.HK', '3397.HK', '3406.HK', '3373.HK', '3390.HK', '3416.HK', '3439.HK', '3380.HK', '3419.HK', '3394.HK', '3383.HK', '3386.HK', '3377.HK', '3429.HK', '3387.HK', '3433.HK', '3361.HK', '3402.HK', '3413.HK', '3432.HK', '3438.HK', '3435.HK', '3388.HK', '3369.HK', '3423.HK', '3393.HK', '3415.HK', '3431.HK', '3437.HK', '3424.HK', '3363.HK', '3365.HK', '3367.HK', '3400.HK', '3401.HK', '3392.HK', '3399.HK', '3395.HK', '3371.HK', '3427.HK', '3384.HK', '3376.HK', '3436.HK', '3403.HK', '3364.HK', '3430.HK', '3418.HK', '3382.HK', '3396.HK', '3410.HK', '3405.HK', '3422.HK', '3360.HK', '3372.HK', '3411.HK', '3374.HK', '3407.HK', '3391.HK', '3378.HK', '3404.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8880/9435 tried, 697 found
+
+77 Failed downloads:
+['3512.HK', '3468.HK', '3442.HK', '3491.HK', '3497.HK', '3463.HK', '3503.HK', '3462.HK', '3453.HK', '3471.HK', '3478.HK', '3456.HK', '3490.HK', '3489.HK', '3472.HK', '3510.HK', '3443.HK', '3450.HK', '3506.HK', '3464.HK', '3440.HK', '3449.HK', '3466.HK', '3474.HK', '3447.HK', '3481.HK', '3492.HK', '3479.HK', '3451.HK', '3441.HK', '3495.HK', '3455.HK', '3484.HK', '3517.HK', '3514.HK', '3496.HK', '3501.HK', '3469.HK', '3460.HK', '3457.HK', '3504.HK', '3475.HK', '3519.HK', '3452.HK', '3444.HK', '3454.HK', '3511.HK', '3493.HK', '3508.HK', '3485.HK', '3513.HK', '3515.HK', '3458.HK', '3520.HK', '3516.HK', '3486.HK', '3480.HK', '3483.HK', '3487.HK', '3461.HK', '3505.HK', '3509.HK', '3488.HK', '3476.HK', '3507.HK', '3502.HK', '3445.HK', '3467.HK', '3482.HK', '3470.HK', '3500.HK', '3518.HK', '3494.HK', '3498.HK', '3448.HK', '3446.HK', '3465.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+8960/9435 tried, 700 found
+
+80 Failed downloads:
+['3581.HK', '3554.HK', '3584.HK', '3572.HK', '3597.HK', '3553.HK', '3551.HK', '3555.HK', '3594.HK', '3566.HK', '3564.HK', '3525.HK', '3562.HK', '3544.HK', '3550.HK', '3570.HK', '3583.HK', '3571.HK', '3598.HK', '3589.HK', '3557.HK', '3532.HK', '3593.HK', '3537.HK', '3528.HK', '3521.HK', '3573.HK', '3568.HK', '3558.HK', '3582.HK', '3524.HK', '3530.HK', '3578.HK', '3561.HK', '3563.HK', '3591.HK', '3599.HK', '3527.HK', '3577.HK', '3556.HK', '3535.HK', '3595.HK', '3540.HK', '3587.HK', '3533.HK', '3575.HK', '3586.HK', '3559.HK', '3592.HK', '3526.HK', '3596.HK', '3580.HK', '3574.HK', '3541.HK', '3565.HK', '3588.HK', '3569.HK', '3567.HK', '3600.HK', '3579.HK', '3539.HK', '3522.HK', '3538.HK', '3529.HK', '3542.HK', '3545.HK', '3543.HK', '3536.HK', '3534.HK', '3523.HK', '3585.HK', '3590.HK', '3547.HK', '3552.HK', '3560.HK', '3546.HK', '3576.HK', '3548.HK', '3531.HK', '3549.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+9040/9435 tried, 700 found
+
+79 Failed downloads:
+['3612.HK', '3653.HK', '3659.HK', '3647.HK', '3642.HK', '3605.HK', '3657.HK', '3651.HK', '3656.HK', '3633.HK', '3661.HK', '3602.HK', '3652.HK', '3655.HK', '3662.HK', '3668.HK', '3637.HK', '3667.HK', '3621.HK', '3632.HK', '3679.HK', '3643.HK', '3623.HK', '3666.HK', '3618.HK', '3672.HK', '3610.HK', '3607.HK', '3665.HK', '3649.HK', '3629.HK', '3673.HK', '3601.HK', '3663.HK', '3608.HK', '3648.HK', '3622.HK', '3678.HK', '3614.HK', '3671.HK', '3641.HK', '3634.HK', '3639.HK', '3638.HK', '3609.HK', '3670.HK', '3674.HK', '3646.HK', '3650.HK', '3660.HK', '3644.HK', '3630.HK', '3616.HK', '3603.HK', '3676.HK', '3619.HK', '3613.HK', '3675.HK', '3631.HK', '3640.HK', '3626.HK', '3617.HK', '3654.HK', '3677.HK', '3615.HK', '3611.HK', '3664.HK', '3628.HK', '3635.HK', '3624.HK', '3620.HK', '3625.HK', '3627.HK', '3669.HK', '3680.HK', '3606.HK', '3604.HK', '3636.HK', '3645.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+9120/9435 tried, 701 found
+
+80 Failed downloads:
+['3758.HK', '3741.HK', '3703.HK', '3687.HK', '3743.HK', '3736.HK', '3705.HK', '3688.HK', '3684.HK', '3696.HK', '3754.HK', '3759.HK', '3699.HK', '3756.HK', '3723.HK', '3731.HK', '3728.HK', '3711.HK', '3720.HK', '3714.HK', '3744.HK', '3737.HK', '3742.HK', '3729.HK', '3692.HK', '3722.HK', '3730.HK', '3701.HK', '3693.HK', '3747.HK', '3717.HK', '3695.HK', '3681.HK', '3685.HK', '3724.HK', '3706.HK', '3697.HK', '3760.HK', '3740.HK', '3749.HK', '3682.HK', '3715.HK', '3710.HK', '3748.HK', '3691.HK', '3751.HK', '3716.HK', '3702.HK', '3683.HK', '3726.HK', '3713.HK', '3727.HK', '3755.HK', '3752.HK', '3757.HK', '3707.HK', '3739.HK', '3733.HK', '3753.HK', '3700.HK', '3712.HK', '3698.HK', '3718.HK', '3690.HK', '3686.HK', '3708.HK', '3750.HK', '3746.HK', '3719.HK', '3734.HK', '3709.HK', '3721.HK', '3732.HK', '3738.HK', '3725.HK', '3735.HK', '3704.HK', '3745.HK', '3689.HK', '3694.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+9200/9435 tried, 701 found
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+Crumb fetch rate-limited (HTTP 429), continuing without crumb
+
+78 Failed downloads:
+['3815.HK', '3785.HK', '3835.HK', '3838.HK', '3821.HK', '3832.HK', '3790.HK', '3841.HK', '3837.HK', '3768.HK', '3802.HK', '3776.HK', '3831.HK', '3766.HK', '3767.HK', '3796.HK', '3834.HK', '3765.HK', '3833.HK', '3761.HK', '3792.HK', '3763.HK', '3827.HK', '3812.HK', '3779.HK', '3813.HK', '3830.HK', '3771.HK', '3787.HK', '3799.HK', '3810.HK', '3836.HK', '3778.HK', '3780.HK', '3786.HK', '3795.HK', '3820.HK', '3819.HK', '3840.HK', '3797.HK', '3807.HK', '3811.HK', '3822.HK', '3808.HK', '3770.HK', '3823.HK', '3794.HK', '3800.HK', '3817.HK', '3826.HK', '3789.HK', '3804.HK', '3798.HK', '3772.HK', '3791.HK', '3818.HK', '3805.HK', '3764.HK', '3782.HK', '3769.HK', '3825.HK', '3773.HK', '3793.HK', '3809.HK', '3806.HK', '3784.HK', '3839.HK', '3803.HK', '3829.HK', '3783.HK', '3762.HK', '3801.HK', '3828.HK', '3775.HK', '3814.HK', '3824.HK', '3777.HK', '3781.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+9280/9435 tried, 703 found
+$3843.HK: No data found, symbol may be delisted
+
+78 Failed downloads:
+['3905.HK', '3885.HK', '3908.HK', '3892.HK', '3922.HK', '3872.HK', '3907.HK', '3906.HK', '3868.HK', '3842.HK', '3847.HK', '3901.HK', '3870.HK', '3903.HK', '3887.HK', '3916.HK', '3864.HK', '3904.HK', '3909.HK', '3867.HK', '3871.HK', '3890.HK', '3921.HK', '3863.HK', '3844.HK', '3862.HK', '3846.HK', '3884.HK', '3880.HK', '3853.HK', '3898.HK', '3851.HK', '3850.HK', '3855.HK', '3914.HK', '3874.HK', '3899.HK', '3860.HK', '3873.HK', '3918.HK', '3859.HK', '3894.HK', '3849.HK', '3876.HK', '3856.HK', '3919.HK', '3875.HK', '3920.HK', '3912.HK', '3915.HK', '3923.HK', '3902.HK', '3895.HK', '3900.HK', '3882.HK', '3878.HK', '3854.HK', '3917.HK', '3913.HK', '3897.HK', '3865.HK', '3911.HK', '3869.HK', '3910.HK', '3888.HK', '3852.HK', '3848.HK', '3924.HK', '3889.HK', '3866.HK', '3881.HK', '3891.HK', '3861.HK', '3845.HK', '3877.HK', '3857.HK', '3879.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+['3843.HK']: No data found, symbol may be delisted
+9360/9435 tried, 705 found
+
+75 Failed downloads:
+['3927.HK', '3948.HK', '3949.HK', '3972.HK', '3973.HK', '3939.HK', '3999.HK', '3978.HK', '3966.HK', '3955.HK', '3941.HK', '3993.HK', '3986.HK', '3951.HK', '3961.HK', '3974.HK', '3984.HK', '3996.HK', '3962.HK', '3959.HK', '3989.HK', '3977.HK', '3926.HK', '3979.HK', '3958.HK', '3995.HK', '3968.HK', '3928.HK', '3943.HK', '3953.HK', '3935.HK', '3970.HK', '3994.HK', '3965.HK', '3933.HK', '3960.HK', '3971.HK', '3947.HK', '3982.HK', '3942.HK', '3936.HK', '3956.HK', '3945.HK', '3931.HK', '3976.HK', '3992.HK', '3930.HK', '3991.HK', '3997.HK', '3925.HK', '3940.HK', '3952.HK', '3988.HK', '3938.HK', '3954.HK', '3987.HK', '3932.HK', '3963.HK', '3969.HK', '3990.HK', '3946.HK', '3967.HK', '3983.HK', '3980.HK', '3934.HK', '3981.HK', '3944.HK', '3985.HK', '3975.HK', '3998.HK', '3929.HK', '3964.HK', '3957.HK', '3937.HK', '3950.HK']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+9435/9435 tried, 705 found
